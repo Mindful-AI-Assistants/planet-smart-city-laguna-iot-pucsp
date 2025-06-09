@@ -33,7 +33,17 @@ The presentation showcases:
 - A fully integrated **Water & Energy monitoring dashboard**  
 - Predictive analytics using AI models  
 - Community engagement strategies driven by data  
-- Real-world deployment insights using **Starlink connectivity** and **Planet Smart City infrastructure**  
+- Real-world deployment insights using **Starlink connectivity** and **Planet Smart City infrastructure**
+
+<br>
+
+##  Overview
+
+This project is the final extension initiative developed by the CDIA (Data Science and Artificial Intelligence) group at PUC-SP, focusing on **smart water and energy systems** for the **Smart City Laguna**, located in the metropolitan region of Fortaleza, Brazil.
+
+The project integrates innovative urban technologies with community engagement, driven by international partnerships to promote sustainable and inclusive development.
+
+<br>
 
 
 
