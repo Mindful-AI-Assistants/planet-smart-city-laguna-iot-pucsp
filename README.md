@@ -45,5 +45,12 @@ The project integrates innovative urban technologies with community engagement, 
 
 <br>
 
+## About the Planet Smart City
 
+Founded in 2015 by **Giovanni Savio** (Global CEO) and **Susanna Marchionni** (CEO Brazil), Planet Smart City pioneers **smart, affordable housing** integrating technology, sustainability, and community participation.
 
+Key figures include **Stefano Buono**, physicist and former CERN researcher, who took his startup AAA public on NASDAQ before selling it to Novartis for $3.9 billion. He is currently President of LIFTT and CEO/co-founder of **Newcleo**, a next-generation nuclear technology company.
+
+🌐 [Planet Smart City – Official Site](https://planetsmartcity.com.br)
+
+<br>
