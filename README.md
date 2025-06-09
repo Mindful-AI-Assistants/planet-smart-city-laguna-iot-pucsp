@@ -54,3 +54,6 @@ Key figures include **Stefano Buono**, physicist and former CERN researcher, who
 🌐 [Planet Smart City – Official Site](https://planetsmartcity.com.br)
 
 <br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/92634302-feb0-47ad-8096-4ee7f9389650" />
