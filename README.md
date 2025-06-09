@@ -12,8 +12,7 @@
 
 <br><br>
 
- <p align="center">
-<img src="https://github.com/user-attachments/assets/20050582-5dcd-4a60-b5db-d345a8404479"/>
+
 
 
 <br><br>
@@ -26,7 +25,13 @@
 This initiative was developed in collaboration with **Planet Smart City**, **UN-Habitat**, and **Starlink**, aligning with the **UN Sustainable Development Goals (SDGs)** and emphasizing **social innovation, digital inclusion, and environmental intelligence**.
 
 
-<br>
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/20050582-5dcd-4a60-b5db-d345a8404479"/>
+
+
+<br><br>
 
 The presentation showcases:
 
