@@ -28,5 +28,5 @@ The presentation showcases:
 - Community engagement strategies driven by data  
 - Real-world deployment insights using **Starlink connectivity** and **Planet Smart City infrastructure**  
 
-**Project Motto:** _“Data with purpose. Innovation with empathy.”_
+#### [**Project Motto:** “Data for Good. Innovation with empathy]()
 
