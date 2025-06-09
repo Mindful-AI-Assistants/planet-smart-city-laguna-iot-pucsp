@@ -8,6 +8,7 @@
 
 # <p align="center"> 🌐 Innovation Hub for Water and Energy - Smart City Laguna IoT – Fortaleza, Brazil  
 ### <p align="center">In collaboration with Planet Smart City, PUC-SP Data Science & AI, UN-Habitat, and Starlink
+##### [Data for Good - Innovation with empathy]()
 
 <br><br>
 
@@ -34,5 +35,5 @@ The presentation showcases:
 - Community engagement strategies driven by data  
 - Real-world deployment insights using **Starlink connectivity** and **Planet Smart City infrastructure**  
 
-#### [**Project Motto:** “Data for Good. Innovation with empathy]()
+
 
