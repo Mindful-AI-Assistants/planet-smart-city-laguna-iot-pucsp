@@ -6,10 +6,18 @@
 <br><br>
  
 
-# <p align="center"> 🌐 Innovation Hub for Water and Energy - Smart City Laguna IoT – Fortaleza, Brazil  
-### <p align="center">In collaboration with Planet Smart City, PUC-SP Data Science & AI, UN-Habitat, and Starlink
+# <p align="center"> 🌐 **CDIA Nexus** Innovation Hub for Water and Energy - Smart City Laguna IoT – Fortaleza, Brazil  
+### <p align="center"> In collaboration with Planet Smart City, PUC-SP Data Science & AI, UN-Habitat, and Starlink
+##### <p align="center"> [Data for Good - Innovation with empathy]()
 
-<br>
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/20050582-5dcd-4a60-b5db-d345a8404479"/>
+
+
+<br><br>
+
 
 ##  Presentation Overview
 
@@ -25,7 +33,24 @@ The presentation showcases:
 - A fully integrated **Water & Energy monitoring dashboard**  
 - Predictive analytics using AI models  
 - Community engagement strategies driven by data  
-- Real-world deployment insights using **Starlink connectivity** and **Planet Smart City infrastructure**  
+- Real-world deployment insights using **Starlink connectivity** and **Planet Smart City infrastructure**
 
-#### [**Project Motto:** “Data for Good. Innovation with empathy]()
+<br>
 
+##  Overview
+
+This project is the final extension initiative developed by the CDIA (Data Science and Artificial Intelligence) group at PUC-SP, focusing on **smart water and energy systems** for the **Smart City Laguna**, located in the metropolitan region of Fortaleza, Brazil.
+
+The project integrates innovative urban technologies with community engagement, driven by international partnerships to promote sustainable and inclusive development.
+
+<br>
+
+## About the Planet Smart City
+
+Founded in 2015 by **Giovanni Savio** (Global CEO) and **Susanna Marchionni** (CEO Brazil), Planet Smart City pioneers **smart, affordable housing** integrating technology, sustainability, and community participation.
+
+Key figures include **Stefano Buono**, physicist and former CERN researcher, who took his startup AAA public on NASDAQ before selling it to Novartis for $3.9 billion. He is currently President of LIFTT and CEO/co-founder of **Newcleo**, a next-generation nuclear technology company.
+
+🌐 [Planet Smart City – Official Site](https://planetsmartcity.com.br)
+
+<br>
