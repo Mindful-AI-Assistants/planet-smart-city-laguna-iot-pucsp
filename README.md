@@ -90,7 +90,7 @@ Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Plane
 
 <br>
 
-### At the center of this ecosystem:  
+### [At the center of this ecosystem]():  
 
 **The Community Manager** — a trained professional dedicated to:
 
