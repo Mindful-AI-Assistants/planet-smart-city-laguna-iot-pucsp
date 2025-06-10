@@ -10,7 +10,7 @@
 
  <br><br>
 
-### <p align="center"> Smart City Laguna IoT – Fortaleza, Brazil  
+### <p align="center"> Smart City Laguna IoT – Fortaleza, Brazil 💛💚  
 
  <br><br>
 
