@@ -63,7 +63,7 @@ With a strong foundation in **interdisciplinary collaboration** and internationa
 
 <br>
 
-##  [Planet Smart City]():
+## 🌐 [Planet Smart City]():
 
 Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart City leads the global movement for **affordable, smart, and sustainable housing**. Their projects combine:
 
@@ -86,7 +86,9 @@ Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Plane
 - Public Wi-Fi and IoT backbone  
 - Sustainable urban mobility and lighting  
 - Rainwater drainage with permeable pavements  
-- Cultural, educational, and governance programs  
+- Cultural, educational, and governance programs
+
+<br>
 
 ### At the center of this ecosystem:  
 
@@ -94,5 +96,39 @@ Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Plane
 
 - Mobilizing participatory governance  
 - Promoting workshops, education, and engagement  
-- Nurturing social cohesion and long-term stewardship  
+- Nurturing social cohesion and long-term stewardship
+
+<br>  
+
+## 🌍 [Global Partnerships]():
+
+### Special thanks to [Pedro](), CEO of Proptech Brazil, for leading with empathy, respect, and integrity. The way you show up for others truly makes all the difference.
+
+We extend our heartfelt gratitude to the organizations and individuals who made the implementation of the CDIA PUC-SP possible. Special thanks to:
+
+<br>
+
+| **Organization**          | **Contribution**                                             |
+|---------------------------|--------------------------------------------------------------|
+| **United Nations (UN)**   | Funding for the acquisition of solar panels                  |
+| **PUC-SP (CDIA)**         | IoT and AI design and implementation                         |
+| **UN-Habitat**            | Technical support and ethical frameworks                     |
+| **Starlink**              | Satellite internet infrastructure                            |
+| **Planet Smart City**     | Urban development and on-site support                        |
+| **Proptech Brazil**       | Local deployment and strategic backing                       |
+
+
+<br>
+
+We also extend our gratitude to:
+
+- Local leaders and community members for their trust and ongoing collaboration.
+- The multidisciplinary technical team for their dedication to innovative and sustainable solutions.
+- Everyone who contributed, directly or indirectly, to bringing this vision to life.
+
+<br>
+
+### [Together](), these partners embody an integrated approach to achieving the **Sustainable Development Goals**, particularly in emerging regions. 💙🌎
+
+
 
