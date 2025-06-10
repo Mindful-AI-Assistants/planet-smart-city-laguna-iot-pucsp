@@ -49,10 +49,29 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 <img src="https://github.com/user-attachments/assets/20050582-5dcd-4a60-b5db-d345a8404479"/>
 -->
 
-<br><br>
+<br>
 
 ##  [Project Overview]():
 
 Developed by the **CDIA group at PUC-SP**, this extension project aims to optimize **smart resource management systems** in the Smart City Laguna – combining **technology**, **sustainability**, and **community innovation** to empower underserved regions.
 
 With a strong foundation in **interdisciplinary collaboration** and international cooperation, this initiative bridges data science with real-world applications to foster resilient, inclusive, and intelligent cities.
+
+Developed by the **CDIA group at PUC-SP**, this extension project aims to optimize **smart resource management systems** in the Smart City Laguna – combining **technology**, **sustainability**, and **community innovation** to empower underserved regions.
+
+With a strong foundation in **interdisciplinary collaboration** and international cooperation, this initiative bridges data science with real-world applications to foster resilient, inclusive, and intelligent cities.
+
+<br>
+
+##  Planet Smart City
+
+Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart City leads the global movement for **affordable, smart, and sustainable housing**. Their projects combine:
+
+- Advanced urban design  
+- Integrated technology  
+- Community-building initiatives  
+
+🌟 Key contributor: **Stefano Buono**, physicist and entrepreneur, former CERN researcher and founder of AAA (sold to Novartis for $3.9B), now President of LIFTT and CEO of **Newcleo** (clean nuclear innovation).
+
+🔗 [Visit Planet Smart City](https://planetsmartcity.com.br)
+
