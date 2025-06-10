@@ -35,9 +35,11 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 - An integrated **Water & Energy Monitoring Dashboard**  
 - Predictive analytics with AI models  
 - Community engagement through data-driven strategies  
-- Deployment insights using **Starlink connectivity** and Planet infrastructure  
+- Deployment insights using **Starlink connectivity** and Planet infrastructure
 
- _“Data 4 Good. Innovation with Meaning.”_
+<br>
+
+[ _“Data 4 Good. Innovation with Meaning.”_]()
 
 <br><br>
 
