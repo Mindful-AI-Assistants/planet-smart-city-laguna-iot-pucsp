@@ -49,32 +49,8 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 <br><br>
 
-The presentation showcases:
+##  [Project Overview]():
 
-- A fully integrated **Water & Energy monitoring dashboard**  
-- Predictive analytics using AI models  
-- Community engagement strategies driven by data  
-- Real-world deployment insights using **Starlink connectivity** and **Planet Smart City infrastructure**
+Developed by the **CDIA group at PUC-SP**, this extension project aims to optimize **smart resource management systems** in the Smart City Laguna – combining **technology**, **sustainability**, and **community innovation** to empower underserved regions.
 
-<br>
-
-##  Overview
-
-This project is the final extension initiative developed by the CDIA (Data Science and Artificial Intelligence) group at PUC-SP, focusing on **smart water and energy systems** for the **Smart City Laguna**, located in the metropolitan region of Fortaleza, Brazil.
-
-The project integrates innovative urban technologies with community engagement, driven by international partnerships to promote sustainable and inclusive development.
-
-<br>
-
-## About the Planet Smart City
-
-Founded in 2015 by **Giovanni Savio** (Global CEO) and **Susanna Marchionni** (CEO Brazil), Planet Smart City pioneers **smart, affordable housing** integrating technology, sustainability, and community participation.
-
-Key figures include **Stefano Buono**, physicist and former CERN researcher, who took his startup AAA public on NASDAQ before selling it to Novartis for $3.9 billion. He is currently President of LIFTT and CEO/co-founder of **Newcleo**, a next-generation nuclear technology company.
-
-🌐 [Planet Smart City – Official Site](https://planetsmartcity.com.br)
-
-<br>
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/92634302-feb0-47ad-8096-4ee7f9389650" />
+With a strong foundation in **interdisciplinary collaboration** and international cooperation, this initiative bridges data science with real-world applications to foster resilient, inclusive, and intelligent cities.
