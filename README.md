@@ -9,11 +9,10 @@
 ### <p align="center"> Smart City Laguna IoT – Fortaleza, Brazil  
 
  <br><br>
- 
 
-#### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
- <br><br>
+<br><br>
  
 #### <p align="center"> [***In collaboration with Planet Smart City, PUC-SP Data Science & AI, UN-Habitat, Starlink and Proptech Brazil***]()
 
