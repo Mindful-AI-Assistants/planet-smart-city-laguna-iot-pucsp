@@ -120,7 +120,7 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 
 <br>
 
-We also extend our gratitude to:
+[We also extend our gratitude to]():
 
 - Local leaders and community members for their trust and ongoing collaboration.
 - The multidisciplinary technical team for their dedication to innovative and sustainable solutions.
