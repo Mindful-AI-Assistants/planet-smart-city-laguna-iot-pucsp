@@ -88,7 +88,8 @@ Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Plane
 - Rainwater drainage with permeable pavements  
 - Cultural, educational, and governance programs  
 
-At the center of this ecosystem:  
+### At the center of this ecosystem:  
+
 **The Community Manager** — a trained professional dedicated to:
 
 - Mobilizing participatory governance  
