@@ -25,12 +25,20 @@
 <br><br>
 
 
-##  Presentation Overview
+## [Presentation Overview]():
 
-**CDIA  Nexus PUC-SP** is a final academic and social extension project from the  **PUC-SP Data Science and Artificial Intelligence group**, focusing on the application of **IoT and AI** for **Water and Energy** optimization within the **Smart City Laguna** — a pioneering urban development in Fortaleza, Brazil.
+**CDIA Nexus** is the final academic and social extension project of the **PUC-SP Data Science and Artificial Intelligence Group**, focused on applying **IoT and AI** for **smart water and energy systems** in **Smart City Laguna**, a pioneering urban development in Fortaleza, Brazil.
 
-This initiative was developed in collaboration with **Planet Smart City**, **UN-Habitat**, and **Starlink**, aligning with the **UN Sustainable Development Goals (SDGs)** and emphasizing **social innovation, digital inclusion, and environmental intelligence**.
+This initiative was developed in partnership with **Planet Smart City**, **UN-Habitat**, and **Starlink**, aligned with the **UN Sustainable Development Goals (SDGs)** and committed to **social innovation, digital inclusion, and environmental intelligence**.
 
+🔍 The presentation highlights:
+
+- An integrated **Water & Energy Monitoring Dashboard**  
+- Predictive analytics with AI models  
+- Community engagement through data-driven strategies  
+- Deployment insights using **Starlink connectivity** and Planet infrastructure  
+
+ _“Data with purpose. Innovation with Empathy.”_
 
 <br><br>
 
