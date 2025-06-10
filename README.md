@@ -37,7 +37,7 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 - Community engagement through data-driven strategies  
 - Deployment insights using **Starlink connectivity** and Planet infrastructure  
 
- _“Data with purpose. Innovation with Empathy.”_
+ _“Data 4 Good. Innovation with Meaning.”_
 
 <br><br>
 
