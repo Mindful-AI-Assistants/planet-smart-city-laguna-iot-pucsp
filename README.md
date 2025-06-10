@@ -75,3 +75,23 @@ Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart C
 
 🔗 [Visit Planet Smart City](https://planetsmartcity.com.br)
 
+
+<br>
+
+
+## [The Laguna Project: Smart Social Innovation]():
+
+Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Planet’s flagship smart city in Brazil, featuring over **60 smart solutions**, including:
+
+- Public Wi-Fi and IoT backbone  
+- Sustainable urban mobility and lighting  
+- Rainwater drainage with permeable pavements  
+- Cultural, educational, and governance programs  
+
+At the center of this ecosystem:  
+**The Community Manager** — a trained professional dedicated to:
+
+- Mobilizing participatory governance  
+- Promoting workshops, education, and engagement  
+- Nurturing social cohesion and long-term stewardship  
+
