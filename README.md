@@ -39,7 +39,7 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 <br>
 
-<p align="center"> [ _“Data 4 Good. Innovation with Meaning.”_]()
+_“Data 4 Good. Innovation with Meaning.”_
 
 <br><br>
 
