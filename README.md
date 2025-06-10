@@ -41,11 +41,10 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 [_“Data 4 Good. Innovation with Meaning.”_]()
 
-<br><br>
-
+<!--
  <p align="center">
 <img src="https://github.com/user-attachments/assets/20050582-5dcd-4a60-b5db-d345a8404479"/>
-
+-->
 
 <br><br>
 
