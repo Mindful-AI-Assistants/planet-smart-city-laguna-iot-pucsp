@@ -7,6 +7,14 @@
  
 ## <p align="center">  🌐 CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy  
 ### <p align="center"> Smart City Laguna IoT – Fortaleza, Brazil  
+
+ <br><br>
+ 
+
+#### <p align="center">  Empowering businesses with AI-driven technologies such as Copilots, Agents, Bots, and Predictive Analytics, coupled with [Intelligent Decision-Making Support](https://github.com/user-attachments/assets/341b3748-69c0-4bc4-a95e-a87d2d595a9d)
+
+ <br><br>
+ 
 #### <p align="center"> [***In collaboration with Planet Smart City, PUC-SP Data Science & AI, UN-Habitat, Starlink and Proptech Brazil***]()
 
 <br><br>
