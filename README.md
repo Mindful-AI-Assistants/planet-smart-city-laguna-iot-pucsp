@@ -128,7 +128,7 @@ We also extend our gratitude to:
 
 <br>
 
-### [Together](), these partners embody an integrated approach to achieving the **Sustainable Development Goals**, particularly in emerging regions. 💙🌎
+#### [Together](), these partners embody an integrated approach to achieving the **Sustainable Development Goals**, particularly in emerging regions. 💙🌎
 
 
 
