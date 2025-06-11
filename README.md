@@ -57,10 +57,6 @@ Developed by the **CDIA group at PUC-SP**, this extension project aims to optimi
 
 With a strong foundation in **interdisciplinary collaboration** and international cooperation, this initiative bridges data science with real-world applications to foster resilient, inclusive, and intelligent cities.
 
-Developed by the **CDIA group at PUC-SP**, this extension project aims to optimize **smart resource management systems** in the Smart City Laguna – combining **technology**, **sustainability**, and **community innovation** to empower underserved regions.
-
-With a strong foundation in **interdisciplinary collaboration** and international cooperation, this initiative bridges data science with real-world applications to foster resilient, inclusive, and intelligent cities.
-
 <br>
 
 ## 🌐 [Planet Smart City]():
