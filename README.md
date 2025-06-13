@@ -33,7 +33,9 @@
 
 This initiative was developed in partnership with **Planet Smart City**, **UN-Habitat**, and **Starlink**, aligned with the **UN Sustainable Development Goals (SDGs)** and committed to **social innovation, digital inclusion, and environmental intelligence**.
 
-🔍 The presentation highlights:
+<br>
+
+[The presentation highlights]():
 
 - An integrated **Water & Energy Monitoring Dashboard**  
 - Predictive analytics with AI models  
