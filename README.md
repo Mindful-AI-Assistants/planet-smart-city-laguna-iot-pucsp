@@ -129,7 +129,7 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 <br>
 
 
-## 💧⚡ CDIA Module: Water & Energy Systems
+## 💧 CDIA Module: Water & Energy Systems ⚡
 
 The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and AI** for resource optimization. Key features:
 
@@ -138,15 +138,15 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 - Visualizations for community awareness  
 - Scalable resource management models  
 
-### 👥 Team Members
+### 🧑🏼‍🚀 Team Members
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
-| **Fabiana Campanari**   | Design Lead, Branding, UX/UI + Full-stack Dev    |
-| **Andson Ribeiro**      | Water Sustainability Analyst                     |
-| **Pedro Vyctor Almeida**| IoT Developer – Sensors & Data Pipeline          |
-| **Leonardo X Fernandes**| Data Scientist – Energy Efficiency Modeling      |
-| **All Team**            | Systems Modeler – Forecasting & Optimization     |
+| **Fabiana 🧬 Campanari* | [Github Contact]() - [email]()  |
+| **Andson Ribeiro**      | [Github]() - [email]()                  |
+| **Pedro Vyctor Almeida**| [Github]() - [email]()         |
+| **Leonardo X Fernandes**| [Github]() - [email]()     |
+| **All Team**            | [Github]() - [email]()    |
 
 > All members contributed collaboratively across technical and creative areas. Fabiana also led the **project’s identity and visual language**.
 
@@ -211,12 +211,3 @@ Through **technology with empathy**, this project shows how data and design can 
 
 
 
-
-<!--
-🧑🏼‍🚀 Crew Menbers
-
-Andson Ribeito
-Fabiana 🧬
-Leonardo Xerez Fernandes
-Pedro Vyctor Almeida
--->
