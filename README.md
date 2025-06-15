@@ -146,7 +146,7 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 | **Andson Ribeiro**      | [Github]() - [email]()                  |
 | **Pedro Vyctor Almeida**| [Github]() - [email]()         |
 | **Leonardo X Fernandes**| [Github]() - [email]()     |
-| **All Team**            | [Github]() - [email]()    |
+
 
 > All members contributed collaboratively across technical and creative areas. Fabiana also led the **project’s identity and visual language**.
 
@@ -208,12 +208,9 @@ Through **technology with empathy**, this project shows how data and design can 
 
 <br>
 
-## [From Code to Insight: Data Analysis & Decision Support]():
+## [From Code to Insight: Data Analysis & Decision Support]()- Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
 
 <br>
-
-
-# Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
 
 ## Project Objective
 
@@ -221,7 +218,7 @@ Develop a solution based on data science and artificial intelligence to **monito
 
 <br>
 
-## 📊 Dataset Used
+##  Dataset Used
 
 A **simulated** dataset was used, containing daily records with the following variables:
 
@@ -232,7 +229,7 @@ A **simulated** dataset was used, containing daily records with the following va
 
 <br>
 
-## 🔍 Business Question
+##  Business Question
 
 > “How to predict daily energy consumption based on room-by-room behavior and, from this, propose automatic measures for savings and energy efficiency?”
 
