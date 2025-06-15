@@ -683,4 +683,4 @@ Altere o caminho do arquivo Excel (`file_path`) conforme seu ambiente.
 
 #
 
-##### Copyright 2024 Mindful-AI-Assistants. Código disponibilizado sob a [licença MIT](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/7ac78ed36a9256cbdc0941dbd44fd13b545bc2dd/LICENSE).
+##### <p align="center"> Copyright 2024 Mindful-AI-Assistants. Código disponibilizado sob a [licença MIT](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/7ac78ed36a9256cbdc0941dbd44fd13b545bc2dd/LICENSE).
