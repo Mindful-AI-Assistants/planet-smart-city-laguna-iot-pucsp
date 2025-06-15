@@ -325,7 +325,7 @@ print("R²:", round(r2, 2))
 ```
 
 
----<br>
+<br>
 
 ### **Cella 10 — [PLOT 5] Consumo reale vs previsto**
 
@@ -627,6 +627,15 @@ Adattare il percorso del file Excel (`file_path`) in base al proprio ambiente.
 
 **Questa analisi è stata preparata basandosi sulle pratiche di data science applicate al contesto del consumo energetico residenziale e mira a facilitare il processo decisionale per il cliente finale.**
 
+
+
+
+
+
+
+#
+
+##### Copyright 2024 Mindful-AI-Assistants. Codice rilasciato sotto [licenza MIT](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/7ac78ed36a9256cbdc0941dbd44fd13b545bc2dd/LICENSE).
 
 
 
