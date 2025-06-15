@@ -208,7 +208,11 @@ Through **technology with empathy**, this project shows how data and design can 
 
 <br>
 
-## [From Code to Insight: Data Analysis & Decision Support]()- Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
+
+
+
+## Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
+### [From Code to Insight: Data Analysis & Decision Support]()
 
 <br>
 
