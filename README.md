@@ -206,6 +206,10 @@ Through **technology with empathy**, this project shows how data and design can 
 > _Developed with purpose and precision by the CDIA Smart Water & Energy Team – PUC-SP_  
 > _“Technology becomes meaningful when it uplifts communities.”_
 
+<br>
+
+## From Code to Insight: Data Analysis & Decisions - Making Support
+
 
 
 
