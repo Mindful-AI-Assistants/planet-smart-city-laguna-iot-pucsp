@@ -136,7 +136,9 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 - Smart sensors for consumption monitoring  
 - AI-driven dashboards with predictive alerts  
 - Visualizations for community awareness  
-- Scalable resource management models  
+- Scalable resource management models
+
+<br>
 
 ### 🧑🏼‍🚀 Team Members
 
@@ -150,6 +152,8 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 
 > All members contributed collaboratively across technical and creative areas. Fabiana also led the **project’s identity and visual language**.
 
+<br>
+
 ## Innovations & Activities
 
 - Installation of **IoT sensors** for water and energy monitoring  
@@ -157,6 +161,8 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 - Co-creation of a **data visualization interface** for residents  
 - Deployment of **solar energy pilots** supported by UN-Habitat  
 - Real-time analytics for **resource planning and sustainability**
+
+  <br>
 
 ##  Learning Outcomes
 
@@ -168,6 +174,8 @@ The team gained hands-on experience in:
 - **Prototyping and system integration**  
 - Delivering solutions that reflect **real-world community needs**
 
+  <br>
+
 ## Visual Documentation
 
 📷 **Photo Gallery**
@@ -176,14 +184,20 @@ The team gained hands-on experience in:
 - `solar_panels_community.jpeg` – UN-backed solar deployment  
 - `iot_dashboard_mockup.png` – Dashboard design preview  
 
-📊 **Presentations**
+<br>
+
+## **Presentations**
 - `CDIA_Final_Pitch.pdf` – Core insights and results  
 - `UN_SolarInvestment_Laguna.pptx` – Stakeholder presentation  
 - `IoT_Architecture_Prototype.pptx` – Sensor and data flow architecture
 
-📁 **Data**
+ <br> 
+
+## **Data**
 - `energy_usage.csv` – Historical energy consumption  
-- `water_flow_readings.json` – Real-time water usage logs  
+- `water_flow_readings.json` – Real-time water usage logs
+
+<br>
 
 🗂 **Folder Structure**  
 SmartCityLaguna_Project/  
@@ -193,9 +207,13 @@ SmartCityLaguna_Project/
 ├── README.md  
 └── LICENSE (MIT)
 
+<br>
+
 ##  Acknowledgment
 
 We extend our sincere thanks to **Pedro from Proptech**, whose guidance and expertise were instrumental throughout this project. His support and vision were essential pillars of our development journey.
+
+<br>
 
 ## ✨ Final Reflection
 
@@ -206,7 +224,8 @@ Through **technology with empathy**, this project shows how data and design can 
 > _Developed with purpose and precision by the CDIA Smart Water & Energy Team – PUC-SP_  
 > _“Technology becomes meaningful when it uplifts communities.”_
 
-<br>
+
+<br><br><br>
 
 
 
