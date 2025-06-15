@@ -129,16 +129,16 @@ Estendemos nossa sincera gratidão às organizações e pessoas que tornaram pos
 
 <br>
 
-# Gêmeo Digital para Monitoramento e Otimização de Energia Residencial - SmartHouse
-### Do Código ao Insight: Análise de Dados e Suporte à Decisão
+## Gêmeo Digital para Monitoramento e Otimização de Energia Residencial - SmartCity
+### [Do Código ao Insight: Análise de Dados e Suporte à Decisão]()
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Desenvolver uma solução baseada em ciência de dados e inteligência artificial para **monitorar, prever e otimizar o consumo de energia elétrica em uma residência inteligente** (Smart City Laguna). O projeto simula dados de sensores por cômodo e utiliza aprendizado de máquina para antecipar padrões de consumo e propor ações de economia.
 
 <br>
 
-## 📊 Base de Dados Utilizada
+##  Base de Dados Utilizada
 
 Foi utilizada uma base de dados **simulada**, contendo registros diários com as seguintes variáveis:
 
@@ -149,7 +149,7 @@ Foi utilizada uma base de dados **simulada**, contendo registros diários com as
 
 <br>
 
-## 🔍 Pergunta de Negócio
+##  Pergunta de Negócio
 
 > “Como prever o consumo diário de energia com base no comportamento por cômodo e, a partir disso, propor medidas automáticas de economia e eficiência energética?”
 
@@ -194,7 +194,7 @@ Geração automática de PDF com dados relevantes, gráficos e previsões.
 
 <br>
 
-## 🧾 Entregáveis
+##  Entregáveis
 
 - Aplicação Streamlit com visualização de sensores em tempo real.
 - Relatório em PDF com métricas de consumo e sugestões.
