@@ -211,9 +211,11 @@ Through **technology with empathy**, this project shows how data and design can 
 ## [From Code to Insight: Data Analysis & Decision Support]():
 
 <br>
+
+
 # Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
 
-## 🎯 Project Objective
+## Project Objective
 
 Develop a solution based on data science and artificial intelligence to **monitor, predict, and optimize electricity consumption in a smart home** (Smart City Laguna). The project simulates sensor data per room and uses machine learning to anticipate consumption patterns and propose savings actions.
 
@@ -236,7 +238,7 @@ A **simulated** dataset was used, containing daily records with the following va
 
 <br>
 
-## 🧪 Methodology and Steps Taken
+##  Methodology and Steps Taken
 
 1. **Data import and visualization**  
 Reading the spreadsheet with `pandas` and validating formats.
@@ -262,7 +264,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 <br>
 
 
-## 📈 Results Obtained
+##  Results Obtained
 
 - The regression model showed good ability to predict consumption based on activations.  
 - It was identified that **Sala (Living Room)** and **Cozinha (Kitchen)** are the rooms with the greatest impact on consumption.  
@@ -271,7 +273,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## ✅ Conclusions and Recommendations
+## Conclusions and Recommendations
 
 - **Automate shutdowns** in high-use areas such as living room and kitchen to achieve immediate savings.  
 - **Schedule pool usage times** to mitigate unjustified consumption peaks.  
@@ -280,7 +282,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## 🧾 Deliverables
+##  Deliverables
 
 - Streamlit application with real-time sensor visualization.  
 - PDF report with consumption metrics and suggestions.  
