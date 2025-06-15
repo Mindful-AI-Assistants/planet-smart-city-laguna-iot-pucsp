@@ -124,9 +124,92 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 - The multidisciplinary technical team for their dedication to innovative and sustainable solutions.
 - Everyone who contributed, directly or indirectly, to bringing this vision to life.
 
+#### [Together](), these partners embody an integrated approach to achieving the **Sustainable Development Goals**, particularly in emerging regions. 💙🌎
+
 <br>
 
-#### [Together](), these partners embody an integrated approach to achieving the **Sustainable Development Goals**, particularly in emerging regions. 💙🌎
+
+## 💧⚡ CDIA Module: Water & Energy Systems
+
+The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and AI** for resource optimization. Key features:
+
+- Smart sensors for consumption monitoring  
+- AI-driven dashboards with predictive alerts  
+- Visualizations for community awareness  
+- Scalable resource management models  
+
+### 👥 Team Members
+
+| Name                    | Role                                             |
+|-------------------------|--------------------------------------------------|
+| **Fabiana Campanari**   | Design Lead, Branding, UX/UI + Full-stack Dev    |
+| **Andson Ribeiro**      | Water Sustainability Analyst                     |
+| **Pedro Vyctor Almeida**| IoT Developer – Sensors & Data Pipeline          |
+| **Leonardo X Fernandes**| Data Scientist – Energy Efficiency Modeling      |
+| **All Team**            | Systems Modeler – Forecasting & Optimization     |
+
+> All members contributed collaboratively across technical and creative areas. Fabiana also led the **project’s identity and visual language**.
+
+## Innovations & Activities
+
+- Installation of **IoT sensors** for water and energy monitoring  
+- Development of **predictive dashboards** and alert systems  
+- Co-creation of a **data visualization interface** for residents  
+- Deployment of **solar energy pilots** supported by UN-Habitat  
+- Real-time analytics for **resource planning and sustainability**
+
+##  Learning Outcomes
+
+The team gained hands-on experience in:
+
+- **Design thinking + participatory methodologies**  
+- **Field research in urban infrastructure**  
+- **Machine learning and data modeling**  
+- **Prototyping and system integration**  
+- Delivering solutions that reflect **real-world community needs**
+
+## Visual Documentation
+
+📷 **Photo Gallery**
+- `drone_view_laguna_2025.jpg` – Aerial view of the city  
+- `team_workshop_on_site.jpeg` – Field activities with residents  
+- `solar_panels_community.jpeg` – UN-backed solar deployment  
+- `iot_dashboard_mockup.png` – Dashboard design preview  
+
+📊 **Presentations**
+- `CDIA_Final_Pitch.pdf` – Core insights and results  
+- `UN_SolarInvestment_Laguna.pptx` – Stakeholder presentation  
+- `IoT_Architecture_Prototype.pptx` – Sensor and data flow architecture
+
+📁 **Data**
+- `energy_usage.csv` – Historical energy consumption  
+- `water_flow_readings.json` – Real-time water usage logs  
+
+🗂 **Folder Structure**  
+SmartCityLaguna_Project/  
+├── presentations/  
+├── gallery/  
+├── data/  
+├── README.md  
+└── LICENSE (MIT)
+
+##  Acknowledgment
+
+We extend our sincere thanks to **Pedro from Proptech**, whose guidance and expertise were instrumental throughout this project. His support and vision were essential pillars of our development journey.
+
+## ✨ Final Reflection
+
+Smart City Laguna is proof that **inclusive innovation**, **sustainable infrastructure**, and **digital empowerment** can transform lives.
+
+Through **technology with empathy**, this project shows how data and design can serve not only systems, but the people who live within them.
+
+> _Developed with purpose and precision by the CDIA Smart Water & Energy Team – PUC-SP_  
+> _“Technology becomes meaningful when it uplifts communities.”_
+
+
+
+
+
 
 
 <!--
