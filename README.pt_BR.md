@@ -482,7 +482,7 @@ print(coeficientes.sort_values(ascending=False))
 
 **Mostra o peso de cada cômodo na previsão do consumo.**
 
----
+<br>
 
 ### **Célula 12 — Cálculo de percentuais de acionamento por cômodo**
 
@@ -529,6 +529,7 @@ plt.show()
 ```
 
 **Visualiza agrupamentos de perfis de consumo.**
+
 <br>
 
 ### **Célula 15 — Perfil médio por cluster e nomeação dos perfis**
