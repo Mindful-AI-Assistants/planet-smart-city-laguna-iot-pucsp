@@ -142,7 +142,7 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
-| **Fabiana 🧬 Campanari* | [Github Contact](https://github.com/FabianaCampanari) - [email](mailto:fabicampanari@proton.me)  |
+| **Fabiana 🧬 Campanari* | [Github Contact](https://github.com/FabianaCampanari) - [Contact Hub](https://linktr.ee/fabianacampanari) - - [email](mailto:fabicampanari@proton.me) |
 | **Andson Ribeiro**      | [Github]() - [email]()                  |
 | **Pedro Vyctor Almeida**| [Github]() - [email]()         |
 | **Leonardo X Fernandes**| [Github]() - [email]()     |
