@@ -123,13 +123,6 @@ Estendemos nossa sincera gratidão às organizações e pessoas que tornaram pos
 
 <br>
 
----
-🚛 Em Construcao
-
-Claro! Aqui está a tradução para o português, mantendo toda a formatação Markdown original:
-
----
-
 ## 💧 Módulo CDIA: Sistemas de Água & Energia ⚡
 
 O **Módulo de Água & Energia** desenvolvido pelo CDIA foca no uso de **IoT e IA** para otimização de recursos. Principais características:
