@@ -84,14 +84,106 @@ Esprimiamo la nostra sincera gratitudine alle organizzazioni e agli individui ch
 #### [Insieme](), questi partner incarnano un approccio integrato al raggiungimento degli **Obiettivi di Sviluppo Sostenibile**, in particolare nelle regioni emergenti. 💙🌎
 
 
-___
 
-🚛 In Construzione 
-___
+<br>
+
+
+## 💧 Modulo CDIA: Sistemi Idrico & Energetico ⚡
+
+Il **Modulo Idrico & Energetico** progettato da CDIA si concentra sull’uso di **IoT e IA** per l’ottimizzazione delle risorse. Caratteristiche principali:
+
+- Sensori intelligenti per il monitoraggio dei consumi  
+- Dashboard basate su IA con avvisi predittivi  
+- Visualizzazioni per la sensibilizzazione della comunità  
+- Modelli scalabili di gestione delle risorse
+
+<br>  
+
+### 🧑🏼‍🚀 Membri del Team
+
+| Nome                    | Ruolo                                              |
+|-------------------------|----------------------------------------------------|
+| **Fabiana 🧬 Campanari** | [Github Contact](https://github.com/FabianaCampanari) - [Contact Hub](https://linktr.ee/fabianacampanari) - [email](mailto:fabicampanari@proton.me) |
+| **Andson Ribeiro**      | [Github]() - [email]()                  |
+| **Pedro Vyctor Almeida**| [Github]() - [email]()         |
+| **Leonardo X Fernandes**| [Github]() - [email]()     |
 
 
 <br>
 
+> Tutti i membri hanno contribuito in modo collaborativo sia nelle aree tecniche che creative. Fabiana ha inoltre guidato l’**identità e il linguaggio visivo del progetto**.
+
+<br>
+
+## Innovazioni & Attività
+
+- Installazione di **sensori IoT** per il monitoraggio di acqua ed energia  
+- Sviluppo di **dashboard predittive** e sistemi di allerta  
+- Co-creazione di un’**interfaccia di visualizzazione dati** per i residenti  
+- Implementazione di **progetti pilota di energia solare** supportati da UN-Habitat  
+- Analisi in tempo reale per **pianificazione delle risorse e sostenibilità**
+
+<br>
+
+## Risultati di Apprendimento
+
+Il team ha acquisito esperienza pratica in:
+
+- **Design thinking + metodologie partecipative**  
+- **Ricerca sul campo nelle infrastrutture urbane**  
+- **Machine learning e modellazione dei dati**  
+- **Prototipazione e integrazione di sistemi**  
+- Fornitura di soluzioni che riflettono i **bisogni reali della comunità**
+
+<br>
+
+## Documentazione Visiva
+
+📷 **Galleria Fotografica**
+- `drone_view_laguna_2025.jpg` – Vista aerea della città  
+- `team_workshop_on_site.jpeg` – Attività sul campo con i residenti  
+- `solar_panels_community.jpeg` – Installazione solare sostenuta dalle Nazioni Unite  
+- `iot_dashboard_mockup.png` – Anteprima del design della dashboard  
+
+<br>
+
+📊 **Presentazioni**
+- `CDIA_Final_Pitch.pdf` – Principali insight e risultati  
+- `UN_SolarInvestment_Laguna.pptx` – Presentazione per stakeholder  
+- `IoT_Architecture_Prototype.pptx` – Architettura di sensori e flusso dati
+
+<br>
+
+📁 **Dati**
+- `energy_usage.csv` – Storico dei consumi energetici  
+- `water_flow_readings.json` – Log di utilizzo idrico in tempo reale
+
+<br>  
+
+🗂 **Struttura delle Cartelle**  
+SmartCityLaguna_Progetto/  
+├── presentazioni/  
+├── galleria/  
+├── dati/  
+├── README.md  
+└── LICENZA (MIT)
+
+<br>
+
+## Riconoscimenti
+
+Rivolgiamo i nostri più sinceri ringraziamenti a **Pedro di Proptech**, la cui guida e competenza sono state fondamentali durante tutto il progetto. Il suo supporto e la sua visione sono stati pilastri essenziali del nostro percorso di sviluppo.
+
+<br>
+
+## ✨ Riflessione Finale
+
+Smart City Laguna è la prova che **innovazione inclusiva**, **infrastrutture sostenibili** ed **empowerment digitale** possono trasformare le vite.
+
+Attraverso la **tecnologia con empatia**, questo progetto mostra come dati e design possano servire non solo i sistemi, ma le persone che li abitano.
+
+> _Sviluppato con scopo e precisione dal Team CDIA Smart Water & Energy – PUC-SP_  
+> _“La tecnologia acquista significato quando eleva le comunità.”_
 
 
 <br>
@@ -99,9 +191,13 @@ ___
 # Gemello Digitale per il Monitoraggio e l’Ottimizzazione dell’Energia Residenziale 
 ### Dal Codice all’Intuizione: Analisi dei Dati e Supporto alle Decisioni
 
-## 🎯 Obiettivo del Progetto
+<br>
+
+##  Obiettivo del Progetto
 
 Sviluppare una soluzione basata su data science e intelligenza artificiale per **monitorare, prevedere e ottimizzare il consumo di energia elettrica in una casa intelligente** (Smart City Laguna). Il progetto simula dati di sensori per ambiente e utilizza il machine learning per anticipare i pattern di consumo e proporre azioni di risparmio.
+
+<br>
 
 ## 📊 Dataset Utilizzato
 
@@ -112,31 +208,44 @@ Sviluppare una soluzione basata su data science e intelligenza artificiale per *
 - `Quarto1`, `Quarto2`, `Sala`, `Cozinha`, `Piscina`: Numero di attivazioni dei sensori in ogni ambiente  
 - `Geração Solar`: Energia generata da pannelli solari (simulata)  
 
-## 🔍 Domanda di Business
+<br>
+
+
+## Domanda di Business
 
 > “Come prevedere il consumo giornaliero di energia basandosi sul comportamento stanza per stanza e, da ciò, proporre misure automatiche di risparmio e efficienza energetica?”
 
-## 🧪 Metodologia e Fasi Realizzate
+<br>
+
+##  Metodologia e Fasi Realizzate
 
 1. **Importazione e visualizzazione dei dati**  
 Lettura del file con `pandas` e validazione dei formati.
 
-2. **Preprocessing**  
+<br>
+
+3. **Preprocessing**  
    - Conversione della colonna `Data` in formato `datetime`.  
    - Creazione della variabile `Dia_ordinal` per la modellazione.  
    - Calcolo del consumo medio per attivazione per ambiente.  
    - Simulazione della generazione solare e proiezione del consumo futuro.
+  
+<br>
 
-3. **Modellazione Predittiva**  
+4. **Modellazione Predittiva**  
 Addestramento di un modello di **Regressione Lineare** per stimare il consumo (`KW/H`) basato sul totale delle attivazioni per ambiente. Implementata anche la previsione per il giorno successivo.
 
-4. **Visualizzazioni**  
+<br>
+
+6. **Visualizzazioni**  
    - Grafici a serie temporali con `matplotlib`/`seaborn`.  
    - Classifica degli ambienti con maggior consumo.  
    - Rappresentazioni delle attivazioni per cluster.  
    - Dashboard interattiva con Streamlit per visualizzazione in tempo reale (opzionale).
+  
+<br>
 
-5. **Esportazione Report**  
+7. **Esportazione Report**  
 Generazione automatica di report PDF con dati rilevanti, grafici e previsioni.
 
 ## 📈 Risultati Ottenuti
@@ -146,6 +255,8 @@ Generazione automatica di report PDF con dati rilevanti, grafici e previsioni.
 - La **Piscina**, pur con poche attivazioni, mostra un alto consumo medio per attivazione, indicando spreco; è stata esclusa dal modello poiché il progetto Laguna è destinato a edilizia sociale e non include piscine.  
 - La generazione solare può compensare significativamente il consumo nelle ore di punta se ben gestita.
 
+<br>
+
 ## ✅ Conclusioni e Raccomandazioni
 
 - **Automatizzare lo spegnimento** negli ambienti ad alto utilizzo come sala e cucina per ottenere risparmi immediati.  
@@ -153,17 +264,23 @@ Generazione automatica di report PDF con dati rilevanti, grafici e previsioni.
 - **Sfruttare la generazione solare** per bilanciare l’uso degli apparecchi nelle ore di maggiore produzione.  
 - **Implementare allarmi** quando si superano gli obiettivi di consumo giornaliero.
 
+
+<br>
+
 ## 🧾 Deliverables
 
 - Applicazione Streamlit con visualizzazione in tempo reale dei sensori.  
 - Report PDF con metriche di consumo e suggerimenti.  
 - Notebook con l’intero pipeline dati, modello predittivo e analisi visive.
 
+<br>
+
+
 ## 👥 Pubblico Target
 
 Il progetto è stato sviluppato per un cliente esterno interessato a soluzioni di **efficienza energetica residenziale**, con potenziale espansione a condomini, edifici e smart city.
 
----
+<br>
 
 📌 *Questo report è stato redatto basandosi su pratiche di data science applicate al contesto del consumo energetico residenziale e mira a facilitare il processo decisionale del cliente finale.*
 
