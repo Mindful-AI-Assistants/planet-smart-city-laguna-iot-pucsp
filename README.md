@@ -215,3 +215,12 @@ Through **technology with empathy**, this project shows how data and design can 
 
 
 
+
+
+
+
+#
+
+##### <p align="center"> Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/7ac78ed36a9256cbdc0941dbd44fd13b545bc2dd/LICENSE)
+
+
