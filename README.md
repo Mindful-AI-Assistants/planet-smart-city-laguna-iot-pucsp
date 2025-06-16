@@ -114,6 +114,12 @@ Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Plane
 
 Special thanks to [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-neto-95a047174/), CEO of Proptech Brazil, for leading with empathy, respect, and integrity. The way you show up for others truly makes all the difference.
 
+<br>
+
+💌 Pedro's Contact
+
+<br>
+
 We extend our heartfelt gratitude to the organizations and individuals who made the implementation of the CDIA PUC-SP possible. Special thanks to:
 
 <br>
