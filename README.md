@@ -73,11 +73,11 @@ Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart C
 
 <br>
 
-➢ [Visit Planet Smart City - Oficial 🇮🇹](https://planetsmartcity.com/)
+➢ [Visit Planet Smart City - Oficial](https://planetsmartcity.com/) 🇮🇹
 
-➢[Visit Planet Smart City - Brazil 🇧🇷](https://planetsmartcity.com.br)
+➢[Visit Planet Smart City - Brazil](https://planetsmartcity.com.br) 🇧🇷
 
-➢ [Visit Planet Smart City - India 🇮🇳](https://planetsmartcity.in/)
+➢ [Visit Planet Smart City - India](https://planetsmartcity.in/) 🇮🇳
 
 
 <br>
