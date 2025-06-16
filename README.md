@@ -724,6 +724,18 @@ plt.show()
 
 ### **Cell 20 — [PLOT 11] Cluster visualization with PCA**
 
+<br>
+
+### PCA Usage
+
+### We applied PCA demonstratively, even with only two clusters, to show how it works in dimensionality reduction and highlighting important variables.
+
+### Although not essential here, PCA is useful for datasets with many columns or more than two clusters, improving performance and data visualization.
+
+
+<br>
+
+
 ```python
 pca = PCA(n_components=2)
 X_pca = pca.fit_transform(X_scaled)
