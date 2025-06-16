@@ -153,7 +153,7 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 
 <br>
 
-### 🧑🏼‍🚀 Team Members
+## 🧑🏼‍🚀 Team Members
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
@@ -163,8 +163,9 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 | **Leonardo X Fernandes**| [Github]() - [email]()     |
 
 
+<br>
 
-> All members contributed collaboratively across technical and creative areas. Fabiana 🧬 Campanari also led the **project’s identity and visual language**.
+💙 All members contributed collaboratively across technical and creative areas. Fabiana 🧬 Campanari also led the **project’s identity and visual language**.
 
 <br>
 
