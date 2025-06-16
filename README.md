@@ -67,12 +67,15 @@ Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart C
 
 - Advanced urban design  
 - Integrated technology  
-- Community-building initiatives  
+- Community-building initiatives
+
+<br>
 
 🌟 Key contributor: **Stefano Buono**, physicist and entrepreneur, former CERN researcher and founder of AAA (sold to Novartis), now President of LIFTT and CEO of **Newcleo** (clean nuclear innovation).
 
 <br>
 
+pedro@flexautomation.com.br
 
 ➢ [Visit Planet Smart City - Oficial](https://planetsmartcity.com/) 🇮🇹
 
@@ -83,7 +86,7 @@ Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart C
 
 <br>
 
-pedro@flexautomation.com.br
+
 
 
 ## [The Laguna Project: Smart Social Innovation]():
@@ -97,7 +100,7 @@ Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Plane
 
 <br>
 
-### [At the center of this ecosystem]():  
+## [At the center of this ecosystem]():  
 
 **The Community Manager** — a trained professional dedicated to:
 
@@ -115,6 +118,7 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 
 <br>
 
+
 | **Organization**          | **Contribution**                                             |
 |---------------------------|--------------------------------------------------------------|
 | **United Nations (UN)**   | Funding for the acquisition of solar panels                  |
@@ -127,7 +131,7 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 
 <br>
 
-[We also extend our gratitude to]():
+### [We also extend our gratitude to]():
 
 - Local leaders and community members for their trust and ongoing collaboration.
 - The multidisciplinary technical team for their dedication to innovative and sustainable solutions.
