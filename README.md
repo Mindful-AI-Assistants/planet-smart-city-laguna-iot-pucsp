@@ -115,7 +115,7 @@ Special thanks to [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-n
 
 <br>
 
-### [Ping Pedro]() 📲
+### [Ping Pedro](mailto:pedro@flexautomation.com.br) 📲
 
 <br>
 
