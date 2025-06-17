@@ -75,7 +75,6 @@ Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart C
 
 <br>
 
-pedro@flexautomation.com.br
 
 ➢ [Visit Planet Smart City - Oficial](https://planetsmartcity.com/) 🇮🇹
 
