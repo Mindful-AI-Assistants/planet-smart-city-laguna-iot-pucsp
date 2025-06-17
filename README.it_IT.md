@@ -679,7 +679,8 @@ plt.show()
 
 **Confronta il profilo di attivazione di ciascun cluster.**
 
----
+
+<br>
 
 ### **Cella 20 — [PLOT 11] Visualizzazione cluster con PCA**
 
@@ -689,7 +690,7 @@ Abbiamo applicato il PCA a scopo dimostrativo, anche con solo due cluster, per m
 
 Sebbene non essenziale in questo caso, il PCA è utile per dataset con molte colonne o più di due cluster, migliorando prestazioni e visualizzazione dei dati.
 
-<br.
+<br>
 
 ```python
 pca = PCA(n_components=2)
