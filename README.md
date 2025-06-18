@@ -260,9 +260,7 @@ Through **technology with empathy**, this project shows how data and design can 
 > _“Technology becomes meaningful when it uplifts communities.”_
 
 
-<br><br><br>
-
-----/////--
+<br><br>
 
 
 ## Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
