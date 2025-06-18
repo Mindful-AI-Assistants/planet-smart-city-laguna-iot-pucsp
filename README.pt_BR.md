@@ -250,90 +250,92 @@ Por meio da **tecnologia com empatia**, este projeto mostra como dados e design 
 
 <br><br><br>
 
-/////---///
-
-## Gêmeo Digital para Monitoramento e Otimização de Energia Residencial - SmartCity
-### [Do Código ao Insight: Análise de Dados e Suporte à Decisão]()
-
-##  Objetivo do Projeto
-
-Desenvolver uma solução baseada em ciência de dados e inteligência artificial para **monitorar, prever e otimizar o consumo de energia elétrica em uma residência inteligente** (Smart City Laguna). O projeto simula dados de sensores por cômodo e utiliza aprendizado de máquina para antecipar padrões de consumo e propor ações de economia.
+## Gêmeo Digital para Monitoramento e Otimização de Energia Residencial – SmartHouse  
+### [Do Código ao Insight: Análise de Dados e Apoio à Decisão]()
 
 <br>
 
-##  Base de Dados Utilizada
+## Objetivo do Projeto
 
-Foi utilizada uma base de dados **simulada**, contendo registros diários com as seguintes variáveis:
-
-- `Data`: Dia da medição
-- `KW/H`: Consumo total de energia em kWh
-- `Quarto1`, `Quarto2`, `Sala`, `Cozinha`, `Piscina`: Quantidade de acionamentos de sensores em cada cômodo
-- `Geração Solar`: Energia gerada por painéis solares (simulada)
+Desenvolver uma solução baseada em ciência de dados e inteligência artificial para **monitorar, prever e otimizar o consumo de energia elétrica em uma casa inteligente** (Smart City Laguna). O projeto simula dados de sensores por cômodo e utiliza aprendizado de máquina para antecipar padrões de consumo e propor ações de economia.
 
 <br>
 
-##  Pergunta de Negócio
+## Conjunto de Dados Utilizado
+
+Foi utilizado um conjunto de dados **simulado**, contendo registros diários com as seguintes variáveis:
+
+- `Data`: Dia da medição  
+- `KW/H`: Consumo total de energia em kWh  
+- `Quarto1`, `Quarto2`, `Sala`, `Cozinha`, `Piscina`: Número de ativações de sensores em cada cômodo  
+- `Geração Solar`: Energia gerada por painéis solares (simulado)
+
+<br>
+
+## Pergunta de Negócio
 
 > “Como prever o consumo diário de energia com base no comportamento por cômodo e, a partir disso, propor medidas automáticas de economia e eficiência energética?”
 
 <br>
 
-##  Metodologia e Etapas Realizadas
+## Metodologia e Etapas Realizadas
 
-1. **Importação e visualização dos dados**
-Leitura da planilha com `pandas` e validação dos formatos.
-2. **Pré-processamento**
-    - Conversão da coluna `Data` para o formato `datetime`.
-    - Criação da variável `Dia_ordinal` para modelagem.
-    - Cálculo do consumo médio por acionamento por cômodo.
-    - Simulação da geração solar e projeção de consumo futuro.
-3. **Modelagem Preditiva**
-Foi treinado um modelo de **Regressão Linear** para estimar o consumo (`KW/H`) com base no total de acionamentos por cômodo. A previsão para o dia seguinte também foi implementada.
-4. **Visualizações**
-    - Gráficos de séries temporais com `matplotlib`/`seaborn`.
-    - Ranking de cômodos mais consumidores.
-    - Representações dos acionamentos por cluster.
-    - Painel interativo com Streamlit para visualização em tempo real (opcional).
-5. **Exportação de Relatórios**
-Geração automática de PDF com dados relevantes, gráficos e previsões.
+1. **Importação e visualização dos dados**  
+Leitura da planilha com `pandas` e validação de formatos.
+
+2. **Pré-processamento**  
+   - Conversão da coluna `Data` para o formato `datetime`.  
+   - Criação da variável `Dia_ordinal` para modelagem.  
+   - Cálculo do consumo médio por ativação por cômodo.  
+   - Simulação de geração solar e projeção de consumo futuro.
+
+3. **Modelagem Preditiva**  
+Um modelo de **Regressão Linear** foi treinado para estimar o consumo (`KW/H`) com base nas ativações totais por cômodo. Também foi implementada previsão para o dia seguinte.
+
+4. **Visualizações**  
+   - Gráficos de séries temporais com `matplotlib`/`seaborn`.  
+   - Ranking dos cômodos com maior consumo.  
+   - Representações de ativações por cluster.  
+   - Dashboard interativo com Streamlit para visualização em tempo real (opcional).
+
+5. **Exportação de Relatórios**  
+Geração automática de relatórios em PDF com dados relevantes, gráficos e previsões.
 
 <br>
 
-##  Resultados Obtidos
+## Resultados Obtidos
 
-- O modelo de regressão apresentou boa capacidade de prever o consumo com base nos acionamentos.
-- Identificou-se que **Sala** e **Cozinha** são os cômodos com maior impacto no consumo.
-- A **piscina**, embora com poucos acionamentos, apresenta alto consumo médio por acionamento, indicando desperdício; foi retirada do modelo, pois o projeto Laguna se destina a moradia social e não inclui piscina.
-- A geração solar é capaz de compensar parte significativa do consumo em horários de pico, se bem gerenciada.
+- O modelo de regressão apresentou boa capacidade de prever o consumo com base nas ativações.  
+- Identificou-se que **Sala** e **Cozinha** são os cômodos com maior impacto no consumo.  
+- A **Piscina**, embora com poucas ativações, apresentou alto consumo médio por ativação, indicando desperdício; foi removida do modelo, já que o projeto Laguna é voltado à habitação social e não inclui piscinas.  
+- A geração solar pode compensar significativamente o consumo durante horários de pico, se bem gerenciada.
 
 <br>
 
 ## Conclusões e Recomendações
 
-- **Automatizar desligamentos** em ambientes com alto uso como sala e cozinha pode gerar economia imediata.
-- **Agendar horários de uso** da piscina pode mitigar picos de consumo não justificados.
-- **Aproveitar a geração solar** para balancear o uso de aparelhos nos horários de maior geração.
-- **Implementar alertas** quando a meta de consumo diário for excedida.
+- **Automatizar desligamentos** em áreas de alto uso, como sala e cozinha, para obter economia imediata.  
+- **Agendar horários de uso da piscina** para mitigar picos de consumo injustificados.  
+- **Aproveitar a geração solar** para balancear o uso de aparelhos durante os horários de maior geração.  
+- **Implementar alertas** quando as metas diárias de consumo forem ultrapassadas.
 
 <br>
 
-##  Entregáveis
+## Entregáveis
 
-- Aplicação Streamlit com visualização de sensores em tempo real.
-- Relatório em PDF com métricas de consumo e sugestões.
+- Aplicação Streamlit com visualização de sensores em tempo real.  
+- Relatório em PDF com métricas de consumo e sugestões.  
 - Notebook com todo o pipeline de dados, modelo preditivo e análises visuais.
 
 <br>
 
-## 👥 Público-alvo
+## 👥 Público-Alvo
 
-Este projeto foi desenvolvido para um cliente externo interessado em soluções de **eficiência energética residencial**, com potencial de expansão para condomínios, prédios e cidades inteligentes.
+Este projeto foi desenvolvido para um cliente externo interessado em soluções de **eficiência energética residencial**, com potencial expansão para condomínios, edifícios e cidades inteligentes.
 
 <br>
 
-📌 *Este relatório foi elaborado com base nas práticas de ciência de dados aplicadas ao contexto de consumo energético residencial e tem como objetivo facilitar a tomada de decisão por parte do cliente final.*
-
-
+📌 *Este relatório foi elaborado com base em práticas de ciência de dados aplicadas ao contexto de consumo energético residencial e visa facilitar a tomada de decisões pelo cliente final.*
 
 <br>
 
