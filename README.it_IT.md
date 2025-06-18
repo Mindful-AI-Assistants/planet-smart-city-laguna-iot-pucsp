@@ -7,6 +7,8 @@
 ## <p align="center">  🌐 CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy   
 #### <p align="center"> ***In collaborazione con [Planet Smart City](), PUC-SP [Data Science & AI](), UN [Sustainable Development (SDGs)](), [Starlink]() e [Proptech ]() Brasile***
 
+<br><br>
+
 ### <p align="center"> Smart City Laguna IoT – Fortaleza, Brasile 💛💚
 
 <br><br>
@@ -23,6 +25,11 @@
     <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=for-the-badge">
   </a>
 </p>
+
+
+<br><br>
+
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/34b57670-0c4b-40ec-a2ee-f53134870f30"/>
 
