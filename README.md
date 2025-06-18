@@ -158,16 +158,16 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 
 <br>
 
-
+  
 
 ## 🧑🏼‍🚀 Team Members
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
-| **Andson Ribeiro** |  |  [Github](https://github.com/andsonandreribeiro09)  |
+| **Andson Ribeiro**       | [Github](https://github.com/andsonandreribeiro09)  |
 | **Fabiana 🧬 Campanari* | [Github](https://github.com/FabianaCampanari) - [Contact Hub](https://linktr.ee/fabianacampanari)   |
-| **Pedro Vyctor Almeida**| [Github]() - [email](https://github.com/ppvyctor)         |
-| **Leonardo X Fernandes**| [Github]() - [email](https://github.com/LeonardoXF)     |
+| **Leonardo X Fernandes** |   [Github]() - [Contact](https://github.com/LeonardoXF)      |
+|  **Pedro Vyctor Almeida** |  [Github]() - [Contact](https://github.com/ppvyctor)    |
 
 
 <br>
