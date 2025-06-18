@@ -805,7 +805,7 @@ plt.show()
 
 <br>
 
-## 📊 [Interpretation of Graphs and Profiles]:
+## 📊 [Interpretation of Graphs and Profiles]():
 
 - **Variable Distribution**: Shows how activations and consumption are distributed.  
 - **Temporal Evolution**: Allows identification of consumption trends over the days.  
@@ -816,7 +816,7 @@ plt.show()
 
 <br>
 
-## 💡 [Recommendations by Profile]:
+## 💡 [Recommendations by Profile]():
 
 | Profile | Main Recommendations |
 | :-- | :-- |
