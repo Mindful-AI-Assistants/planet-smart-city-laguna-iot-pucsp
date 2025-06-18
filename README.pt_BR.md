@@ -67,13 +67,13 @@ Fundada em 2015 por **Giovanni Savio** e **Susanna Marchionni**, a Planet Smart 
 
 🌟 Contribuidor-chave: **Stefano Buono**, físico e empreendedor, ex-pesquisador do CERN e fundador da AAA (vendida à Novartis), hoje presidente da LIFTT e CEO da **Newcleo** (inovação em energia nuclear limpa).
 
-🔗 [Visite Planet Smart City](https://planetsmartcity.com.br)
+🔗 [Visite Planet Smart City](https://planetsmartcity.com)
 
 <br>
 
 ## [O Projeto Laguna: Inovação Social Inteligente]():
 
-Localizada em **São Gonçalo do Amarante, Ceará**, a **Smart City Laguna** é a cidade inteligente emblemática da Planet no Brasil, com mais de **60 soluções inteligentes**, incluindo:
+Localizada em **São Gonçalo do Amarante, Ceará, Fortaleza, Brazil 🇧🇷**, a **Smart City Laguna** é a cidade inteligente emblemática da Planet no Brasil, com mais de **60 soluções inteligentes**, incluindo:
 
 - Wi-Fi público e rede de IoT  
 - Mobilidade urbana e iluminação sustentáveis  
