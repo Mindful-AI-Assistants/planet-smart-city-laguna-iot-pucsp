@@ -245,108 +245,104 @@ Attraverso la **tecnologia con empatia**, questo progetto dimostra come i dati e
 
 <br>
 
----////
-
-# Gemello Digitale per il Monitoraggio e l’Ottimizzazione dell’Energia Residenziale 
-### Dal Codice all’Intuizione: Analisi dei Dati e Supporto alle Decisioni
+## Gemello Digitale per il Monitoraggio e l’Ottimizzazione dell’Energia Residenziale – SmartHouse  
+### [Dal Codice all’Insight: Analisi dei Dati e Supporto Decisionale]()
 
 <br>
 
-##  Obiettivo del Progetto
+## Obiettivo del Progetto
 
-Sviluppare una soluzione basata su data science e intelligenza artificiale per **monitorare, prevedere e ottimizzare il consumo di energia elettrica in una casa intelligente** (Smart City Laguna). Il progetto simula dati di sensori per ambiente e utilizza il machine learning per anticipare i pattern di consumo e proporre azioni di risparmio.
+Sviluppare una soluzione basata su data science e intelligenza artificiale per **monitorare, prevedere e ottimizzare il consumo di energia elettrica in una casa intelligente** (Smart City Laguna). Il progetto simula dati di sensori per stanza e utilizza l’apprendimento automatico per anticipare schemi di consumo e proporre azioni di risparmio.
 
 <br>
 
-## 📊 Dataset Utilizzato
+## Dataset Utilizzato
 
 È stato utilizzato un dataset **simulato**, contenente registrazioni giornaliere con le seguenti variabili:
 
 - `Data`: Giorno della misurazione  
 - `KW/H`: Consumo totale di energia in kWh  
-- `Quarto1`, `Quarto2`, `Sala`, `Cozinha`, `Piscina`: Numero di attivazioni dei sensori in ogni ambiente  
-- `Geração Solar`: Energia generata da pannelli solari (simulata)  
+- `Camera1`, `Camera2`, `Soggiorno`, `Cucina`, `Piscina`: Numero di attivazioni dei sensori in ogni stanza  
+- `Produzione Solare`: Energia generata dai pannelli solari (simulata)
 
 <br>
-
 
 ## Domanda di Business
 
-> “Come prevedere il consumo giornaliero di energia basandosi sul comportamento stanza per stanza e, da ciò, proporre misure automatiche di risparmio e efficienza energetica?”
+> “Come prevedere il consumo giornaliero di energia sulla base del comportamento per stanza e, da ciò, proporre misure automatiche di risparmio e efficienza energetica?”
 
 <br>
 
-##  Metodologia e Fasi Realizzate
+## Metodologia e Fasi Svolte
 
 1. **Importazione e visualizzazione dei dati**  
-Lettura del file con `pandas` e validazione dei formati.
+Lettura del foglio di calcolo con `pandas` e validazione dei formati.
+
 
 <br>
 
-3. **Preprocessing**  
+3. **Pre-processing**  
    - Conversione della colonna `Data` in formato `datetime`.  
-   - Creazione della variabile `Dia_ordinal` per la modellazione.  
-   - Calcolo del consumo medio per attivazione per ambiente.  
-   - Simulazione della generazione solare e proiezione del consumo futuro.
+   - Creazione della variabile `Giorno_ordinale` per la modellazione.  
+   - Calcolo del consumo medio per attivazione per stanza.  
+   - Simulazione della produzione solare e proiezione del consumo futuro.
   
+
+ <br>
+
+3. **Modellazione Predittiva**  
+Un modello di **Regressione Lineare** è stato addestrato per stimare il consumo (`KW/H`) in base alle attivazioni totali per stanza. È stata inoltre implementata la previsione per il giorno successivo.
+
 <br>
 
-4. **Modellazione Predittiva**  
-Addestramento di un modello di **Regressione Lineare** per stimare il consumo (`KW/H`) basato sul totale delle attivazioni per ambiente. Implementata anche la previsione per il giorno successivo.
-
-<br>
-
-6. **Visualizzazioni**  
+5. **Visualizzazioni**  
    - Grafici a serie temporali con `matplotlib`/`seaborn`.  
-   - Classifica degli ambienti con maggior consumo.  
+   - Classifica delle stanze con il maggior consumo.  
    - Rappresentazioni delle attivazioni per cluster.  
-   - Dashboard interattiva con Streamlit per visualizzazione in tempo reale (opzionale).
-  
-<br>
+   - Dashboard interattiva con Streamlit per la visualizzazione in tempo reale (opzionale).
 
-7. **Esportazione Report**  
-Generazione automatica di report PDF con dati rilevanti, grafici e previsioni.
-
-## 📈 Risultati Ottenuti
-
-- Il modello di regressione ha mostrato buona capacità di prevedere il consumo basandosi sulle attivazioni.  
-- È stato identificato che **Sala** e **Cozinha** sono gli ambienti con maggiore impatto sul consumo.  
-- La **Piscina**, pur con poche attivazioni, mostra un alto consumo medio per attivazione, indicando spreco; è stata esclusa dal modello poiché il progetto Laguna è destinato a edilizia sociale e non include piscine.  
-- La generazione solare può compensare significativamente il consumo nelle ore di punta se ben gestita.
+6. **Esportazione dei Report**  
+Generazione automatica di report in PDF con dati rilevanti, grafici e previsioni.
 
 <br>
 
-## ✅ Conclusioni e Raccomandazioni
+## Risultati Ottenuti
 
-- **Automatizzare lo spegnimento** negli ambienti ad alto utilizzo come sala e cucina per ottenere risparmi immediati.  
-- **Pianificare gli orari di utilizzo** della piscina per mitigare picchi di consumo ingiustificati.  
-- **Sfruttare la generazione solare** per bilanciare l’uso degli apparecchi nelle ore di maggiore produzione.  
-- **Implementare allarmi** quando si superano gli obiettivi di consumo giornaliero.
-
-
-<br>
-
-## 🧾 Deliverables
-
-- Applicazione Streamlit con visualizzazione in tempo reale dei sensori.  
-- Report PDF con metriche di consumo e suggerimenti.  
-- Notebook con l’intero pipeline dati, modello predittivo e analisi visive.
+- Il modello di regressione ha mostrato una buona capacità di prevedere il consumo sulla base delle attivazioni.  
+- È stato identificato che **Soggiorno** e **Cucina** sono le stanze con maggiore impatto sul consumo.  
+- La **Piscina**, sebbene con poche attivazioni, ha mostrato un consumo medio elevato per attivazione, indicando spreco; è stata rimossa dal modello, poiché il progetto Laguna è destinato ad alloggi sociali e non include piscine.  
+- La produzione solare può compensare significativamente il consumo durante le ore di punta, se ben gestita.
 
 <br>
 
+## Conclusioni e Raccomandazioni
 
-## 👥 Pubblico Target
-
-Il progetto è stato sviluppato per un cliente esterno interessato a soluzioni di **efficienza energetica residenziale**, con potenziale espansione a condomini, edifici e smart city.
+- **Automatizzare gli spegnimenti** nelle aree di alto utilizzo, come soggiorno e cucina, per ottenere risparmi immediati.  
+- **Pianificare gli orari di utilizzo della piscina** per mitigare picchi di consumo ingiustificati.  
+- **Sfruttare la produzione solare** per bilanciare l’uso degli elettrodomestici durante le ore di maggiore generazione.  
+- **Implementare avvisi** quando vengono superati gli obiettivi giornalieri di consumo.
 
 <br>
 
-📌 *Questo report è stato redatto basandosi su pratiche di data science applicate al contesto del consumo energetico residenziale e mira a facilitare il processo decisionale del cliente finale.*
+## Deliverables
+
+- Applicazione Streamlit con visualizzazione dei sensori in tempo reale.  
+- Report in PDF con metriche di consumo e suggerimenti.  
+- Notebook con l’intero pipeline di dati, modello predittivo e analisi visive.
+
+<br>
+
+## 👥 Pubblico di Riferimento
+
+Questo progetto è stato sviluppato per un cliente esterno interessato a soluzioni di **efficienza energetica residenziale**, con potenziale espansione a condomini, edifici e città intelligenti.
+
+<br>
+
+📌 *Questo report è stato redatto sulla base di pratiche di data science applicate al contesto del consumo energetico residenziale e mira a facilitare il processo decisionale del cliente finale.*
 
 <br>
 
 ## 📓 Pipeline del Codice
-
 
 <br>
 
