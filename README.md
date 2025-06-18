@@ -379,7 +379,7 @@ This project was developed for an external client interested in **residential en
 
 <br>
 
-### **[Cell 1]() — Import libraries**
+### **[Cell 1]() - Import libraries**
 
 ```python
 import locale
@@ -398,7 +398,7 @@ from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 
 <br>
 
-### **[Cell 2]() — Data loading**
+### **[Cell 2]() - Data loading**
 
 ```python
 # Change the path according to your environment
@@ -413,7 +413,7 @@ df.info()
 
 <br>
 
-### **[Cell 3]() — Date preprocessing**
+### **[Cell 3]() - Date preprocessing**
 
 ```python
 meses_pt = {
@@ -428,7 +428,7 @@ df['Data'] = pd.to_datetime(df['Data'] + '/2025', format='%d/%m/%Y')
 
 <br>
 
-### **[Cell 4]() — Descriptive statistics and correlation**
+### **[Cell 4]() - Descriptive statistics and correlation**
 
 ```python
 summary = df.describe()
@@ -495,7 +495,7 @@ plt.show()
 
 <br>
 
-### **[Cell 8: PLOT 4]() Correlation between activations and consumption**
+### **[Cell 8: PLOT 4]() - Correlation between activations and consumption**
 
 ```python
 correlations = df[['KW/H', 'Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'Piscina']].corr()['KW/H'][1:]
@@ -548,7 +548,7 @@ plt.show()
 
 <br>
 
-### **[Cell 11]() — Model coefficients**
+### **[Cell 11]() - Model coefficients**
 
 ```python
 coefficients = pd.Series(model.coef_, index=X.columns)
@@ -560,7 +560,7 @@ print(coefficients.sort_values(ascending=False))
 
 <br>
 
-### **[Cell 12]() — Calculate activation percentages per room**
+### **[Cell 12]() - Calculate activation percentages per room**
 
 ```python
 df['Total_activations'] = df[['Quarto1', 'Quarto2', 'Sala', 'Cozinha']].sum(axis=1)
@@ -608,7 +608,7 @@ plt.show()
 
 <br>
 
-### **[Cell 15]() — Average profile per cluster and naming**
+### **[Cell 15]() - Average profile per cluster and naming**
 
 ```python
 col_pcts = [f'{c}_pct' for c in ['Quarto1', 'Quarto2', 'Sala', 'Cozinha']]
@@ -646,7 +646,7 @@ perfil_clusters['Profile'] = perfil_clusters.apply(name_cluster, axis=1)
 
 <br>
 
-### **[Cell 16]() — Recommendations dictionary and display by cluster**
+### **[Cell 16]() - Recommendations dictionary and display by cluster**
 
 ```python
 def map_profile_to_key(profile):
