@@ -16,43 +16,11 @@
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-[![Smart City Laguna - Simulador](https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-2ea44f?logo=streamlit&logoColor=white&style=for-the-badge)](https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/)
-
-<br>
-
-[![Smart City Laguna - Simulador](https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=for-the-badge)](https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/)
-<br>
-
-[![Smart City Laguna - Simulador](https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat)](https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/)
-
-[![Smart City Laguna - Simulador](https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square)](https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/)
-
----
-
-### <p align="center">💡 Acesse o Simulador e Apoie o Projeto
-
-<p align="center">
-  <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
-    <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat">
-  </a>
-  &nbsp;
-  <a href="https://github.com/sponsors/Mindful-AI-Assistants">
-    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub&style=flat">
-  </a>
-</p>
-
--------
+<p align="center"><em>🌎 Explore the simulator and support our AI for Smart Cities project:</em></p>
 
 
----
-<p align="right">
-  <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
-    <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
-  </a>
-  <a href="https://github.com/sponsors/Mindful-AI-Assistants">
-    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub&style=flat-square">
-  </a>
-</p>
+
+
 
  <br><br>
 
