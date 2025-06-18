@@ -13,7 +13,7 @@
 
 <br><br>
 
-#### <p align="center"><em>🌎 Esplora il simulatore e supporta il nostro progetto di IA per città intelligenti:</em></p>
+### <p align="center"><em> Esplora il simulatore e supporta il nostro progetto di IA per città intelligenti:</em></p>
 
 <br>
 
