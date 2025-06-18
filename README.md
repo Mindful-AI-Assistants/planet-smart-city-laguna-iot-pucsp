@@ -22,15 +22,16 @@
 
  <br>
 
+
+
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
-    <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
   </a>
   <a href="https://github.com/sponsors/Mindful-AI-Assistants">
-    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
   </a>
 </p>
-
 
  <br><br>
 
