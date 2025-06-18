@@ -41,18 +41,21 @@
 
 <br><br>
 
+---///
 ## [Visão Geral da Apresentação]():
 
-O **CDIA Nexus** é o projeto final de extensão acadêmica e social do **Grupo de Ciência de Dados e Inteligência Artificial da PUC-SP**, com foco na aplicação de **IoT e IA** para **sistemas inteligentes de água e energia** na **Smart City Laguna**, um desenvolvimento urbano pioneiro em Fortaleza, Brasil.
+**CDIA Nexus** é o projeto final de extensão acadêmica e social do **Grupo de Ciência de Dados e Inteligência Artificial da PUC-SP**, focado na aplicação de **IoT e IA** para **sistemas inteligentes de água e energia** na **Smart City Laguna**, um desenvolvimento urbano pioneiro em Fortaleza, Brasil.
 
-Essa iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-Habitat** e **Starlink**, alinhada aos **Objetivos de Desenvolvimento Sustentável da ONU (ODS)** e comprometida com **inovação social, inclusão digital e inteligência ambiental**.
+Esta iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-Habitat** e **Starlink**, alinhada com os **Objetivos de Desenvolvimento Sustentável (ODS) da ONU** e comprometida com **inovação social, inclusão digital e inteligência ambiental**.
 
-🔍 A apresentação destaca:
+<br>
 
-- Um **Dashboard integrado de Monitoramento de Água & Energia**  
+[Principais destaques da apresentação]():
+
+- Um **painel integrado de monitoramento de Água e Energia**  
 - Análises preditivas com modelos de IA  
 - Engajamento comunitário por meio de estratégias orientadas por dados  
-- Insights sobre a implantação com **conectividade Starlink** e infraestrutura Planet  
+- Insights sobre a implementação usando **conectividade Starlink** e infraestrutura Planet
 
 <br>
 
@@ -65,31 +68,37 @@ Essa iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-
 
 <br>
 
-##  [Visão Geral do Projeto]():
+## [Visão Geral do Projeto]():
 
-Desenvolvido pelo **grupo CDIA da PUC-SP**, este projeto de extensão visa otimizar **sistemas inteligentes de gestão de recursos** na Smart City Laguna – combinando **tecnologia**, **sustentabilidade** e **inovação comunitária** para empoderar regiões em vulnerabilidade.
+Desenvolvido pelo **grupo CDIA da PUC-SP**, este projeto de extensão visa otimizar **sistemas inteligentes de gestão de recursos** na Smart City Laguna – combinando **tecnologia**, **sustentabilidade** e **inovação comunitária** para empoderar regiões vulneráveis.
 
-Com base sólida em **colaboração interdisciplinar** e cooperação internacional, esta iniciativa conecta ciência de dados a aplicações reais para fomentar cidades resilientes, inclusivas e inteligentes.
+Com uma base sólida em **colaboração interdisciplinar** e cooperação internacional, esta iniciativa conecta a ciência de dados a aplicações reais para fomentar cidades resilientes, inclusivas e inteligentes.
 
 <br>
 
 ## 🌐 [Planet Smart City]():
 
-Fundada em 2015 por **Giovanni Savio** e **Susanna Marchionni**, a Planet Smart City lidera o movimento global por **habitações acessíveis, inteligentes e sustentáveis**. Seus projetos integram:
+Fundada em 2015 por **Giovanni Savio** e **Susanna Marchionni**, a Planet Smart City lidera o movimento global por **habitações acessíveis, inteligentes e sustentáveis**. Seus projetos combinam:
 
 - Planejamento urbano avançado  
 - Tecnologia integrada  
-- Iniciativas de construção comunitária  
+- Iniciativas de construção comunitária
 
-🌟 Contribuidor-chave: **Stefano Buono**, físico e empreendedor, ex-pesquisador do CERN e fundador da AAA (vendida à Novartis), hoje presidente da LIFTT e CEO da **Newcleo** (inovação em energia nuclear limpa).
+<br>
 
-🔗 [Visite Planet Smart City](https://planetsmartcity.com)
+🌟 Contribuidor-chave: [**Stefano Buono**](https://github.com/user-attachments/assets/e53824a7-19df-464d-a12f-61024ba18a94), físico e empreendedor, ex-pesquisador do CERN e fundador da AAA (vendida à Novartis), atualmente presidente da LIFTT e CEO da **Newcleo** (inovação em energia nuclear limpa).
+
+<br>
+
+➢ [Visite Planet Smart City - Oficial](https://planetsmartcity.com/) 🇮🇹  
+➢ [Visite Planet Smart City - Brasil](https://planetsmartcity.com.br) 🇧🇷  
+➢ [Visite Planet Smart City - Índia](https://planetsmartcity.in/) 🇮🇳  
 
 <br>
 
 ## [O Projeto Laguna: Inovação Social Inteligente]():
 
-Localizada em **São Gonçalo do Amarante, Ceará, Fortaleza, Brazil 🇧🇷**, a **Smart City Laguna** é a cidade inteligente emblemática da Planet no Brasil, com mais de **60 soluções inteligentes**, incluindo:
+Localizada em **São Gonçalo do Amarante, Ceará**, a **Smart City Laguna** é a cidade inteligente emblemática da Planet no Brasil, com mais de **60 soluções inteligentes**, incluindo:
 
 - Wi-Fi público e rede de IoT  
 - Mobilidade urbana e iluminação sustentáveis  
@@ -98,7 +107,7 @@ Localizada em **São Gonçalo do Amarante, Ceará, Fortaleza, Brazil 🇧🇷**,
 
 <br>
 
-### [No centro deste ecossistema]():  
+## [No centro deste ecossistema]():
 
 **O Gestor Comunitário** — um profissional capacitado dedicado a:
 
@@ -106,34 +115,38 @@ Localizada em **São Gonçalo do Amarante, Ceará, Fortaleza, Brazil 🇧🇷**,
 - Promover oficinas, educação e engajamento  
 - Fortalecer a coesão social e a gestão de longo prazo  
 
-<br>  
+<br>
 
 ## 🌍 [Parcerias Globais]():
 
-Agradecimento especial a [Pedro](), CEO da Proptech Brasil, por liderar com empatia, respeito e integridade. Sua forma de se colocar a serviço dos outros faz toda a diferença.
-
-Estendemos nossa sincera gratidão às organizações e pessoas que tornaram possível a implementação do CDIA PUC-SP. Agradecimentos especiais a:
+Agradecimento especial a [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-neto-95a047174/), CEO da Proptech Brasil, por liderar com empatia, respeito e integridade. A forma como você se coloca à disposição dos outros faz toda a diferença.
 
 <br>
 
-| **Organização**           | **Contribuição**                                              |
-|---------------------------|---------------------------------------------------------------|
-| **Organização das Nações Unidas (ONU)** | Financiamento para aquisição de placas solares        |
-| **PUC-SP (CDIA)**         | Projeto e implementação de soluções com IoT e IA              |
-| **ONU-Habitat**           | Apoio técnico e diretrizes éticas                             |
-| **Starlink**              | Infraestrutura de internet via satélite                       |
-| **Planet Smart City**     | Desenvolvimento urbano e suporte presencial                   |
-| **Proptech Brasil**       | Implementação local e apoio estratégico                       |
+#### [Ping Pedro](mailto:pedro@flexautomation.com.br) 📲
 
 <br>
 
-[Também agradecemos]():
+Estendemos nossa sincera gratidão às organizações e indivíduos que tornaram possível a implementação do projeto CDIA PUC-SP. Agradecimento especial a:
+
+<br>
+
+| **Organização**             | **Contribuição**                                                |
+|-----------------------------|------------------------------------------------------------------|
+| **Nações Unidas (ONU)**     | Financiamento para aquisição de painéis solares                 |
+| **PUC-SP (CDIA)**           | Design e implementação de IoT e IA                              |
+| **ONU-Habitat**             | Apoio técnico e estruturação ética                              |
+| **Starlink**                | Infraestrutura de internet via satélite                         |
+| **Planet Smart City**       | Desenvolvimento urbano e apoio local                            |
+| **Proptech Brasil**         | Implementação local e apoio estratégico                         |
+
+<br>
+
+### [Também agradecemos a]():
 
 - Líderes locais e membros da comunidade pela confiança e colaboração contínua.  
-- A equipe técnica multidisciplinar por sua dedicação a soluções sustentáveis e inovadoras.  
-- A todos que contribuíram, direta ou indiretamente, para tornar essa visão uma realidade.
-
-<br>
+- A equipe técnica multidisciplinar pela dedicação a soluções inovadoras e sustentáveis.  
+- Todos que contribuíram, direta ou indiretamente, para tornar esta visão realidade.
 
 #### [Juntos](), esses parceiros representam uma abordagem integrada para alcançar os **Objetivos de Desenvolvimento Sustentável**, especialmente em regiões emergentes. 💙🌎
 
@@ -141,79 +154,90 @@ Estendemos nossa sincera gratidão às organizações e pessoas que tornaram pos
 
 ## 💧 Módulo CDIA: Sistemas de Água & Energia ⚡
 
-O **Módulo de Água & Energia** desenvolvido pelo CDIA foca no uso de **IoT e IA** para otimização de recursos. Principais características:
+O **Módulo de Água & Energia**, desenvolvido pelo CDIA, foca no uso de **IoT e IA** para otimização de recursos. Principais funcionalidades:
 
 - Sensores inteligentes para monitoramento de consumo  
-- Dashboards com IA e alertas preditivos  
-- Visualizações para conscientização da comunidade  
+- Dashboards com alertas preditivos baseados em IA  
+- Visualizações para conscientização comunitária  
 - Modelos escaláveis de gestão de recursos  
 
-### 🧑🏼‍🚀 Integrantes da Equipe
+<br>
 
-| Nome                    | Função                                             |
-|-------------------------|----------------------------------------------------|
-| **Fabiana 🧬 Campanari** | [Github Contact](https://github.com/FabianaCampanari) - [Contact Hub](https://linktr.ee/fabianacampanari) - [email](mailto:fabicampanari@proton.me) |
-| **Andson Ribeiro**      | [Github]() - [email]()                  |
-| **Pedro Vyctor Almeida**| [Github]() - [email]()         |
-| **Leonardo X Fernandes**| [Github]() - [email]()     |
+## 🧑🏼‍🚀 Membros da Equipe
 
+| Nome                     | Função                                            |
+|--------------------------|---------------------------------------------------|
+| **Andson Ribeiro**       | [Github](https://github.com/andsonandreribeiro09) - [Contato]() |
+| **Fabiana 🧬 Campanari** | [Github](https://github.com/FabianaCampanari) - [Contato Hub](https://linktr.ee/fabianacampanari) |
+| **Leonardo X Fernandes** | [Github](https://github.com/LeonardoXF) - [Contato]() |
+| **Pedro Vyctor Almeida** | [Github](https://github.com/ppvyctor) - [Contato]() |
 
-> Todos os membros contribuíram colaborativamente nas áreas técnicas e criativas. Fabiana também liderou a **identidade e linguagem visual do projeto**.
+<br>
 
-## Inovações & Atividades
+💙 Todos os membros colaboraram nas áreas técnicas e criativas. Fabiana 🧬 Campanari também liderou a **identidade visual e narrativa do projeto**.
+
+<br>
+
+## Inovações e Atividades
 
 - Instalação de **sensores IoT** para monitoramento de água e energia  
 - Desenvolvimento de **dashboards preditivos** e sistemas de alerta  
-- Cocriação de uma **interface de visualização de dados** para os moradores  
-- Implantação de **projetos-piloto de energia solar** apoiados pela ONU-Habitat  
-- Análises em tempo real para **planejamento de recursos e sustentabilidade**
+- Co-criação de **interfaces de visualização de dados** para moradores  
+- Implementação de pilotos de **energia solar** apoiados pela ONU-Habitat  
+- Análises em tempo real para **planejamento e sustentabilidade de recursos**
+
+<br>
 
 ## Resultados de Aprendizagem
 
-A equipe adquiriu experiência prática em:
+A equipe desenvolveu experiência prática em:
 
 - **Design thinking + metodologias participativas**  
 - **Pesquisa de campo em infraestrutura urbana**  
-- **Aprendizado de máquina e modelagem de dados**  
+- **Modelagem de dados e machine learning**  
 - **Prototipagem e integração de sistemas**  
-- Entrega de soluções que refletem as **necessidades reais da comunidade**
+- Desenvolvimento de soluções que refletem as **necessidades reais da comunidade**
+
+<br>
 
 ## Documentação Visual
 
-### **Galeria de Fotos**
+📷 **Galeria de Fotos**
 - `drone_view_laguna_2025.jpg` – Vista aérea da cidade  
 - `team_workshop_on_site.jpeg` – Atividades de campo com os moradores  
-- `solar_panels_community.jpeg` – Implantação solar apoiada pela ONU  
-- `iot_dashboard_mockup.png` – Prévia do design do dashboard
+- `solar_panels_community.jpeg` – Instalação de painéis solares apoiada pela ONU  
+- `iot_dashboard_mockup.png` – Protótipo do dashboard  
 
-  <br>
+<br>
 
-### **Apresentações**
+## **Apresentações**
 - `CDIA_Final_Pitch.pdf` – Principais insights e resultados  
 - `UN_SolarInvestment_Laguna.pptx` – Apresentação para stakeholders  
 - `IoT_Architecture_Prototype.pptx` – Arquitetura de sensores e fluxo de dados
 
 <br>
 
-### **Dados**
+## **Dados**
 - `energy_usage.csv` – Histórico de consumo de energia  
-- `water_flow_readings.json` – Registros de uso de água em tempo real
-
-<br>  
-
-🗂 **Estrutura de Pastas**  
-SmartCityLaguna_Projeto/  
-├── apresentacoes/  
-├── galeria/  
-├── dados/  
-├── README.md  
-└── LICENÇA (MIT)
+- `water_flow_readings.json` – Leituras em tempo real do uso de água
 
 <br>
 
-## Agradecimentos
+🗂 **Estrutura de Pastas**  
+SmartCityLaguna_Project/  
+├── presentations/  
+├── gallery/  
+├── data/  
+├── README.md  
+└── LICENSE (MIT)
 
-Estendemos nossos sinceros agradecimentos ao **Pedro da Proptech**, cuja orientação e expertise foram fundamentais ao longo deste projeto. Seu apoio e visão foram pilares essenciais da nossa jornada de desenvolvimento.
+<br>
+
+## Agradecimento
+
+Estendemos nosso sincero agradecimento ao **Pedro da Proptech**, cujo apoio e expertise foram fundamentais ao longo deste projeto. Sua visão e presença foram pilares essenciais na nossa jornada.
+
+<br>
 
 ## ✨ Reflexão Final
 
@@ -221,11 +245,12 @@ A Smart City Laguna é a prova de que **inovação inclusiva**, **infraestrutura
 
 Por meio da **tecnologia com empatia**, este projeto mostra como dados e design podem servir não apenas aos sistemas, mas às pessoas que vivem neles.
 
-> _Desenvolvido com propósito e precisão pela Equipe CDIA Smart Water & Energy – PUC-SP_  
-> _“A tecnologia se torna significativa quando eleva comunidades.”_
+> _Desenvolvido com propósito e precisão pela equipe de Água & Energia Inteligente – CDIA PUC-SP_  
+> _“A tecnologia ganha sentido quando eleva as comunidades.”_
 
+<br><br><br>
 
-<br>
+/////---///
 
 ## Gêmeo Digital para Monitoramento e Otimização de Energia Residencial - SmartCity
 ### [Do Código ao Insight: Análise de Dados e Suporte à Decisão]()
