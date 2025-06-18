@@ -165,7 +165,7 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 <br>
 
 
-## ⚡ [pCDIA Module: Water & Energy Systems]() 💧
+## ⚡ [CDIA PUC-São Paulo Module: Water & Energy Systems]() 💧
 
 The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and AI** for resource optimization. Key features:
 
@@ -302,6 +302,8 @@ A **simulated** dataset was used, containing daily records with the following va
 <br>
 
 ##  [Methodology and Steps Taken]()
+
+<br>
 
 1. [**Data import and visualization**]():  
 Reading the spreadsheet with `pandas` and validating formats.
