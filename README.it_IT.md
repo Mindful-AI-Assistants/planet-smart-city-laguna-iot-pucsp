@@ -15,7 +15,7 @@
 
 <p align="center"><em>🌎 Esplora il simulatore e supporta il nostro progetto di IA per città intelligenti:</em></p>
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
