@@ -398,7 +398,7 @@ from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 
 <br>
 
-### [**Cell 2]() — Data loading**
+### **[Cell 2]() — Data loading**
 
 ```python
 # Change the path according to your environment
@@ -413,7 +413,7 @@ df.info()
 
 <br>
 
-### [**Cell 3]() — Date preprocessing**
+### **[Cell 3]() — Date preprocessing**
 
 ```python
 meses_pt = {
@@ -428,7 +428,7 @@ df['Data'] = pd.to_datetime(df['Data'] + '/2025', format='%d/%m/%Y')
 
 <br>
 
-### [**Cell 4]() — Descriptive statistics and correlation**
+### **[Cell 4]() — Descriptive statistics and correlation**
 
 ```python
 summary = df.describe()
@@ -439,7 +439,7 @@ print(correlation)
 
 <br>
 
-### [**Cell 5 — PLOT 1]() - Variable distributions**
+### **[Cell 5 — PLOT 1]() - Variable distributions**
 
 ```python
 fig, axes = plt.subplots(2, 3, figsize=(15, 10))
@@ -458,7 +458,7 @@ plt.show()
 
 <br>
 
-### [**Cell 6 — PLOT 2]() - Total consumption over time**
+### **[Cell 6 — PLOT 2]() - Total consumption over time**
 
 ```python
 plt.figure(figsize=(14, 6))
@@ -476,7 +476,7 @@ plt.show()
 
 <br>
 
-### [**Cell 7 — Weekly grouping and PLOT 3]() -  Weekly activations per room**
+### **[Cell 7 — Weekly grouping and PLOT 3]() -  Weekly activations per room**
 
 ```python
 df['Semana'] = df['Data'].dt.to_period('W').apply(lambda r: r.start_time)
@@ -495,7 +495,7 @@ plt.show()
 
 <br>
 
-### [**Cell 8 — PLOT 4]() Correlation between activations and consumption**
+### **[Cell 8 — PLOT 4]() Correlation between activations and consumption**
 
 ```python
 correlations = df[['KW/H', 'Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'Piscina']].corr()['KW/H'][1:]
@@ -512,7 +512,7 @@ plt.show()
 
 <br>
 
-### **Cell 9 — Predictive modeling (Linear Regression) and evaluation**
+### **{Cell 9 — Predictive modeling]() - Linear Regression and Evaluation**
 
 ```python
 X = df[['Quarto1', 'Quarto2', 'Sala', 'Cozinha']]
@@ -530,7 +530,7 @@ print("R² Score:", round(r2, 2))
 
 <br>
 
-### **Cell 10 — [PLOT 5] Actual vs Predicted Consumption**
+### **[Cell 10 — PLOT 5]() - Actual vs Predicted Consumption**
 
 ```python
 plt.figure(figsize=(10, 5))
@@ -548,7 +548,7 @@ plt.show()
 
 <br>
 
-### **Cell 11 — Model coefficients**
+### **[Cell 11]() — Model coefficients**
 
 ```python
 coefficients = pd.Series(model.coef_, index=X.columns)
@@ -560,7 +560,7 @@ print(coefficients.sort_values(ascending=False))
 
 <br>
 
-### **Cell 12 — Calculate activation percentages per room**
+### **[Cell 12]() — Calculate activation percentages per room**
 
 ```python
 df['Total_activations'] = df[['Quarto1', 'Quarto2', 'Sala', 'Cozinha']].sum(axis=1)
@@ -571,7 +571,7 @@ for room in ['Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'Piscina']:
 
 <br>
 
-### **Cell 13 — [PLOT 6] Elbow Method for KMeans**
+### **[Cell 13 — PLOT 6]() - Elbow Method for KMeans**
 
 ```python
 scaler = StandardScaler()
@@ -592,8 +592,9 @@ plt.show()
 
 **Visually choose the ideal number of clusters.**
 
----<br>
-### **Cell 14 — KMeans and [PLOT 7] Pairplot of clusters**
+<br>
+
+### **[Cell 14 — KMeans and PLOT 7]() - Pairplot of clusters**
 
 ```python
 kmeans = KMeans(n_clusters=3, random_state=42)
@@ -607,7 +608,7 @@ plt.show()
 
 <br>
 
-### **Cell 15 — Average profile per cluster and naming**
+### **[Cell 15]() — Average profile per cluster and naming**
 
 ```python
 col_pcts = [f'{c}_pct' for c in ['Quarto1', 'Quarto2', 'Sala', 'Cozinha']]
@@ -645,7 +646,7 @@ perfil_clusters['Profile'] = perfil_clusters.apply(name_cluster, axis=1)
 
 <br>
 
-### **Cell 16 — Recommendations dictionary and display by cluster**
+### **[Cell 16]() — Recommendations dictionary and display by cluster**
 
 ```python
 def map_profile_to_key(profile):
@@ -716,7 +717,7 @@ for cluster_id, row in perfil_clusters.iterrows():
 
 <br>
 
-### **Cell 17 — [PLOT 8] Boxplot of consumption by cluster**
+### **[Cell 17 — PLOT 8]() - Boxplot of consumption by cluster**
 
 ```python
 plt.figure(figsize=(7,5))
@@ -729,7 +730,7 @@ plt.show()
 
 <br>
 
-### **Cell 18 — [PLOT 9] Heatmap of percentages by cluster**
+### **[Cell 18 — PLOT 9] - Heatmap of percentages by cluster**
 
 ```python
 heatmap_data = perfil_clusters[col_pcts] * 100
@@ -745,7 +746,7 @@ plt.show()
 
 <br>
 
-### **Cell 19 — [PLOT 10] Radar chart of rooms by cluster**
+### **[Cell 19 — PLOT 10]() - Radar chart of rooms by cluster**
 
 ```python
 categories = ['Quarto1', 'Quarto2', 'Sala', 'Cozinha']
@@ -766,7 +767,7 @@ plt.show()
 
 <br>
 
-### **Cell 20 — [PLOT 11] Cluster visualization with PCA**
+### **[Cell 20 — PLOT 11]() - Cluster visualization with PCA**
 
 <br>
 
@@ -804,7 +805,7 @@ plt.show()
 
 <br>
 
-## 📊 Interpretation of Graphs and Profiles
+## 📊 [Interpretation of Graphs and Profiles]:
 
 - **Variable Distribution**: Shows how activations and consumption are distributed.  
 - **Temporal Evolution**: Allows identification of consumption trends over the days.  
@@ -815,7 +816,7 @@ plt.show()
 
 <br>
 
-## 💡 Recommendations by Profile
+## 💡 [Recommendations by Profile]:
 
 | Profile | Main Recommendations |
 | :-- | :-- |
@@ -827,7 +828,7 @@ plt.show()
 
 <br>
 
-## 🧭 Conclusion
+## 🧭 [Conclusion]():
 
 The project enables identifying consumption patterns, forecasting future use, and recommending actions for greater energy efficiency, customizing recommendations according to each residence’s usage profile.
 
@@ -838,7 +839,9 @@ Adjust the Excel file path (`file_path`) according to your environment.
 
 <br>
 
-**This analysis was prepared based on data science practices applied to residential energy consumption contexts and aims to facilitate decision-making for the end client.**
+***This analysis was prepared based on data science practices applied to residential energy consumption contexts and aims to facilitate decision-making for the end client.***
+
+
 
 
 
