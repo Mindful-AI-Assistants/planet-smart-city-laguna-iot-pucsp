@@ -16,9 +16,16 @@
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-<br><br>
- 
+[![Smart City Laguna - Simulador](https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-2ea44f?logo=streamlit&logoColor=white&style=for-the-badge)](https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/)
 
+<br>
+
+[![Smart City Laguna - Simulador](https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=for-the-badge)](https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/)
+<br>
+
+
+
+ <br><br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/34b57670-0c4b-40ec-a2ee-f53134870f30"/>
