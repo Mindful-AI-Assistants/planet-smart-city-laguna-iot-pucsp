@@ -14,12 +14,22 @@
 
  <br><br>
 
+ <!--
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+-->
 
-<p align="center"><em>🌎 Explore the simulator and support our AI for Smart Cities project:</em></p>
+#### <p align="center"><em> Explore the simulator and support our AI for Smart Cities project:</em></p>
 
+ <br>
 
-
+<p align="center">
+  <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
+    <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://github.com/sponsors/Mindful-AI-Assistants">
+    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=for-the-badge">
+  </a>
+</p>
 
 
  <br><br>
