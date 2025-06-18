@@ -2,7 +2,7 @@
 
  \[**[🇮🇹 Italiano](README.it_IT.md)**\]  \[[🇧🇷 Português](README.pt_BR.md)\] \[[🇺🇸 English](README.md)\]
 
-<br><br>
+<br><br><br>
 
 ## <p align="center">  🌐 CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy   
 #### <p align="center"> ***In collaborazione con [Planet Smart City](), PUC-SP [Data Science & AI](), UN [Sustainable Development (SDGs)](), [Starlink]() e [Proptech ]() Brasile***
@@ -141,6 +141,8 @@ Estendiamo la nostra sincera gratitudine alle organizzazioni e agli individui ch
 - Il team tecnico multidisciplinare per la dedizione a soluzioni innovative e sostenibili.  
 - Tutti coloro che hanno contribuito, direttamente o indirettamente, a rendere questa visione una realtà.
 
+<br>
+
 #### [Insieme](), questi partner rappresentano un approccio integrato per raggiungere gli **Obiettivi di Sviluppo Sostenibile**, specialmente nelle regioni emergenti. 💙🌎
 
 <br>
@@ -238,6 +240,8 @@ La Smart City Laguna è la prova che **innovazione inclusiva**, **infrastrutture
 
 Attraverso la **tecnologia con empatia**, questo progetto dimostra come i dati e il design possano servire non solo i sistemi, ma anche le persone che ci vivono.
 
+<br><br>
+
 > _Sviluppato con scopo e precisione dal team Acqua & Energia Intelligente – CDIA PUC-SP_  
 > _“La tecnologia acquista significato quando eleva le comunità.”_
 
@@ -267,6 +271,8 @@ Sviluppare una soluzione basata su data science e intelligenza artificiale per *
 <br>
 
 ## Domanda di Business
+
+<br>
 
 > “Come prevedere il consumo giornaliero di energia sulla base del comportamento per stanza e, da ciò, proporre misure automatiche di risparmio e efficienza energetica?”
 
