@@ -71,7 +71,7 @@ Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart C
 
 <br>
 
-🌟 Key contributor: **Stefano Buono**, physicist and entrepreneur, former CERN researcher and founder of AAA (sold to Novartis), now President of LIFTT and CEO of **Newcleo** (clean nuclear innovation).
+🌟 Key contributor: [**Stefano Buono**](https://github.com/user-attachments/assets/e53824a7-19df-464d-a12f-61024ba18a94), physicist and entrepreneur, former CERN researcher and founder of AAA (sold to Novartis), now President of LIFTT and CEO of **Newcleo** (clean nuclear innovation).
 
 <br>
 
@@ -115,7 +115,7 @@ Special thanks to [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-n
 
 <br>
 
-### [Ping Pedro](mailto:pedro@flexautomation.com.br) 📲
+#### [Ping Pedro](mailto:pedro@flexautomation.com.br) 📲
 
 <br>
 
