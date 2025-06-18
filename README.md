@@ -217,6 +217,8 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 
 ## [Visual Documentation]()
 
+<br>
+
 📷 [**Photo Gallery**]()
 - `drone_view_laguna_2025.jpg` – Aerial view of the city  
 - `team_workshop_on_site.jpeg` – Field activities with residents  
@@ -270,7 +272,7 @@ Through **technology with empathy**, this project shows how data and design can 
 
 
 ## Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
-### [From Code to Insight: Data Analysis & Decision Support]()
+#### [***From Code to Insight: Data Analysis & Decision Support***]()
 
 <br>
 
