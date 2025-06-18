@@ -3,16 +3,19 @@
 
 #####  \[[🇮🇹 Italiano](README.it_IT.md)\] \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]   
 
-<br><br>
+<br><br><br><br>
  
 ## <p align="center">  🌐 CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy   
 #### <p align="center"> ***In collaboration with [Planet Smart City](), PUC-SP [Data Science & AI](), UN [Sustainable Development (SDGs)](), [Starlink]() and [Proptech ]() Brazil***
 
- <br><br>
+
+ <br><br><br>
+ 
 
 ### <p align="center"> Smart City Laguna IoT – Fortaleza, Brazil 💛💚  
 
- <br><br>
+
+ <br><br><br>
 
  <!--
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
@@ -31,7 +34,9 @@
   </a>
 </p>
 
+
  <br><br>
+ 
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/34b57670-0c4b-40ec-a2ee-f53134870f30"/>
@@ -99,8 +104,6 @@ Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart C
 <br>
 
 
-
-
 ## [The Laguna Project: Smart Social Innovation]():
 
 Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Planet’s flagship smart city in Brazil, featuring over **60 smart solutions**, including:
@@ -155,12 +158,14 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 - The multidisciplinary technical team for their dedication to innovative and sustainable solutions.
 - Everyone who contributed, directly or indirectly, to bringing this vision to life.
 
+<br>
+
 #### [Together](), these partners embody an integrated approach to achieving the **Sustainable Development Goals**, particularly in emerging regions. 💙🌎
 
 <br>
 
 
-## 💧 CDIA Module: Water & Energy Systems ⚡
+## ⚡ [pCDIA Module: Water & Energy Systems]() 💧
 
 The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and AI** for resource optimization. Key features:
 
@@ -170,10 +175,9 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 - Scalable resource management models
 
 <br>
-
   
 
-## 🧑🏼‍🚀 Team Members
+## 🧑🏼‍🚀 [Team Members]()
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
@@ -189,7 +193,7 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 
 <br>
 
-## Innovations & Activities
+## [Innovations & Activities]()
 
 - Installation of **IoT sensors** for water and energy monitoring  
 - Development of **predictive dashboards** and alert systems  
@@ -197,11 +201,11 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 - Deployment of **solar energy pilots** supported by UN-Habitat  
 - Real-time analytics for **resource planning and sustainability**
 
-  <br>
+ <br>
 
-##  Learning Outcomes
+##  [Learning Outcomes]()
 
-The team gained hands-on experience in:
+***The team gained hands-on experience in***:
 
 - **Design thinking + participatory methodologies**  
 - **Field research in urban infrastructure**  
@@ -209,11 +213,11 @@ The team gained hands-on experience in:
 - **Prototyping and system integration**  
 - Delivering solutions that reflect **real-world community needs**
 
-  <br>
+ <br>
 
-## Visual Documentation
+## [Visual Documentation]()
 
-📷 **Photo Gallery**
+📷 [**Photo Gallery**]()
 - `drone_view_laguna_2025.jpg` – Aerial view of the city  
 - `team_workshop_on_site.jpeg` – Field activities with residents  
 - `solar_panels_community.jpeg` – UN-backed solar deployment  
@@ -221,20 +225,20 @@ The team gained hands-on experience in:
 
 <br>
 
-## **Presentations**
+## [**Presentations**]()
 - `CDIA_Final_Pitch.pdf` – Core insights and results  
 - `UN_SolarInvestment_Laguna.pptx` – Stakeholder presentation  
 - `IoT_Architecture_Prototype.pptx` – Sensor and data flow architecture
 
  <br> 
 
-## **Data**
+## [**Data**]()
 - `energy_usage.csv` – Historical energy consumption  
 - `water_flow_readings.json` – Real-time water usage logs
 
 <br>
 
-🗂 **Folder Structure**  
+🗂 [**Folder Structure**]()  
 SmartCityLaguna_Project/  
 ├── presentations/  
 ├── gallery/  
@@ -244,17 +248,19 @@ SmartCityLaguna_Project/
 
 <br>
 
-##  Acknowledgment
+##  [Acknowledgment]()
 
 We extend our sincere thanks to **Pedro from Proptech**, whose guidance and expertise were instrumental throughout this project. His support and vision were essential pillars of our development journey.
 
 <br>
 
-## ✨ Final Reflection
+## ✨ [Final Reflection]()
 
 Smart City Laguna is proof that **inclusive innovation**, **sustainable infrastructure**, and **digital empowerment** can transform lives.
 
 Through **technology with empathy**, this project shows how data and design can serve not only systems, but the people who live within them.
+
+<br><br>
 
 > _Developed with purpose and precision by the CDIA Smart Water & Energy Team – PUC-SP_  
 > _“Technology becomes meaningful when it uplifts communities.”_
@@ -268,13 +274,13 @@ Through **technology with empathy**, this project shows how data and design can 
 
 <br>
 
-## Project Objective
+## [Project Objective]()
 
 Develop a solution based on data science and artificial intelligence to **monitor, predict, and optimize electricity consumption in a smart home** (Smart City Laguna). The project simulates sensor data per room and uses machine learning to anticipate consumption patterns and propose savings actions.
 
 <br>
 
-##  Dataset Used
+##  [Dataset Used]()
 
 A **simulated** dataset was used, containing daily records with the following variables:
 
@@ -285,31 +291,42 @@ A **simulated** dataset was used, containing daily records with the following va
 
 <br>
 
-##  Business Question
+##  [Business Question]()
+
+<br>
 
 > “How to predict daily energy consumption based on room-by-room behavior and, from this, propose automatic measures for savings and energy efficiency?”
 
 <br>
 
-##  Methodology and Steps Taken
+##  [Methodology and Steps Taken]()
 
-1. **Data import and visualization**  
+1. [**Data import and visualization**]():  
 Reading the spreadsheet with `pandas` and validating formats.
 
-2. **Preprocessing**  
+<br>
+
+2. [**Preprocessing**]():  
     - Converting the `Data` column to `datetime` format.  
     - Creating the variable `Dia_ordinal` for modeling.  
     - Calculating average consumption per activation per room.  
     - Simulating solar generation and projecting future consumption.
+  
 
-3. **Predictive Modeling**  
+<br>
+
+3. [**Predictive Modeling**]():  
 A **Linear Regression** model was trained to estimate consumption (`KW/H`) based on total activations per room. Next-day prediction was also implemented.
 
-4. **Visualizations**  
+<br>
+
+4. [**Visualizations**]():  
     - Time series charts with `matplotlib`/`seaborn`.  
     - Ranking of highest-consuming rooms.  
     - Representations of activations by cluster.  
     - Interactive Streamlit dashboard for real-time visualization (optional).
+  
+<br>
 
 5. **Report Export**  
 Automatic generation of PDF reports with relevant data, charts, and forecasts.
@@ -317,7 +334,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 <br>
 
 
-##  Results Obtained
+##  [Results Obtained]()
 
 - The regression model showed good ability to predict consumption based on activations.  
 - It was identified that **Sala (Living Room)** and **Cozinha (Kitchen)** are the rooms with the greatest impact on consumption.  
@@ -326,7 +343,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## Conclusions and Recommendations
+## [Conclusions and Recommendations]()
 
 - **Automate shutdowns** in high-use areas such as living room and kitchen to achieve immediate savings.  
 - **Schedule pool usage times** to mitigate unjustified consumption peaks.  
@@ -335,7 +352,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-##  Deliverables
+##  [Deliverables]()
 
 - Streamlit application with real-time sensor visualization.  
 - PDF report with consumption metrics and suggestions.  
@@ -343,7 +360,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## 👥 Target Audience
+## 👥 [Target Audience]()
 
 This project was developed for an external client interested in **residential energy efficiency** solutions, with potential expansion to condominiums, buildings, and smart cities.
 
@@ -354,13 +371,11 @@ This project was developed for an external client interested in **residential en
 
 <br>
 
-## 📓 Code Pipeline
-
---/////--
+## 📓 [Code Pipeline]()
 
 <br>
 
-### **Cell 1 — Import libraries**
+### [**Cell 1]() — Import libraries**
 
 ```python
 import locale
@@ -379,7 +394,7 @@ from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 
 <br>
 
-### **Cell 2 — Data loading**
+### [**Cell 2]() — Data loading**
 
 ```python
 # Change the path according to your environment
@@ -394,7 +409,7 @@ df.info()
 
 <br>
 
-### **Cell 3 — Date preprocessing**
+### [**Cell 3]() — Date preprocessing**
 
 ```python
 meses_pt = {
@@ -409,7 +424,7 @@ df['Data'] = pd.to_datetime(df['Data'] + '/2025', format='%d/%m/%Y')
 
 <br>
 
-### **Cell 4 — Descriptive statistics and correlation**
+### [**Cell 4]() — Descriptive statistics and correlation**
 
 ```python
 summary = df.describe()
@@ -420,7 +435,7 @@ print(correlation)
 
 <br>
 
-### **Cell 5 — [PLOT 1] Variable distributions**
+### [**Cell 5 — PLOT 1]() - Variable distributions**
 
 ```python
 fig, axes = plt.subplots(2, 3, figsize=(15, 10))
@@ -439,7 +454,7 @@ plt.show()
 
 <br>
 
-### **Cell 6 — [PLOT 2] Total consumption over time**
+### [**Cell 6 — PLOT 2]() - Total consumption over time**
 
 ```python
 plt.figure(figsize=(14, 6))
@@ -457,7 +472,7 @@ plt.show()
 
 <br>
 
-### **Cell 7 — Weekly grouping and [PLOT 3] Weekly activations per room**
+### [**Cell 7 — Weekly grouping and PLOT 3]() -  Weekly activations per room**
 
 ```python
 df['Semana'] = df['Data'].dt.to_period('W').apply(lambda r: r.start_time)
@@ -476,7 +491,7 @@ plt.show()
 
 <br>
 
-### **Cell 8 — [PLOT 4] Correlation between activations and consumption**
+### [**Cell 8 — PLOT 4]() Correlation between activations and consumption**
 
 ```python
 correlations = df[['KW/H', 'Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'Piscina']].corr()['KW/H'][1:]
