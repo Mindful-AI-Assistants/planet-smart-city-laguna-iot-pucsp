@@ -379,7 +379,7 @@ This project was developed for an external client interested in **residential en
 
 <br>
 
-### [**Cell 1]() — Import libraries**
+### **[Cell 1]() — Import libraries**
 
 ```python
 import locale
