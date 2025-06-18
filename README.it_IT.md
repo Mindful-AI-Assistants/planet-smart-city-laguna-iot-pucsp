@@ -241,9 +241,8 @@ Attraverso la **tecnologia con empatia**, questo progetto dimostra come i dati e
 > _Sviluppato con scopo e precisione dal team Acqua & Energia Intelligente – CDIA PUC-SP_  
 > _“La tecnologia acquista significato quando eleva le comunità.”_
 
-<br><br><br>
+<br><br>
 
-<br>
 
 ## Gemello Digitale per il Monitoraggio e l’Ottimizzazione dell’Energia Residenziale – SmartHouse  
 ### [Dal Codice all’Insight: Analisi dei Dati e Supporto Decisionale]()
