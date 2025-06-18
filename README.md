@@ -262,7 +262,7 @@ Through **technology with empathy**, this project shows how data and design can 
 
 <br><br><br>
 
-
+----/////--
 
 
 ## Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
@@ -358,6 +358,7 @@ This project was developed for an external client interested in **residential en
 
 ## 📓 Code Pipeline
 
+--/////--
 
 <br>
 
