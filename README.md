@@ -439,7 +439,7 @@ print(correlation)
 
 <br>
 
-### **[Cell 5 — PLOT 1]() - Variable distributions**
+### **[Cell 5: PLOT 1]() - Variable distributions**
 
 ```python
 fig, axes = plt.subplots(2, 3, figsize=(15, 10))
@@ -458,7 +458,7 @@ plt.show()
 
 <br>
 
-### **[Cell 6 — PLOT 2]() - Total consumption over time**
+### **[Cell 6: PLOT 2]() - Total consumption over time**
 
 ```python
 plt.figure(figsize=(14, 6))
@@ -476,7 +476,7 @@ plt.show()
 
 <br>
 
-### **[Cell 7 — Weekly grouping and PLOT 3]() -  Weekly activations per room**
+### **[Cell 7: Weekly grouping and PLOT 3]() -  Weekly activations per room**
 
 ```python
 df['Semana'] = df['Data'].dt.to_period('W').apply(lambda r: r.start_time)
@@ -495,7 +495,7 @@ plt.show()
 
 <br>
 
-### **[Cell 8 — PLOT 4]() Correlation between activations and consumption**
+### **[Cell 8: PLOT 4]() Correlation between activations and consumption**
 
 ```python
 correlations = df[['KW/H', 'Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'Piscina']].corr()['KW/H'][1:]
@@ -512,7 +512,7 @@ plt.show()
 
 <br>
 
-### **{Cell 9 — Predictive modeling]() - Linear Regression and Evaluation**
+### **[Cell 9: Predictive modeling]() - Linear Regression and Evaluation**
 
 ```python
 X = df[['Quarto1', 'Quarto2', 'Sala', 'Cozinha']]
@@ -530,7 +530,7 @@ print("R² Score:", round(r2, 2))
 
 <br>
 
-### **[Cell 10 — PLOT 5]() - Actual vs Predicted Consumption**
+### **[Cell 10: PLOT 5]() - Actual vs Predicted Consumption**
 
 ```python
 plt.figure(figsize=(10, 5))
@@ -571,7 +571,7 @@ for room in ['Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'Piscina']:
 
 <br>
 
-### **[Cell 13 — PLOT 6]() - Elbow Method for KMeans**
+### **[Cell 13: PLOT 6]() - Elbow Method for KMeans**
 
 ```python
 scaler = StandardScaler()
@@ -594,7 +594,7 @@ plt.show()
 
 <br>
 
-### **[Cell 14 — KMeans and PLOT 7]() - Pairplot of clusters**
+### **[Cell 14: KMeans and PLOT 7]() - Pairplot of clusters**
 
 ```python
 kmeans = KMeans(n_clusters=3, random_state=42)
@@ -717,7 +717,7 @@ for cluster_id, row in perfil_clusters.iterrows():
 
 <br>
 
-### **[Cell 17 — PLOT 8]() - Boxplot of consumption by cluster**
+### **[Cell 17: PLOT 8]() - Boxplot of consumption by cluster**
 
 ```python
 plt.figure(figsize=(7,5))
@@ -730,7 +730,7 @@ plt.show()
 
 <br>
 
-### **[Cell 18 — PLOT 9] - Heatmap of percentages by cluster**
+### **[Cell 18: PLOT 9]() - Heatmap of percentages by cluster**
 
 ```python
 heatmap_data = perfil_clusters[col_pcts] * 100
@@ -746,7 +746,7 @@ plt.show()
 
 <br>
 
-### **[Cell 19 — PLOT 10]() - Radar chart of rooms by cluster**
+### **[Cell 19: PLOT 10]() - Radar chart of rooms by cluster**
 
 ```python
 categories = ['Quarto1', 'Quarto2', 'Sala', 'Cozinha']
@@ -767,7 +767,7 @@ plt.show()
 
 <br>
 
-### **[Cell 20 — PLOT 11]() - Cluster visualization with PCA**
+### **[Cell 20: PLOT 11]() - Cluster visualization with PCA**
 
 <br>
 
