@@ -45,9 +45,6 @@
 https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095
 
 
-<br>
-
-
 #### 📺 [Watch in Full HD on YouTube](https://www.youtube.com/watch?v=cgW4ql2XQgo)
 
 
