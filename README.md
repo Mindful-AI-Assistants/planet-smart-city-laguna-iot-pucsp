@@ -14,9 +14,12 @@
 
 ### <p align="center"> Smart City Laguna IoT – Fortaleza, Brazil 💛💚  
 
- <br><br>
+ <br>
 
 ### <p align="center"><em> Explore the simulator and support our AI for Smart Cities project ↓</em></p>
+
+
+ <br>
 
 
 <!-- BADGES -->
