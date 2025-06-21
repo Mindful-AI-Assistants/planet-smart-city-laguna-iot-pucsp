@@ -35,16 +35,18 @@
 </p>
 
 <br><br>
+
+<!--  VIDEO -->
  
-<p align="center">
-<img src="https://github.com/user-attachments/assets/34b57670-0c4b-40ec-a2ee-f53134870f30"/>
+https://github.com/user-attachments/assets/ca55e240-0bfa-41f9-8010-c5a94799150d
 
 
 📺 https://youtu.be/WmtFxV5G8Fg
 
+
 <br><br>
 
----///
+
 ## [Visão Geral da Apresentação]():
 
 **CDIA Nexus** é o projeto final de extensão acadêmica e social do **Grupo de Ciência de Dados e Inteligência Artificial da PUC-SP**, focado na aplicação de **IoT e IA** para **sistemas inteligentes de água e energia** na **Smart City Laguna**, um desenvolvimento urbano pioneiro em Fortaleza, Brasil.
