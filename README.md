@@ -14,16 +14,8 @@
 
 ### <p align="center"> Smart City Laguna IoT – Fortaleza, Brazil 💛💚  
 
+ <br><br>
 
- <br><br><br>
-
- <!--
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
--->
-
-##### <p align="center"><em> Explore the simulator and support our AI for Smart Cities project ↓</em></p>
-
- <br>
 
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
@@ -38,11 +30,26 @@
  <br><br>
  
 
+#### <p align="center"><em> Explore the simulator and support our AI for Smart Cities project ↓</em></p>
+
+
+ <!--
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+-->
+
+ <br>
+
+
  <p align="center">
 <img src="https://github.com/user-attachments/assets/34b57670-0c4b-40ec-a2ee-f53134870f30"/>
 
 
-📺  https://www.youtube.com/watch?v=cgW4ql2XQgo
+<br>
+
+
+#### 📺 [Watch in Full HD on YouTube](https://www.youtube.com/watch?v=cgW4ql2XQgo)
+
+
 
 
 <br><br>
