@@ -33,6 +33,10 @@
 <img src="https://github.com/user-attachments/assets/34b57670-0c4b-40ec-a2ee-f53134870f30"/>
 </p>
 
+
+
+📺 https://youtu.be/h_9gqAqu1SY
+
 <br><br>
 
 ## [Panoramica della Presentazione]():
