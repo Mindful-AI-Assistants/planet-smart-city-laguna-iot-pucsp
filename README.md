@@ -42,7 +42,7 @@
 <!-- VIDEO -->
 
 
-https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095)
+https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095
 
 
 <br>
