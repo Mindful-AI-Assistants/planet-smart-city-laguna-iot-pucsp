@@ -19,7 +19,7 @@
 ### <p align="center"><em> Explore the simulator and support our AI for Smart Cities project ↓</em></p>
 
 
- <br>
+ <br><br>
 
 
 <!-- BADGES -->
