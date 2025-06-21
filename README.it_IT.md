@@ -29,9 +29,7 @@
 
 <br><br>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/34b57670-0c4b-40ec-a2ee-f53134870f30"/>
-</p>
+https://github.com/user-attachments/assets/3d79a4f6-4e1c-4645-b194-e30869c4f086
 
 
 #### 📺 [Watch in Full HD on YouTube]( https://youtu.be/h_9gqAqu1SY)
