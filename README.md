@@ -16,6 +16,11 @@
 
  <br><br>
 
+### <p align="center"><em> Explore the simulator and support our AI for Smart Cities project ↓</em></p>
+
+
+<!-- BADGES -->
+
 
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
@@ -26,18 +31,12 @@
   </a>
 </p>
 
-
- <br><br>
- 
-
-#### <p align="center"><em> Explore the simulator and support our AI for Smart Cities project ↓</em></p>
-
-
  <!--
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 -->
 
- <br>
+ <br><br>
+ 
 
 <!-- VIDEO -->
 
