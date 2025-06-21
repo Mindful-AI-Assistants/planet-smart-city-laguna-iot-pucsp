@@ -38,7 +38,7 @@
 
 <!--  VIDEO -->
  
-https://github.com/user-attachments/assets/ca55e240-0bfa-41f9-8010-c5a94799150d
+https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 
 
 📺 https://youtu.be/WmtFxV5G8Fg
