@@ -70,7 +70,7 @@ Founded in 2015 by [**Giovanni Savio**]() and [**Susanna Marchionni**](), Planet
 
 <br>
 
-## CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy
+## ⚡️ [CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy]() 💦
 
 The **CDIA Nexus** is an initiative by the Data Science and Artificial Intelligence Group at **PUC-SP**, dedicated to developing applied **AI and IoT** solutions for **smart water and energy management**.
 
