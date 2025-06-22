@@ -461,7 +461,7 @@ Um modelo de [**Regressão Linear**] foi treinado para estimar o consumo (`KW/H`
 
 <br>
 
-### **Célula 1 — Importação das bibliotecas**
+### **[Célula 1]() — Importação das bibliotecas**
 
 ```python
 import locale
@@ -480,7 +480,7 @@ from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 
 <br>
 
-### **Célula 2 — Leitura dos dados**
+### **[Célula 2]() — Leitura dos dados**
 
 ```python
 # Altere o caminho conforme seu ambiente
@@ -496,7 +496,7 @@ df.info()
 
 <br>
 
-### **Célula 3 — Pré-processamento de datas**
+### **[Célula 3]() — Pré-processamento de datas**
 
 ```python
 meses_pt = {
@@ -511,7 +511,7 @@ df['Data'] = pd.to_datetime(df['Data'] + '/2025', format='%d/%m/%Y')
 
 <br>
 
-### **Célula 4 — Estatísticas descritivas e correlação**
+### **[Célula 4]() — Estatísticas descritivas e correlação**
 
 ```python
 summary = df.describe()
@@ -523,7 +523,7 @@ print(correlation)
 
 <br>
 
-### **Célula 5 — [PLOT 1] Distribuição das variáveis**
+### [**Célula 5:  PLOT 1]() - Distribuição das variáveis**
 
 ```python
 fig, axes = plt.subplots(2, 3, figsize=(15, 10))
@@ -546,7 +546,7 @@ plt.show()
 
 <br><br>
 
-### **Célula 6 — [PLOT 2] Evolução do consumo total ao longo do tempo**
+### **[Célula 6: PLOT 2]() - Evolução do consumo total ao longo do tempo**
 
 ```python
 plt.figure(figsize=(14, 6))
@@ -564,7 +564,7 @@ plt.show()
 
 <br>
 
-### **Célula 7 — Agrupamento semanal e [PLOT 3] Acionamentos semanais por cômodo**
+### **[Célula 7: Plot 3]() — Agrupamento semanal e Acionamentos semanais por cômodo**
 
 ```python
 df['Semana'] = df['Data'].dt.to_period('W').apply(lambda r: r.start_time)
@@ -583,7 +583,7 @@ plt.show()
 
 <br>
 
-### **Célula 8 — [PLOT 4] Correlação entre acionamentos e consumo**
+### **[Célula 8: PLOT 4]() - Correlação entre acionamentos e consumo**
 
 ```python
 correlacoes = df[['KW/H', 'Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'Piscina']].corr()['KW/H'][1:]
@@ -600,7 +600,7 @@ plt.show()
 
 <br>
 
-### **Célula 9 — Modelagem preditiva (Regressão Linear) e avaliação**
+### **[Célula 9]() — Modelagem preditiva (Regressão Linear) e avaliação**
 
 ```python
 X = df[['Quarto1', 'Quarto2', 'Sala', 'Cozinha']]
@@ -618,7 +618,7 @@ print("Coeficiente de determinação (R²):", round(r2, 2))
 
 <br>
 
-### **Célula 10 — [PLOT 5] Consumo real vs previsto**
+### **[Célula 10: PLOT 5]() - Consumo real vs previsto**
 
 ```python
 plt.figure(figsize=(10, 5))
@@ -636,7 +636,7 @@ plt.show()
 
 <br>
 
-### **Célula 11 — Coeficientes do modelo**
+### **[Célula 11]() — Coeficientes do modelo**
 
 ```python
 coeficientes = pd.Series(modelo.coef_, index=X.columns)
@@ -648,7 +648,7 @@ print(coeficientes.sort_values(ascending=False))
 
 <br>
 
-### **Célula 12 — Cálculo de percentuais de acionamento por cômodo**
+### **[Célula 12]() — Cálculo de percentuais de acionamento por cômodo**
 
 ```python
 df['Total_acionamentos'] = df[['Quarto1', 'Quarto2', 'Sala', 'Cozinha']].sum(axis=1)
@@ -659,7 +659,7 @@ for comodo in ['Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'Piscina']:
 
 <br>
 
-### **Célula 13 — [PLOT 6] Método do Cotovelo para KMeans**
+### **[Célula 13: PLOT 6]() - Método do Cotovelo para KMeans**
 
 ```python
 scaler = StandardScaler()
@@ -682,7 +682,7 @@ plt.show()
 
 <br>
 
-### **Célula 14 — KMeans e [PLOT 7] Pairplot dos clusters**
+### **[Célula 14: PLOT 7]() — KMeans e  Pairplot dos clusters**
 
 ```python
 kmeans = KMeans(n_clusters=3, random_state=42)
@@ -696,7 +696,7 @@ plt.show()
 
 <br>
 
-### **Célula 15 — Perfil médio por cluster e nomeação dos perfis**
+### **[Célula 15]() — Perfil médio por cluster e nomeação dos perfis**
 
 ```python
 col_pcts = [f'{c}_pct' for c in ['Quarto1', 'Quarto2', 'Sala', 'Cozinha']]
@@ -734,7 +734,7 @@ perfil_clusters['Perfil'] = perfil_clusters.apply(nomear_cluster, axis=1)
 
 <br>
 
-### **Célula 16 — Dicionário de recomendações e exibição por cluster**
+### **[Célula 16]() — Dicionário de recomendações e exibição por cluster**
 
 ```python
 def mapear_perfil_para_chave(perfil):
@@ -805,7 +805,7 @@ for cluster_id, row in perfil_clusters.iterrows():
 
 <br>
 
-### **Célula 17 — [PLOT 8] Boxplot consumo por cluster**
+### **[Célula 17: PLOT 8]() - Boxplot consumo por cluster**
 
 ```python
 plt.figure(figsize=(7,5))
@@ -818,7 +818,7 @@ plt.show()
 
 <br>
 
-### **Célula 18 — [PLOT 9] Heatmap de percentuais por cluster**
+### **[Célula 18: PLOT 9]() - Heatmap de percentuais por cluster**
 
 ```python
 heatmap_data = perfil_clusters[col_pcts] * 100
@@ -834,7 +834,7 @@ plt.show()
 
 <br>
 
-### **Célula 19 — [PLOT 10] Radar dos cômodos por cluster**
+### **[Célula 19: PLOT 10]() - Radar dos cômodos por cluster**
 
 ```python
 categorias = ['Quarto1', 'Quarto2', 'Sala', 'Cozinha']
@@ -855,7 +855,7 @@ plt.show()
 
 <br>
 
-### **Célula 20 — [PLOT 11] Visualização dos clusters com PCA**
+### **[Célula 20: PLOT 11]() - Visualização dos clusters com PCA**
 
 <br>
 
@@ -926,10 +926,6 @@ Altere o caminho do arquivo Excel (`file_path`) conforme seu ambiente.
 <br>
 
 **EstA Aanalise foi elaborado com base nas práticas de ciência de dados aplicadas ao contexto de consumo energético residencial e tem como objetivo facilitar a tomada de decisão por parte do cliente final.**
-
-
-
-
 
 
 
