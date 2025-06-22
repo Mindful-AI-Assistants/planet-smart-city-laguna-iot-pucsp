@@ -2,28 +2,32 @@
  
  \[[🇮🇹 Italiano](README.it_IT.md)\] \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
-<br>
+<br><br><br><br>
 
 
-<br><br>
  
 ## <p align="center">  🌐 CDIA Nexus PUC-SP: Hub de Inovação para Água e Energia Inteligentes   
 #### <p align="center"> ***Em colaboração com [Planet Smart City](), PUC-SP [Ciência de Dados & IA](), ONU [Objetivos de Desenvolvimento Sustentável (ODS)](), [Starlink]() e [Proptech]() Brasil***
 
- <br><br>
+ <br><br><br>
+ 
 
 ### <p align="center"> Smart City Laguna IoT – Fortaleza, Brasil 💛💚  
 
- <br><br>
+ <br>
 
  <!--
 #### <p align="center"> [![Patrocine Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 -->
 
 
-##### <p align="center"><em>Explore o simulador e apoie o projeto de IA para Cidades Inteligentes ↓</em></p>
+##### <p align="center"><em> Explore o simulador e apoie o projeto de IA para Cidades Inteligentes ↓</em></p>
 
-<br>
+ <br><br>
+
+
+<!-- BADGES -->
+
 
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
@@ -34,9 +38,12 @@
   </a>
 </p>
 
-<br><br>
 
-<!--  VIDEO -->
+
+ <br><br>
+ 
+<!-- VIDEO -->
+
  
 https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 
@@ -64,7 +71,7 @@ Esta iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-
 
 <br>
 
-[_“Dados para o Bem. Inovação com Propósito.”_]()
+[_“Data 4 Good. Innovation with Meaning.”_]()
 
 <!--
  <p align="center">
@@ -73,7 +80,7 @@ Esta iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-
 
 <br>
 
-## [Visão Geral do Projeto]():
+##  🌐 [Visão Geral do Projeto]():
 
 Desenvolvido pelo **grupo CDIA da PUC-SP**, este projeto de extensão visa otimizar **sistemas inteligentes de gestão de recursos** na Smart City Laguna – combinando **tecnologia**, **sustentabilidade** e **inovação comunitária** para empoderar regiões vulneráveis.
 
@@ -81,7 +88,7 @@ Com uma base sólida em **colaboração interdisciplinar** e cooperação intern
 
 <br>
 
-## 🌐 [Planet Smart City]():
+##[Planet Smart City]():
 
 Fundada em 2015 por **Giovanni Savio** e **Susanna Marchionni**, a Planet Smart City lidera o movimento global por **habitações acessíveis, inteligentes e sustentáveis**. Seus projetos combinam:
 
@@ -122,7 +129,7 @@ Localizada em **São Gonçalo do Amarante, Ceará**, a **Smart City Laguna** é 
 
 <br>
 
-## 🌍 [Parcerias Globais]():
+## 🌎 [Parcerias Globais]():
 
 Agradecimento especial a [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-neto-95a047174/), CEO da Proptech Brasil, por liderar com empatia, respeito e integridade. A forma como você se coloca à disposição dos outros faz toda a diferença.
 
@@ -157,7 +164,7 @@ Estendemos nossa sincera gratidão às organizações e indivíduos que tornaram
 
 <br>
 
-## 💧 Módulo CDIA: Sistemas de Água & Energia ⚡
+## ⚡️ Módulo CDIA: Sistemas de Água & Energia 💦
 
 O **Módulo de Água & Energia**, desenvolvido pelo CDIA, foca no uso de **IoT e IA** para otimização de recursos. Principais funcionalidades:
 
@@ -168,7 +175,7 @@ O **Módulo de Água & Energia**, desenvolvido pelo CDIA, foca no uso de **IoT e
 
 <br>
 
-## 🧑🏼‍🚀 Membros da Equipe
+## 🧑🏼‍🚀 [Membros da Equipe]():
 
 | Nome                     | Função                                            |
 |--------------------------|---------------------------------------------------|
