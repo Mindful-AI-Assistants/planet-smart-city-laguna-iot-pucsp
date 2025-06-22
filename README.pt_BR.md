@@ -6,19 +6,25 @@
 
 
  
-# <p align="center"> CDIA Nexus PUC-SP: Centro de Inovação em Soluções Inteligentes para Água e Energia — Smart City Laguna IoT, Fortaleza, Brasil 💛💚
+## <p align="center"> 🌐 CDIA Nexus PUC-SP: Centro de Inovação em Soluções Inteligentes para Água e Energia — Smart City Laguna IoT, Fortaleza, Brasil 🇧🇷
+#### <p align="center"> ***Projeto de monitoramento, previsão e otimização do consumo energético em uma casa inteligente, utilizando [IoT]() e [IA](). Desenvolvido no contexto da [Smart City Laguna]() – CDIA PUC-SP***.
 
 
-### <p align="center"> ***Projeto de monitoramento, previsão e otimização do consumo energético em uma casa inteligente, utilizando [IoT](() e [IA](). Desenvolvido no contexto da [Smart City Laguna]() – CDIA PUC-SP***.
-
-
- <br><br><br>
+ <br> <br>
  
 
-#### <p align="center"> ***Em colaboração com [Planet Smart City](), PUC-SP [Ciência de Dados & IA](), ONU [Objetivos de Desenvolvimento Sustentável (ODS)](), [Starlink]() e [Proptech]() Brasil***
+<p align="center">
+   <a href="https://github.com/sponsors/Mindful-AI-Assistants">
+    <img src="https://img.shields.io/badge/Patrocinar-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
+  </a>
+</p>
 
 
-  
+ <br>
+ 
+
+#### <p align="center"> ***Em colaboração com [Planet]() Smart City, [PUC-SP]() - Ciência de Dados & IA, [ONU](0 Objetivos de Desenvolvimento Sustentável ODS, [Starlink]() e [Proptech]() Brasil***
+
 
  <br>
 
@@ -27,24 +33,15 @@
 -->
 
 
-#### <p align="center"><em> Explore o simulador e apoie o projeto de IA para Cidades Inteligentes ↓</em></p>
+#### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes [↓]()</em></p>
 
- <br><br>
-
-
-<!-- BADGES -->
-
+ <br>
 
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
     <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
   </a>
-  <a href="https://github.com/sponsors/Mindful-AI-Assistants">
-    <img src="https://img.shields.io/badge/Patrocinar-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
-  </a>
-</p>
-
-
+ 
 
  <br><br>
  
