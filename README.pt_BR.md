@@ -124,6 +124,34 @@ Leitura da planilha com `pandas` e validação dos formatos.
 
 [2](). ***Pré-processamento***
 
+- Conversão da coluna `Date` para o formato `datetime`  
+- Criação da variável `OrdinalDay` para modelagem  
+- Cálculo do consumo médio por ativação por cômodo  
+- Simulação da geração solar e projeção de consumo futuro
+
+<br>
+
+[3](). ***Modelagem Preditiva***
+
+Um modelo de **Regressão Linear** foi treinado para estimar o consumo (`KW/H`) com base no total de ativações por cômodo. Também inclui previsão para o dia seguinte.
+
+<br>
+
+[4](). ***Visualizações*** 
+   
+- Gráficos de séries temporais com `matplotlib`/`seaborn`  
+- Ranking dos cômodos com maior consumo  
+- Padrões de ativação por cluster  
+- Dashboard interativo com Streamlit para monitoramento em tempo real (opcional)
+
+<br>
+
+[5](). ***Exportação de Relatórios***  
+
+Geração automática de relatórios em PDF com dados relevantes, gráficos e previsões.
+
+<br>
+
 
 --------0-0-///////
 
