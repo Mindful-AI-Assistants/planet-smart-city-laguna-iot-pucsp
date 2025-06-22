@@ -345,7 +345,31 @@ Expressamos nossa sincera gratidão às organizações e indivíduos que tornara
 - Todos que contribuíram, direta ou indiretamente, para tornar essa visão realidade.
 
 
+<br>
 
+##### [Juntos](), esses parceiros representam uma abordagem integrada para alcançar os **Objetivos de Desenvolvimento Sustentável**, especialmente em regiões emergentes. 💙🌎
+
+<br>
+
+## ⚡ [Módulo CDIA PUC-São Paulo: Sistemas de Água e Energia]() 💦
+
+O **Módulo de Água e Energia** desenvolvido pelo CDIA tem foco no uso de **IoT e IA** para otimização de recursos. Principais funcionalidades:
+
+- Sensores inteligentes para monitoramento de consumo  
+- Dashboards com alertas preditivos baseados em IA  
+- Visualizações para conscientização comunitária  
+- Modelos de gestão de recursos escaláveis
+
+<br>
+
+## 🧑🏼‍🚀 [Membros da Equipe]():
+
+| Nome                    | Função                                             |
+|-------------------------|----------------------------------------------------|
+| **Andson Ribeiro**       | [Github](https://github.com/andsonandreribeiro09) - [Contato]() |
+| **Fabiana 🧬 Campanari** | [Github](https://github.com/FabianaCampanari) - [Hub de Contato](https://linktr.ee/fabianacampanari)   |
+| **Leonardo X Fernandes** | [Github](https://github.com/LeonardoXF) - [Contato]()     |
+| **Pedro Vyctor Almeida** | [Github](https://github.com/ppvyctor) - [Contato]()    |
 
 
 
