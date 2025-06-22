@@ -690,7 +690,8 @@ plt.grid(True)
 plt.show()
 ```
 
-**Escolha visualmente o número ideal de clusters.**
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/777530cb-66e4-4bb1-a13c-94e6f0bcd746" />
 
 <br>
 
