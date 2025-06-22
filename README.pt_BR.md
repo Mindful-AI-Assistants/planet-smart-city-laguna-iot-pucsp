@@ -402,6 +402,33 @@ O **Módulo de Água e Energia** desenvolvido pelo CDIA tem foco no uso de **IoT
 
 ## [Documentação Visual]():
 
+<br>
+
+## [Documentação Visual]():
+
+<br>
+
+📷 [**Galeria de Fotos**]()
+- `drone_view_laguna_2025.jpg` – Vista aérea da cidade  
+- `team_workshop_on_site.jpeg` – Atividades de campo com moradores  
+- `solar_panels_community.jpeg` – Instalação solar com apoio da ONU  
+- `iot_dashboard_mockup.png` – Prévia do design do dashboard  
+
+<br>
+
+## [**Apresentações**]()
+- `CDIA_Final_Pitch.pdf` – Principais insights e resultados  
+- `UN_SolarInvestment_Laguna.pptx` – Apresentação para stakeholders  
+- `IoT_Architecture_Prototype.pptx` – Arquitetura de sensores e fluxo de dados
+
+<br> 
+
+## [Agradecimento]():
+
+Agradecemos sinceramente ao **Pedro da Proptech**, cuja orientação e expertise foram fundamentais ao longo deste projeto. Seu apoio e visão foram pilares essenciais em nossa jornada de desenvolvimento.
+
+<br>
+
 
 --------0-0-///////
 
