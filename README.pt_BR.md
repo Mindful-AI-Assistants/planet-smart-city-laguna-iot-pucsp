@@ -429,92 +429,34 @@ Agradecemos sinceramente ao **Pedro da Proptech**, cuja orientação e expertise
 
 <br>
 
+<br>
 
---------0-0-///////
+## Conjunto de Dados Utilizado - [clique aqui para acessar o dataset]():
 
+Foi utilizado um [**conjunto de dados simulado**], contendo registros diários com as seguintes variáveis:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- `Data`: Dia da medição  
+- `KW/H`: Consumo total de energia em kWh  
+- `Quarto1`, `Quarto2`, `Sala`, `Cozinha`, `Piscina`: Número de ativações de sensores em cada cômodo  
+- `Geração Solar`: Energia gerada por painéis solares (simulado)
 
 <br>
 
-## 📓 Pipeline de Código
+## [**Modelagem Preditiva**]():
+
+Um modelo de [**Regressão Linear**] foi treinado para estimar o consumo (`KW/H`) com base nas ativações totais por cômodo. Também foi implementada a previsão para o dia seguinte.
+
+<br>
+
+[**Visualizações**]():  
+   - Gráficos de séries temporais com `matplotlib`/`seaborn`.  
+   - Ranking dos cômodos com maior consumo.  
+   - Representações de ativações por cluster.  
+   - Dashboard interativo com Streamlit para visualização em tempo real (opcional).
+
+<br>
+
+## 📓 [Pipeline de Código]():
 
 
 <br>
