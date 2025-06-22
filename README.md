@@ -460,6 +460,7 @@ A [**Linear Regression**] model was trained to estimate consumption (`KW/H`) bas
 
 <br>
 
+
 ## 📓 [Code Pipeline]():
 
 <br>
@@ -481,7 +482,7 @@ from sklearn.metrics import mean_absolute_error, r2_score, mean_squared_error
 ```
 
 
-<br>
+<br><br>
 
 ### **[Cell 2]() - Data loading**
 
@@ -496,7 +497,7 @@ print(df.head())
 df.info()
 ```
 
-<br>
+<br><br>
 
 ### **[Cell 3]() - Date preprocessing**
 
@@ -511,7 +512,7 @@ df['Data'] = pd.to_datetime(df['Data'] + '/2025', format='%d/%m/%Y')
 ```
 
 
-<br>
+<br><br>
 
 ### **[Cell 4]() - Descriptive statistics and correlation**
 
@@ -522,7 +523,7 @@ print(summary)
 print(correlation)
 ```
 
-<br>
+<br>√
 
 ### **[Cell 5: PLOT 1]() - Variable distributions**
 
@@ -539,13 +540,13 @@ plt.suptitle("Variable Distributions", fontsize=16, y=1.02)
 plt.show()
 ```
 
-<br>
+<br><br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/d3f2a133-5e02-4560-a020-406fe2982194"/>
 
 
-<br>
+<br><br>
 
 ### **[Cell 6: PLOT 2]() - Total consumption over time**
 
@@ -561,12 +562,12 @@ plt.tight_layout()
 plt.show()
 ```
 
-<br>
+<br><br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/dd7b0496-68ba-47a7-8493-3c38e829d4ad"/>
 
-<br>
+<br><br>
 
 ### **[Cell 7: Weekly grouping and PLOT 3]() -  Weekly activations per room**
 
@@ -583,12 +584,12 @@ plt.tight_layout()
 plt.show()
 ```
 
-<br>
+<br><br>
 
  <p align="center">
-<img src="
+<img src="https://github.com/user-attachments/assets/80977c66-bbd5-4e39-ac13-4365a8274551"/>
 
-<br>
+<br><br>
 
  <p align="center">
 <img src="
