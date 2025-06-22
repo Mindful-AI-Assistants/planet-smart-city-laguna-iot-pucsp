@@ -3,7 +3,7 @@ import sqlite3
 import streamlit as st
 import openai
 
-# Configurar API Key do OpenAI
+# Configurar API Key do OpenAI - This API is just an example . DO NEVER SHOW YOUR REAL API! NEVER !!
 openai.api_key = "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"
 
 # Caminho do banco de dados
