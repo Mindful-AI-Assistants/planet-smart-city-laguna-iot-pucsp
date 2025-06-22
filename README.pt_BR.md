@@ -602,9 +602,12 @@ plt.tight_layout()
 plt.show()
 ```
 
-**Visualiza quais cômodos mais impactam o consumo total.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/d299ee06-4acc-4f4c-be50-bd82858b95c4" />
+
+<br><br>
 
 ### **[Célula 9]() — Modelagem preditiva (Regressão Linear) e avaliação**
 
