@@ -641,9 +641,12 @@ plt.tight_layout()
 plt.show()
 ```
 
-**Avalia visualmente o desempenho do modelo preditivo.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/b2c22d6f-5d6c-47ae-8686-ac9e9d13cf70" />
+
+<br><br>
 
 ### **[Célula 11]() — Coeficientes do modelo**
 
