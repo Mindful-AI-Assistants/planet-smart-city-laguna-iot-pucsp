@@ -113,7 +113,7 @@ A **simulated dataset** was used, containing daily records with the following va
 
 ## [Methodology and Steps]():
 
-<br
+<br>
 
 [1](). **Data import and visualization**  
 
