@@ -262,6 +262,34 @@ laguna_city_digital/
 **CDIA Nexus** é o projeto final de extensão acadêmica e social do **Grupo de Ciência de Dados e Inteligência Artificial da PUC-SP**, com foco na aplicação de **IoT e IA** para sistemas inteligentes de **água e energia** na **Smart City Laguna**, um desenvolvimento urbano pioneiro em Fortaleza, Brasil.
 
 
+Essa iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-Habitat** e **Starlink**, alinhada aos **Objetivos de Desenvolvimento Sustentável (ODS) da ONU** e comprometida com a **inovação social, inclusão digital e inteligência ambiental**.
+
+<br>
+
+[Principais destaques da apresentação]():
+
+- Um **Dashboard Integrado de Monitoramento de Água e Energia**  
+- Análises preditivas com modelos de IA  
+- Engajamento comunitário com base em estratégias orientadas por dados  
+- Insights de implantação utilizando **conectividade via Starlink** e infraestrutura Planet
+
+<br>
+
+#### [_“Data for Good. Inovação com Propósito.”]()
+
+<br>
+
+🌟 Contribuição-chave: [**Stefano Buono**](https://github.com/user-attachments/assets/e53824a7-19df-464d-a12f-61024ba18a94), físico e empreendedor, ex-pesquisador do CERN e fundador da AAA (vendida para a Novartis), atualmente Presidente da LIFTT e CEO da **Newcleo** (inovação nuclear limpa).
+
+<br>
+
+➢ [Visite Planet Smart City - Oficial](https://planetsmartcity.com/) 🇮🇹
+
+➢ [Visite Planet Smart City - Brasil](https://planetsmartcity.com.br) 🇧🇷
+
+➢ [Visite Planet Smart City - Índia](https://planetsmartcity.in/) 🇮🇳
+
+
 
 
 --------0-0-///////
