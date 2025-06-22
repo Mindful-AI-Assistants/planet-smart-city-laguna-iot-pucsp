@@ -236,6 +236,34 @@ laguna_city_digital/
 
 <br>
 
+## [Desempenho do Modelo]():
+
+- `R²`: 0,70  
+- `RMSE`: 11.528,06  
+- `Cômodo com maior influência`: Sala (28,21%)
+
+<br>
+
+## [Conclusões Finais]():
+
+#### Metas personalizadas de consumo  
+#### Sistema de alertas em tempo real  
+- Apoio à sustentabilidade energética urbana  
+- Base escalável para implantação completa de uma Smart City
+
+<br>
+
+📌 ***Esta análise foi desenvolvida com base em práticas de ciência de dados aplicadas ao consumo de energia residencial, com o objetivo de apoiar a tomada de decisões pelo usuário final.***
+
+<br>
+
+## [Apresentação Geral]():
+
+**CDIA Nexus** é o projeto final de extensão acadêmica e social do **Grupo de Ciência de Dados e Inteligência Artificial da PUC-SP**, com foco na aplicação de **IoT e IA** para sistemas inteligentes de **água e energia** na **Smart City Laguna**, um desenvolvimento urbano pioneiro em Fortaleza, Brasil.
+
+
+
+
 --------0-0-///////
 
 
