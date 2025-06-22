@@ -582,9 +582,12 @@ plt.tight_layout()
 plt.show()
 ```
 
-**Mostra a soma dos acionamentos por semana em cada cômodo.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/d31b2df3-8a5c-443a-a16d-60b8f3c53792" />
+
+<br><br>
 
 ### **[Célula 8: PLOT 4]() - Correlação entre acionamentos e consumo**
 
