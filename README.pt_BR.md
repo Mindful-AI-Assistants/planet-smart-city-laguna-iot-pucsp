@@ -8,8 +8,13 @@
 ## <p align="center"> 🌐 CDIA Nexus PUC-SP: Centro de Inovação em Soluções Inteligentes para Água e Energia — Smart City Laguna IoT, Fortaleza, Brasil 
 ### <p align="center"> ***Projeto de monitoramento, previsão e otimização do consumo energético em uma casa inteligente, utilizando [IoT]() e [IA](). Desenvolvido no contexto da [Smart City Laguna]() – CDIA PUC-SP***.
 
+ <br>
+ 
 
- <br> <br>
+#### <p align="center"> ***Em colaboração com [Planet]() Smart City, [PUC-SP]() - Ciência de Dados & IA, [ONU](0 Objetivos de Desenvolvimento Sustentável ODS, [Starlink]() e [Proptech]() Brasil***
+
+
+ <br><br>
  
 
 <p align="center">
@@ -19,17 +24,19 @@
 </p>
 
 
- <br>
- 
-
-#### <p align="center"> ***Em colaboração com [Planet]() Smart City, [PUC-SP]() - Ciência de Dados & IA, [ONU](0 Objetivos de Desenvolvimento Sustentável ODS, [Starlink]() e [Proptech]() Brasil***
-
-
  <br><br>
 
- <!--
-#### <p align="center"> [![Patrocine Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
--->
+ 
+<!-- VIDEO -->
+
+ 
+https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
+
+
+📺 https://youtu.be/WmtFxV5G8Fg
+
+
+<br><br>
 
 
 #### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes </em></p>
@@ -42,17 +49,6 @@
  
 
  <br><br>
- 
-<!-- VIDEO -->
-
- 
-https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
-
-
-📺 https://youtu.be/WmtFxV5G8Fg
-
-
-<br><br>
 
 
 ## [Visão Geral da Apresentação]():
