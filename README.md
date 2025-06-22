@@ -81,6 +81,8 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 ##  🌐  [Project Overview]():
 
+
+<!--
 Developed by the **CDIA group at PUC-SP**, this extension project aims to optimize **smart resource management systems** in the Smart City Laguna – combining **technology**, **sustainability**, and **community innovation** to empower underserved regions.
 
 With a strong foundation in **interdisciplinary collaboration** and international cooperation, this initiative bridges data science with real-world applications to foster resilient, inclusive, and intelligent cities.
@@ -94,6 +96,7 @@ Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart C
 - Advanced urban design  
 - Integrated technology  
 - Community-building initiatives
+-->
 
 <br>
 
