@@ -523,7 +523,6 @@ print(summary)
 print(correlation)
 ```
 
-<br>√
 
 
 ### **[Cell 5: PLOT 1]() - Variable distributions**
@@ -545,6 +544,13 @@ plt.show()
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/d3f2a133-5e02-4560-a020-406fe2982194"/>
+
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/d4bb66f3-c8aa-42f1-a36e-6ef32a55fbdb"/>
+
+<br><br>
 
 
 <br><br>
