@@ -1,9 +1,8 @@
 
 
- 
  \[[🇮🇹 Italiano](README.it_IT.md)\] \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
-
+<br><br>
 
 ## <p align="center"> 🌐 CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy Solutions — Smart City Laguna IoT, Fortaleza, Brazil 
 ### <p align="center"> ***Project for monitoring, forecasting, and optimizing energy consumption in a smart home, using [IoT]() and [AI](). Developed in the context of [Smart City Laguna]() – CDIA PUC-SP***.
@@ -18,7 +17,7 @@
 </p>
 
 
-<br><
+<br>
 
 
 #### <p align="center"> ***In collaboration with [Planet]() Smart City, [PUC-SP]() - Data Science & AI, [UN](0 Sustainable Development Goals SDGs), [Starlink]() and [Proptech]() Brazil***
@@ -47,7 +46,7 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
     <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
   </a>
 
- <br><br>
+ <br><br><br>
 
 
 ## [Visão Geral da Apresentação]():
