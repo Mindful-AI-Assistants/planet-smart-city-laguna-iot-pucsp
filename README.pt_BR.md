@@ -10,7 +10,8 @@
 #### <p align="center"> ***Projeto de monitoramento, previsão e otimização do consumo energético em uma casa inteligente, utilizando [IoT]() e [IA](). Desenvolvido no contexto da [Smart City Laguna]() – CDIA PUC-SP***.
 
 
- <br>
+ <br> <br>
+ 
 
 <p align="center">
    <a href="https://github.com/sponsors/Mindful-AI-Assistants">
@@ -32,7 +33,7 @@
 -->
 
 
-#### <p align="center"><em> Explore o simulador e apoie o projeto de IA para Cidades Inteligentes ↓</em></p>
+#### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes [↓]()</em></p>
 
  <br>
 
