@@ -290,6 +290,36 @@ Essa iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-
 ➢ [Visite Planet Smart City - Índia](https://planetsmartcity.in/) 🇮🇳
 
 
+<br>
+
+## [O Projeto Laguna: Inovação Social Inteligente]():
+
+Localizada em [**São Gonçalo do Amarante**](), Ceará, Fortaleza, Brasil; a **Smart City Laguna** é a [cidade inteligente modelo da Planet]() no Brasil, contando com mais de [**60 soluções inteligentes**](), incluindo:
+
+- Wi-Fi público e infraestrutura IoT  
+- Mobilidade urbana e iluminação sustentáveis  
+- Drenagem de águas pluviais com pavimentos permeáveis  
+- Programas culturais, educacionais e de governança
+
+<br>
+
+## [No centro desse ecossistema]():
+
+[***O Gestor Comunitário*** ]() — um profissional capacitado, dedicado a:
+
+- Mobilizar a governança participativa  
+- Promover oficinas, educação e engajamento  
+- Fortalecer a coesão social e o cuidado de longo prazo
+
+<br>  
+
+## 🌎 [Parcerias Globais]():
+
+Agradecimento especial a [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-neto-95a047174/), CEO da Proptech Brasil, por liderar com empatia, respeito e integridade. A forma como você apoia os outros realmente faz toda a diferença.
+
+
+
+
 
 
 --------0-0-///////
