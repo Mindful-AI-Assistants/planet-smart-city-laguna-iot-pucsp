@@ -560,9 +560,12 @@ plt.tight_layout()
 plt.show()
 ```
 
-**Visualiza a evolução do consumo de energia ao longo do tempo.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/af0b1499-d4ea-44d6-9e13-30e2d72d643b"/>
+
+<br><br>
 
 ### **[Célula 7: Plot 3]() — Agrupamento semanal e Acionamentos semanais por cômodo**
 
