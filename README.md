@@ -420,35 +420,11 @@ We extend our sincere thanks to **Pedro from Proptech**, whose guidance and expe
 
 <br>
 
-## ✨ [Final Reflection]()
 
-Smart City Laguna is proof that **inclusive innovation**, **sustainable infrastructure**, and **digital empowerment** can transform lives.
-
-Through **technology with empathy**, this project shows how data and design can serve not only systems, but the people who live within them.
-
-<br><br>
-
-> _Developed with purpose and precision by the CDIA Smart Water & Energy Team – PUC-SP_  
-> _“Technology becomes meaningful when it uplifts communities.”_
-
-
-<br><br>
-
-
-## Digital Twin for Residential Energy Monitoring and Optimization - SmartHouse
-### [***From Code to Insight: Data Analysis & Decision Support***]()
-
-<br>
-
-## [Project Objective]()
-
-Develop a solution based on data science and artificial intelligence to **monitor, predict, and optimize electricity consumption in a smart home** (Smart City Laguna). The project simulates sensor data per room and uses machine learning to anticipate consumption patterns and propose savings actions.
-
-<br>
 
 ##  [Dataset Used]()
 
-A **simulated** dataset was used, containing daily records with the following variables:
+[A **simulated** dataset was used, containing daily records with the following variables]():
 
 - `Data`: Measurement day
 - `KW/H`: Total energy consumption in kWh
@@ -457,85 +433,17 @@ A **simulated** dataset was used, containing daily records with the following va
 
 <br>
 
-##  [Business Question]()
-
-<br>
-
-> “How to predict daily energy consumption based on room-by-room behavior and, from this, propose automatic measures for savings and energy efficiency?”
-
-<br>
-
-##  [Methodology and Steps Taken]()
-
-<br>
-
-1. [**Data import and visualization**]():  
-Reading the spreadsheet with `pandas` and validating formats.
-
-<br>
-
-2. [**Preprocessing**]():  
-    - Converting the `Data` column to `datetime` format.  
-    - Creating the variable `Dia_ordinal` for modeling.  
-    - Calculating average consumption per activation per room.  
-    - Simulating solar generation and projecting future consumption.
-  
-
-<br>
-
-3. [**Predictive Modeling**]():  
+## [**Predictive Modeling**]():  
 A **Linear Regression** model was trained to estimate consumption (`KW/H`) based on total activations per room. Next-day prediction was also implemented.
 
 <br>
 
-4. [**Visualizations**]():  
+ [**Visualizations**]():  
     - Time series charts with `matplotlib`/`seaborn`.  
     - Ranking of highest-consuming rooms.  
     - Representations of activations by cluster.  
     - Interactive Streamlit dashboard for real-time visualization (optional).
   
-<br>
-
-5. [**Report Export**]():  
-Automatic generation of PDF reports with relevant data, charts, and forecasts.
-
-<br>
-
-
-##  [Results Obtained]()
-
-- The regression model showed good ability to predict consumption based on activations.  
-- It was identified that **Sala (Living Room)** and **Cozinha (Kitchen)** are the rooms with the greatest impact on consumption.  
-- The **Piscina (Pool)**, although with few activations, shows high average consumption per activation, indicating waste; it was removed from the model since the Laguna project is aimed at social housing and does not include pools.  
-- Solar generation can significantly offset consumption during peak hours if well managed.
-
-<br>
-
-## [Conclusions and Recommendations]()
-
-- **Automate shutdowns** in high-use areas such as living room and kitchen to achieve immediate savings.  
-- **Schedule pool usage times** to mitigate unjustified consumption peaks.  
-- **Leverage solar generation** to balance appliance use during peak generation hours.  
-- **Implement alerts** when daily consumption targets are exceeded.
-
-<br>
-
-##  [Deliverables]()
-
-- Streamlit application with real-time sensor visualization.  
-- PDF report with consumption metrics and suggestions.  
-- Notebook with the full data pipeline, predictive model, and visual analyses.
-
-<br>
-
-## 👥 [Target Audience]()
-
-This project was developed for an external client interested in **residential energy efficiency** solutions, with potential expansion to condominiums, buildings, and smart cities.
-
-<br>
-
-📌 *This report was prepared based on data science practices applied to residential energy consumption contexts and aims to facilitate decision-making for the end client.*
-
 
 <br>
 
