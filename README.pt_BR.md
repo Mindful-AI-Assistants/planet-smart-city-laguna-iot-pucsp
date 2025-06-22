@@ -207,6 +207,35 @@ Geração automática de relatórios em PDF com dados relevantes, gráficos e pr
 
 <br>
 
+laguna_city_digital/  
+├── app.py                      # Aplicativo principal em Streamlit  
+├── consumo_model.pkl          # Modelo de previsão treinado  
+├── cluster_model.pkl          # Modelo KMeans treinado  
+├── dados/  
+│   └── Consumo_de_Energia_Analise.xlsx  # Dados simulados por cômodo  
+├── relatorios/  
+│   └── relatorio_consumo_YYYY-MM-DD.pdf  
+├── imagens/  
+│   ├── grafico_pca.png  
+│   ├── heatmap_cluster.png  
+│   └── grafico_regressao.png  
+└── README.md
+
+<br>
+
+## [Exemplos de Visualizações]():
+
+- [***Clusterização com PCA***]()  
+  Distribuição de padrões de uso por perfil energético
+
+- [***Mapa de Calor de Ativações***]()  
+  Percentual de uso por cômodo
+
+- [***Gráfico Real vs Previsto***]()  
+  Avaliação da precisão da previsão
+
+<br>
+
 --------0-0-///////
 
 
