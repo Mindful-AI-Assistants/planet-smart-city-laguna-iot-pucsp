@@ -591,11 +591,6 @@ plt.show()
 
 <br><br>
 
- <p align="center">
-<img src="
-  
-<br>
-
 ### **[Cell 8: PLOT 4]() - Correlation between activations and consumption**
 
 ```python
@@ -609,9 +604,15 @@ plt.tight_layout()
 plt.show()
 ```
 
-**Shows which rooms most impact total consumption.**
 
-<br>
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/2014fc40-f4c6-40b2-9189-a94545476f8d" />
+  
+<br><br>
+
+
 
 ### **[Cell 9: Predictive modeling]() - Linear Regression and Evaluation**
 
@@ -644,10 +645,13 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+<br>
 
-**Visually evaluates the predictive model's performance.**
+ <p align="center">
+<img src="
 
 <br>
+
 
 ### **[Cell 11]() - Model coefficients**
 
