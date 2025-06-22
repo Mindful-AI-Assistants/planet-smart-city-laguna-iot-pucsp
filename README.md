@@ -541,7 +541,9 @@ plt.show()
 
 <br>
 
-https://github.com/user-attachments/assets/d3f2a133-5e02-4560-a020-406fe2982194
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/d3f2a133-5e02-4560-a020-406fe2982194"/>
+
 
 <br>
 
@@ -559,7 +561,16 @@ plt.tight_layout()
 plt.show()
 ```
 
-**Shows the evolution of energy consumption over time.**
+<br>
+
+ <p align="center">
+<img src="
+
+
+<br>
+
+ <p align="center">
+<img src="
 
 <br>
 
