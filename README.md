@@ -81,8 +81,7 @@ The project aims to combine **sustainability, digital inclusion, and social inno
 
 <br>
 
-## Digital Twin for Residential Energy Monitoring and Optimization – SmartHouse  
-### [From Code to Insight: Data Analysis and Decision Support]()
+## [From Code to Insight: Data Analysis and Decision Support]():
 
 <br>
 
