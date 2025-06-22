@@ -49,6 +49,24 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 
 <br><br><br>
 
+## [Visão Geral do Projeto]():
+
+Desenvolvido pelo **grupo CDIA da PUC-SP**, este projeto de extensão visa otimizar **sistemas inteligentes de gestão de recursos** na Smart City Laguna – combinando **tecnologia**, **sustentabilidade** e **inovação comunitária** para empoderar regiões vulneráveis.
+
+Com uma base sólida em **colaboração interdisciplinar** e cooperação internacional, esta iniciativa conecta a ciência de dados a aplicações reais para fomentar cidades resilientes, inclusivas e inteligentes.
+
+<br>
+
+## [Planet Smart City]():
+
+Fundada em 2015 por **Giovanni Savio** e **Susanna Marchionni**, a Planet Smart City lidera o movimento global por **habitações acessíveis, inteligentes e sustentáveis**. Seus projetos combinam:
+
+- Planejamento urbano avançado  
+- Tecnologia integrada  
+- Iniciativas de construção comunitária
+
+<br>
+
 ## [Visão Geral da Apresentação]():
 
 **CDIA Nexus** é o projeto final de extensão acadêmica e social do **Grupo de Ciência de Dados e Inteligência Artificial da PUC-SP**, focado na aplicação de **IoT e IA** para **sistemas inteligentes de água e energia** na **Smart City Laguna**, um desenvolvimento urbano pioneiro em Fortaleza, Brasil.
@@ -68,28 +86,6 @@ Esta iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-
 
 [_“Data 4 Good. Innovation with Meaning.”_]()
 
-<!--
- <p align="center">
-<img src="https://github.com/user-attachments/assets/20050582-5dcd-4a60-b5db-d345a8404479"/>
--->
-
-<br>
-
-##  🌐 [Visão Geral do Projeto]():
-
-Desenvolvido pelo **grupo CDIA da PUC-SP**, este projeto de extensão visa otimizar **sistemas inteligentes de gestão de recursos** na Smart City Laguna – combinando **tecnologia**, **sustentabilidade** e **inovação comunitária** para empoderar regiões vulneráveis.
-
-Com uma base sólida em **colaboração interdisciplinar** e cooperação internacional, esta iniciativa conecta a ciência de dados a aplicações reais para fomentar cidades resilientes, inclusivas e inteligentes.
-
-<br>
-
-##[Planet Smart City]():
-
-Fundada em 2015 por **Giovanni Savio** e **Susanna Marchionni**, a Planet Smart City lidera o movimento global por **habitações acessíveis, inteligentes e sustentáveis**. Seus projetos combinam:
-
-- Planejamento urbano avançado  
-- Tecnologia integrada  
-- Iniciativas de construção comunitária
 
 <br>
 
