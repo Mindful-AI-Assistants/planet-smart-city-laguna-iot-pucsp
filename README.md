@@ -113,7 +113,7 @@ A **simulated dataset** was used, containing daily records with the following va
 
 ## [Methodology and Steps]():
 
-<br<
+<br
 
 [1](). **Data import and visualization**  
 
@@ -121,7 +121,7 @@ Reading the spreadsheet using `pandas` and validating formats.
 
 <br>
 
-[2](). **Preprocessing**  
+[2](). ***Preprocessing***  
    
    - Converting the `Date` column to `datetime` format  
    - Creating the `OrdinalDay` variable for modeling  
@@ -130,13 +130,13 @@ Reading the spreadsheet using `pandas` and validating formats.
 
 <br>
 
-[3](). [***Predictive Modeling***]():  
+[3](). ***Predictive Modeling***
 
 A **Linear Regression** model was trained to estimate consumption (`KW/H`) based on total room activations. It also includes next-day prediction.
 
 <br>
 
-[4](). [***Visualizations***](): 
+[4](). ***Visualizations*** 
    
    - Time series plots with `matplotlib`/`seaborn`  
    - Ranking of rooms with highest consumption  
@@ -145,7 +145,7 @@ A **Linear Regression** model was trained to estimate consumption (`KW/H`) based
 
 <br>
 
-[5](). [***Report Export***]():  
+[5](). ***Report Export***  
 
 Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
@@ -237,16 +237,16 @@ laguna_city_digital/
 
 ## [Model Performance]():
 
-- R²: 0.70  
-- RMSE: 11,528.06  
-- Most influential room: Living Room (28.21%)
+- `R²`: 0.70  
+- `RMSE`: 11,528.06  
+- `Most influential room`: Living Room (28.21%)
 
 <br>
 
-## [Final]():
+## [Final Conc.usions]():
 
-- Personalized consumption targets  
-- Real-time alert system  
+#### Personalized consumption targets  
+####Real-time alert system  
 - Support for urban energy sustainability  
 - Scalable foundation for full Smart City deployment
 
