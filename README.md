@@ -564,13 +564,7 @@ plt.show()
 <br>
 
  <p align="center">
-<img src="
-
-
-<br>
-
- <p align="center">
-<img src="
+<img src="https://github.com/user-attachments/assets/dd7b0496-68ba-47a7-8493-3c38e829d4ad"/>
 
 <br>
 
@@ -589,8 +583,16 @@ plt.tight_layout()
 plt.show()
 ```
 
-**Shows the sum of activations per week in each room.**
+<br>
 
+ <p align="center">
+<img src="
+
+<br>
+
+ <p align="center">
+<img src="
+  
 <br>
 
 ### **[Cell 8: PLOT 4]() - Correlation between activations and consumption**
