@@ -538,9 +538,13 @@ plt.suptitle("Distribuição das Variáveis", fontsize=16, y=1.02)
 plt.show()
 ```
 
-**Insira aqui para visualizar a distribuição de consumo e acionamentos.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/d4bb66f3-c8aa-42f1-a36e-6ef32a55fbdb"/>
+
+
+<br><br>
 
 ### **Célula 6 — [PLOT 2] Evolução do consumo total ao longo do tempo**
 
