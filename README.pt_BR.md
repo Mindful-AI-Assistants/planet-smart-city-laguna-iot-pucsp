@@ -705,9 +705,12 @@ plt.suptitle("Padrões de Uso Agrupados por Cluster", y=1.02)
 plt.show()
 ```
 
-**Visualiza agrupamentos de perfis de consumo.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/8b833b83-446f-4d35-a070-df58ae5d78b6" />
+
+<br><br>
 
 ### **[Célula 15]() — Perfil médio por cluster e nomeação dos perfis**
 
