@@ -861,9 +861,12 @@ plt.ylabel('Cluster')
 plt.show()
 ```
 
-**Visualizes the distribution of activations by cluster.**
+<br><br>
 
-<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/dc394fa6-5ad4-4b88-996e-b285e2dcf596" />
+
+<br><br>
 
 ### **[Cell 19: PLOT 10]() - Radar chart of rooms by cluster**
 
@@ -882,11 +885,12 @@ plt.legend()
 plt.show()
 ```
 
- <p align="center">
+<br><br>
+
+<p align="center">
 <img src="
 
-
-<br>
+<br><br>
 
 ### **[Cell 20: PLOT 11]() - Cluster visualization with PCA**
 
@@ -922,9 +926,12 @@ plt.grid(True)
 plt.show()
 ```
 
-**Reduces dimensionality to visualize clusters in 2D.**
+<br><br>
 
-<br>
+<p align="center">
+<img src="
+
+<br><br>
 
 ## 📊 [Interpretation of Graphs and Profiles]():
 
@@ -961,19 +968,6 @@ Adjust the Excel file path (`file_path`) according to your environment.
 <br>
 
 ***This analysis was prepared based on data science practices applied to residential energy consumption contexts and aims to facilitate decision-making for the end client.***
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
