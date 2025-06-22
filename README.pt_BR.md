@@ -832,7 +832,6 @@ plt.title('Distribuição de Consumo (KW/H) por Cluster')
 plt.show()
 ```
 
-<br><br>
 
 <br><br>
 
@@ -854,9 +853,15 @@ plt.ylabel('Cluster')
 plt.show()
 ```
 
-**Visualiza a distribuição dos acionamentos por cluster.**
+<br><br>
 
-<br>
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/5087199f-09c1-43d0-95b6-2e2160cbfe5e" />
+
+<br><br>
+
 
 ### **[Célula 19: PLOT 10]() - Radar dos cômodos por cluster**
 
