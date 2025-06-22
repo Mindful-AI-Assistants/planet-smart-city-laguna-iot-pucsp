@@ -97,7 +97,115 @@ Desenvolver uma solução baseada em ciência de dados e IA para **monitorar, pr
 
 Foi utilizado um **conjunto de dados simulado**, contendo registros diários com as seguintes variáveis:
 
+- `Data`: Dia da medição  
+- `KW/H`: Consumo total de energia em kWh  
+- `Quarto1`, `Quarto2`, `Sala`, `Cozinha`, `Piscina`: Número de ativações de sensores por cômodo  
+- `GeracaoSolar`: Energia gerada por painéis solares (simulado)
+
+<br>
+
+## [Pergunta de Negócio]():
+
+<br>
+
+> “Como podemos prever o consumo diário de energia com base no comportamento por cômodo e, a partir disso, propor medidas automáticas para economia e eficiência energética?”
+
+<br>
+
+## [Metodologia e Etapas]():
+
+<br>
+
+[1](). **Importação e visualização dos dados**  
+
+Leitura da planilha com `pandas` e validação dos formatos.
+
+<br>
+
+[2](). ***Pré-processamento***
+
+
 --------0-0-///////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br>
 
