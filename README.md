@@ -700,7 +700,7 @@ plt.show()
 <br><br>
 
  <p align="center">
-<img src="
+<img src="https://github.com/user-attachments/assets/1c75d1f1-7eff-4811-aa26-e9f9915f68ec" />
 
 <br><br>
 
@@ -714,9 +714,19 @@ plt.suptitle("Usage Patterns Grouped by Cluster", y=1.02)
 plt.show()
 ```
 
-**Visualizes consumption profile groupings.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="
+
+<br><br>
+
+
+  
+ <p align="center">
+<img src="
+
+
 
 ### **[Cell 15]() - Average profile per cluster and naming**
 
