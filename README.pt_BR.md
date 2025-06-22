@@ -1,7 +1,8 @@
 
+
+ 
  \[[🇮🇹 Italiano](README.it_IT.md)\] \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
-<br><br>
 
 
 ## <p align="center"> 🌐 CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy Solutions — Smart City Laguna IoT, Fortaleza, Brazil 
