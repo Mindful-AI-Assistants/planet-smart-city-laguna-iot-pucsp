@@ -853,7 +853,6 @@ plt.ylabel('Cluster')
 plt.show()
 ```
 
-<br><br>
 
 <br><br>
 
@@ -880,9 +879,12 @@ plt.legend()
 plt.show()
 ```
 
-**Compara o perfil de acionamento de cada cluster.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/2f5b77f3-ba95-440f-9bc4-d3076961ab71"/>
+
+<br><br>
 
 ### **[Célula 20: PLOT 11]() - Visualização dos clusters com PCA**
 
