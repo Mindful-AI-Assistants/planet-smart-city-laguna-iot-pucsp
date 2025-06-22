@@ -152,6 +152,33 @@ Geração automática de relatórios em PDF com dados relevantes, gráficos e pr
 
 <br>
 
+## [Resultados]():
+
+- O modelo de regressão apresentou boa capacidade de prever o consumo com base na atividade por cômodo  
+- **Sala** e **Cozinha** foram identificadas como as áreas de maior impacto  
+- A **Piscina**, embora raramente ativada, apresentou alto consumo médio por ativação — indicando desperdício; foi removida do modelo, já que o projeto Laguna é voltado à habitação social e não inclui piscinas  
+- A geração solar pode compensar significativamente o consumo nos horários de pico, se for bem gerenciada
+
+<br>
+
+## [Conclusões e Recomendações]():
+
+- **Automatizar desligamentos** em áreas de alto uso como sala e cozinha, para gerar economia imediata  
+- **Agendar o uso da piscina** para mitigar picos de consumo desnecessários  
+- **Aproveitar a geração solar** para equilibrar o uso de aparelhos nos horários de maior produção  
+- **Implementar alertas** quando as metas diárias de consumo forem ultrapassadas
+
+<br>
+
+## [Entregáveis]():
+
+- Aplicativo Streamlit para monitoramento em tempo real dos sensores  
+- Relatório em PDF com métricas de consumo e recomendações  
+- Notebook contendo todo o pipeline de dados, modelo preditivo e análises visuais
+
+<br>
+
+## [Funcionalidades]():
 
 --------0-0-///////
 
