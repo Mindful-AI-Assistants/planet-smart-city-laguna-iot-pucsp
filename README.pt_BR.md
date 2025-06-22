@@ -40,6 +40,8 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 #### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes </em></p>
 
 #### <p align="center"> [⇩]() 
+
+
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
     <img src="https://img.shields.io/badge/Simulador_Smart_City_Laguna-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
@@ -48,296 +50,54 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 
 <br><br><br>
 
-## [Visão Geral do Projeto]():
 
-Desenvolvido pelo **grupo CDIA da PUC-SP**, este projeto de extensão visa otimizar **sistemas inteligentes de gestão de recursos** na Smart City Laguna – combinando **tecnologia**, **sustentabilidade** e **inovação comunitária** para empoderar regiões vulneráveis.
+## 🌐 [Visão Geral do Projeto]():
 
-Com uma base sólida em **colaboração interdisciplinar** e cooperação internacional, esta iniciativa conecta a ciência de dados a aplicações reais para fomentar cidades resilientes, inclusivas e inteligentes.
+<br>
+
+Desenvolvido pelo **grupo CDIA da PUC-SP**, este projeto de extensão tem como objetivo otimizar **sistemas inteligentes de gestão de recursos** na Smart City Laguna — combinando **tecnologia**, **sustentabilidade** e **inovação comunitária** para empoderar regiões subatendidas.
+
+Com uma base sólida em **colaboração interdisciplinar** e cooperação internacional, esta iniciativa conecta ciência de dados com aplicações do mundo real para fomentar cidades resilientes, inclusivas e inteligentes.
 
 <br>
 
 ## [Planet Smart City]():
 
-Fundada em 2015 por **Giovanni Savio** e **Susanna Marchionni**, a Planet Smart City lidera o movimento global por **habitações acessíveis, inteligentes e sustentáveis**. Seus projetos combinam:
+Fundada em 2015 por [**Giovanni Savio**](https://github.com/user-attachments/assets/e53824a7-19df-464d-a12f-61024ba18a94) e [**Susanna Marchionni**](), a Planet Smart City lidera o movimento global por **habitação acessível, inteligente e sustentável**. Seus projetos combinam:
 
-- Planejamento urbano avançado  
+- Design urbano avançado  
 - Tecnologia integrada  
 - Iniciativas de construção comunitária
 
 <br>
 
-## [Visão Geral da Apresentação]():
+ ## ⚡️ [CDIA Nexus PUC-SP: Polo de Inovação em Água e Energia Inteligente]() 💦
 
-**CDIA Nexus** é o projeto final de extensão acadêmica e social do **Grupo de Ciência de Dados e Inteligência Artificial da PUC-SP**, focado na aplicação de **IoT e IA** para **sistemas inteligentes de água e energia** na **Smart City Laguna**, um desenvolvimento urbano pioneiro em Fortaleza, Brasil.
+O **CDIA Nexus** é uma iniciativa do Grupo de Ciência de Dados e Inteligência Artificial da **PUC-SP**, dedicada ao desenvolvimento de soluções aplicadas de **IA e IoT** para a **gestão inteligente de água e energia**.
 
-Esta iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-Habitat** e **Starlink**, alinhada com os **Objetivos de Desenvolvimento Sustentável (ODS) da ONU** e comprometida com **inovação social, inclusão digital e inteligência ambiental**.
+Esse polo de inovação integra **pesquisa aplicada, extensão universitária e impacto social**, com foco na transformação de comunidades por meio de tecnologia com propósito.
 
-<br>
+As soluções desenvolvidas são aplicadas em contextos reais, como a **Smart City Laguna** (Fortaleza, Brasil), por meio de projetos em parceria com organizações como **Planet Smart City**, **ONU-Habitat**, **Starlink**, entre outras.
 
-[Principais destaques da apresentação]():
-
-- Um **painel integrado de monitoramento de Água e Energia**  
-- Análises preditivas com modelos de IA  
-- Engajamento comunitário por meio de estratégias orientadas por dados  
-- Insights sobre a implementação usando **conectividade Starlink** e infraestrutura Planet
+O projeto busca combinar **sustentabilidade, inclusão digital e inovação social**, promovendo cidades mais **resilientes, eficientes e centradas nas pessoas**.
 
 <br>
 
-[_“Data 4 Good. Innovation with Meaning.”_]()
-
-
-<br>
-
-🌟 Contribuidor-chave: [**Stefano Buono**](https://github.com/user-attachments/assets/e53824a7-19df-464d-a12f-61024ba18a94), físico e empreendedor, ex-pesquisador do CERN e fundador da AAA (vendida à Novartis), atualmente presidente da LIFTT e CEO da **Newcleo** (inovação em energia nuclear limpa).
+## 📿 [Do Código ao Insight](): Análise de Dados e Apoio à Decisão:
 
 <br>
 
-➢ [Visite Planet Smart City - Oficial](https://planetsmartcity.com/) 🇮🇹  
-➢ [Visite Planet Smart City - Brasil](https://planetsmartcity.com.br) 🇧🇷  
-➢ [Visite Planet Smart City - Índia](https://planetsmartcity.in/) 🇮🇳  
+## [Objetivo do Projeto]():
+
+Desenvolver uma solução baseada em ciência de dados e IA para **monitorar, prever e otimizar o consumo de energia elétrica em uma casa inteligente** (Smart City Laguna). O projeto simula dados de sensores por cômodo e utiliza aprendizado de máquina para antecipar padrões de consumo e propor ações de economia.
 
 <br>
 
-## [O Projeto Laguna: Inovação Social Inteligente]():
+## [Conjunto de Dados Utilizado]():
 
-Localizada em **São Gonçalo do Amarante, Ceará**, a **Smart City Laguna** é a cidade inteligente emblemática da Planet no Brasil, com mais de **60 soluções inteligentes**, incluindo:
+Foi utilizado um **conjunto de dados simulado**, contendo registros diários com as seguintes variáveis:
 
-- Wi-Fi público e rede de IoT  
-- Mobilidade urbana e iluminação sustentáveis  
-- Drenagem pluvial com pavimentos permeáveis  
-- Programas culturais, educacionais e de governança  
-
-<br>
-
-## [No centro deste ecossistema]():
-
-**O Gestor Comunitário** — um profissional capacitado dedicado a:
-
-- Mobilizar a governança participativa  
-- Promover oficinas, educação e engajamento  
-- Fortalecer a coesão social e a gestão de longo prazo  
-
-<br>
-
-## 🌎 [Parcerias Globais]():
-
-Agradecimento especial a [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-neto-95a047174/), CEO da Proptech Brasil, por liderar com empatia, respeito e integridade. A forma como você se coloca à disposição dos outros faz toda a diferença.
-
-<br>
-
-#### [Ping Pedro](mailto:pedro@flexautomation.com.br) 📲
-
-<br>
-
-Estendemos nossa sincera gratidão às organizações e indivíduos que tornaram possível a implementação do projeto CDIA PUC-SP. Agradecimento especial a:
-
-<br>
-
-| **Organização**             | **Contribuição**                                                |
-|-----------------------------|------------------------------------------------------------------|
-| **Nações Unidas (ONU)**     | Financiamento para aquisição de painéis solares                 |
-| **PUC-SP (CDIA)**           | Design e implementação de IoT e IA                              |
-| **ONU-Habitat**             | Apoio técnico e estruturação ética                              |
-| **Starlink**                | Infraestrutura de internet via satélite                         |
-| **Planet Smart City**       | Desenvolvimento urbano e apoio local                            |
-| **Proptech Brasil**         | Implementação local e apoio estratégico                         |
-
-<br>
-
-### [Também agradecemos a]():
-
-- Líderes locais e membros da comunidade pela confiança e colaboração contínua.  
-- A equipe técnica multidisciplinar pela dedicação a soluções inovadoras e sustentáveis.  
-- Todos que contribuíram, direta ou indiretamente, para tornar esta visão realidade.
-
-#### [Juntos](), esses parceiros representam uma abordagem integrada para alcançar os **Objetivos de Desenvolvimento Sustentável**, especialmente em regiões emergentes. 💙🌎
-
-<br>
-
-## ⚡️ Módulo CDIA: Sistemas de Água & Energia 💦
-
-O **Módulo de Água & Energia**, desenvolvido pelo CDIA, foca no uso de **IoT e IA** para otimização de recursos. Principais funcionalidades:
-
-- Sensores inteligentes para monitoramento de consumo  
-- Dashboards com alertas preditivos baseados em IA  
-- Visualizações para conscientização comunitária  
-- Modelos escaláveis de gestão de recursos  
-
-<br>
-
-## 🧑🏼‍🚀 [Membros da Equipe]():
-
-| Nome                     | Função                                            |
-|--------------------------|---------------------------------------------------|
-| **Andson Ribeiro**       | [Github](https://github.com/andsonandreribeiro09) - [Contato]() |
-| **Fabiana 🧬 Campanari** | [Github](https://github.com/FabianaCampanari) - [Contato Hub](https://linktr.ee/fabianacampanari) |
-| **Leonardo X Fernandes** | [Github](https://github.com/LeonardoXF) - [Contato]() |
-| **Pedro Vyctor Almeida** | [Github](https://github.com/ppvyctor) - [Contato]() |
-
-<br>
-
-💙 Todos os membros colaboraram nas áreas técnicas e criativas. Fabiana 🧬 Campanari também liderou a **identidade visual e narrativa do projeto**.
-
-<br>
-
-## Inovações e Atividades
-
-- Instalação de **sensores IoT** para monitoramento de água e energia  
-- Desenvolvimento de **dashboards preditivos** e sistemas de alerta  
-- Co-criação de **interfaces de visualização de dados** para moradores  
-- Implementação de pilotos de **energia solar** apoiados pela ONU-Habitat  
-- Análises em tempo real para **planejamento e sustentabilidade de recursos**
-
-<br>
-
-## Resultados de Aprendizagem
-
-A equipe desenvolveu experiência prática em:
-
-- **Design thinking + metodologias participativas**  
-- **Pesquisa de campo em infraestrutura urbana**  
-- **Modelagem de dados e machine learning**  
-- **Prototipagem e integração de sistemas**  
-- Desenvolvimento de soluções que refletem as **necessidades reais da comunidade**
-
-<br>
-
-## Documentação Visual
-
-📷 **Galeria de Fotos**
-- `drone_view_laguna_2025.jpg` – Vista aérea da cidade  
-- `team_workshop_on_site.jpeg` – Atividades de campo com os moradores  
-- `solar_panels_community.jpeg` – Instalação de painéis solares apoiada pela ONU  
-- `iot_dashboard_mockup.png` – Protótipo do dashboard  
-
-<br>
-
-## **Apresentações**
-- `CDIA_Final_Pitch.pdf` – Principais insights e resultados  
-- `UN_SolarInvestment_Laguna.pptx` – Apresentação para stakeholders  
-- `IoT_Architecture_Prototype.pptx` – Arquitetura de sensores e fluxo de dados
-
-<br>
-
-## **Dados**
-- `energy_usage.csv` – Histórico de consumo de energia  
-- `water_flow_readings.json` – Leituras em tempo real do uso de água
-
-<br>
-
-🗂 **Estrutura de Pastas**  
-SmartCityLaguna_Project/  
-├── presentations/  
-├── gallery/  
-├── data/  
-├── README.md  
-└── LICENSE (MIT)
-
-<br>
-
-## Agradecimento
-
-Estendemos nosso sincero agradecimento ao **Pedro da Proptech**, cujo apoio e expertise foram fundamentais ao longo deste projeto. Sua visão e presença foram pilares essenciais na nossa jornada.
-
-<br>
-
-## ✨ Reflexão Final
-
-A Smart City Laguna é a prova de que **inovação inclusiva**, **infraestrutura sustentável** e **empoderamento digital** podem transformar vidas.
-
-Por meio da **tecnologia com empatia**, este projeto mostra como dados e design podem servir não apenas aos sistemas, mas às pessoas que vivem neles.
-
-> _Desenvolvido com propósito e precisão pela equipe de Água & Energia Inteligente – CDIA PUC-SP_  
-> _“A tecnologia ganha sentido quando eleva as comunidades.”_
-
-<br><br><br>
-
-## Gêmeo Digital para Monitoramento e Otimização de Energia Residencial – SmartHouse  
-### [Do Código ao Insight: Análise de Dados e Apoio à Decisão]()
-
-<br>
-
-## Objetivo do Projeto
-
-Desenvolver uma solução baseada em ciência de dados e inteligência artificial para **monitorar, prever e otimizar o consumo de energia elétrica em uma casa inteligente** (Smart City Laguna). O projeto simula dados de sensores por cômodo e utiliza aprendizado de máquina para antecipar padrões de consumo e propor ações de economia.
-
-<br>
-
-## Conjunto de Dados Utilizado
-
-Foi utilizado um conjunto de dados **simulado**, contendo registros diários com as seguintes variáveis:
-
-- `Data`: Dia da medição  
-- `KW/H`: Consumo total de energia em kWh  
-- `Quarto1`, `Quarto2`, `Sala`, `Cozinha`, `Piscina`: Número de ativações de sensores em cada cômodo  
-- `Geração Solar`: Energia gerada por painéis solares (simulado)
-
-<br>
-
-## Pergunta de Negócio
-
-> “Como prever o consumo diário de energia com base no comportamento por cômodo e, a partir disso, propor medidas automáticas de economia e eficiência energética?”
-
-<br>
-
-## Metodologia e Etapas Realizadas
-
-1. **Importação e visualização dos dados**  
-Leitura da planilha com `pandas` e validação de formatos.
-
-2. **Pré-processamento**  
-   - Conversão da coluna `Data` para o formato `datetime`.  
-   - Criação da variável `Dia_ordinal` para modelagem.  
-   - Cálculo do consumo médio por ativação por cômodo.  
-   - Simulação de geração solar e projeção de consumo futuro.
-
-3. **Modelagem Preditiva**  
-Um modelo de **Regressão Linear** foi treinado para estimar o consumo (`KW/H`) com base nas ativações totais por cômodo. Também foi implementada previsão para o dia seguinte.
-
-4. **Visualizações**  
-   - Gráficos de séries temporais com `matplotlib`/`seaborn`.  
-   - Ranking dos cômodos com maior consumo.  
-   - Representações de ativações por cluster.  
-   - Dashboard interativo com Streamlit para visualização em tempo real (opcional).
-
-5. **Exportação de Relatórios**  
-Geração automática de relatórios em PDF com dados relevantes, gráficos e previsões.
-
-<br>
-
-## Resultados Obtidos
-
-- O modelo de regressão apresentou boa capacidade de prever o consumo com base nas ativações.  
-- Identificou-se que **Sala** e **Cozinha** são os cômodos com maior impacto no consumo.  
-- A **Piscina**, embora com poucas ativações, apresentou alto consumo médio por ativação, indicando desperdício; foi removida do modelo, já que o projeto Laguna é voltado à habitação social e não inclui piscinas.  
-- A geração solar pode compensar significativamente o consumo durante horários de pico, se bem gerenciada.
-
-<br>
-
-## Conclusões e Recomendações
-
-- **Automatizar desligamentos** em áreas de alto uso, como sala e cozinha, para obter economia imediata.  
-- **Agendar horários de uso da piscina** para mitigar picos de consumo injustificados.  
-- **Aproveitar a geração solar** para balancear o uso de aparelhos durante os horários de maior geração.  
-- **Implementar alertas** quando as metas diárias de consumo forem ultrapassadas.
-
-<br>
-
-## Entregáveis
-
-- Aplicação Streamlit com visualização de sensores em tempo real.  
-- Relatório em PDF com métricas de consumo e sugestões.  
-- Notebook com todo o pipeline de dados, modelo preditivo e análises visuais.
-
-<br>
-
-## 👥 Público-Alvo
-
-Este projeto foi desenvolvido para um cliente externo interessado em soluções de **eficiência energética residencial**, com potencial expansão para condomínios, edifícios e cidades inteligentes.
-
-<br>
-
-📌 *Este relatório foi elaborado com base em práticas de ciência de dados aplicadas ao contexto de consumo energético residencial e visa facilitar a tomada de decisões pelo cliente final.*
+--------0-0-///////
 
 <br>
 
