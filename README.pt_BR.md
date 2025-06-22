@@ -34,8 +34,7 @@
 
 #### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes </em></p>
 
-#### <p align="center"><em> [↓]()
-
+#### <p align="center"> [⇩]() 
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
     <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
