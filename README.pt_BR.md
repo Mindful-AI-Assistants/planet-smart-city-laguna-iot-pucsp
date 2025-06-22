@@ -1,49 +1,31 @@
 
+
  
  \[[🇮🇹 Italiano](README.it_IT.md)\] \[**[🇧🇷Português](README.pt_BR.md)**\] \[[🇺🇸English](README.md)\]
 
-<br><br>
 
 
- 
-## <p align="center"> 🌐 CDIA Nexus PUC-SP: Centro de Inovação em Soluções Inteligentes para Água e Energia — Smart City Laguna IoT, Fortaleza, Brasil 🇧🇷
-#### <p align="center"> ***Projeto de monitoramento, previsão e otimização do consumo energético em uma casa inteligente, utilizando [IoT]() e [IA](). Desenvolvido no contexto da [Smart City Laguna]() – CDIA PUC-SP***.
+## <p align="center"> 🌐 CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy Solutions — Smart City Laguna IoT, Fortaleza, Brazil 
+### <p align="center"> ***Project for monitoring, forecasting, and optimizing energy consumption in a smart home, using [IoT]() and [AI](). Developed in the context of [Smart City Laguna]() – CDIA PUC-SP***.
 
-
- <br> <br>
+  <br><br>
  
 
 <p align="center">
    <a href="https://github.com/sponsors/Mindful-AI-Assistants">
-    <img src="https://img.shields.io/badge/Patrocinar-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
+    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
   </a>
 </p>
 
 
- <br>
- 
-
-#### <p align="center"> ***Em colaboração com [Planet]() Smart City, [PUC-SP]() - Ciência de Dados & IA, [ONU](0 Objetivos de Desenvolvimento Sustentável ODS, [Starlink]() e [Proptech]() Brasil***
+<br><
 
 
- <br>
+#### <p align="center"> ***In collaboration with [Planet]() Smart City, [PUC-SP]() - Data Science & AI, [UN](0 Sustainable Development Goals SDGs), [Starlink]() and [Proptech]() Brazil***
 
- <!--
-#### <p align="center"> [![Patrocine Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
--->
-
-
-#### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes [↓]()</em></p>
-
- <br>
-
-<p align="center">
-  <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
-    <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulador-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
-  </a>
- 
 
  <br><br>
+
  
 <!-- VIDEO -->
 
@@ -55,6 +37,17 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 
 
 <br><br>
+
+
+#### <p align="center"><em> Explore the [Simulator]() and support the Smart Cities AI project </em></p>
+
+#### <p align="center"> [⇩]() 
+<p align="center">
+  <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
+    <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
+  </a>
+
+ <br><br>
 
 
 ## [Visão Geral da Apresentação]():
