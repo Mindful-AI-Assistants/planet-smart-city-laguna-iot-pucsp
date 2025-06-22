@@ -717,15 +717,9 @@ plt.show()
 <br><br>
 
  <p align="center">
-<img src="
+<img src="https://github.com/user-attachments/assets/eaa0ccde-751f-4b9f-891f-5cbef2609d1f" />
 
 <br><br>
-
-
-  
- <p align="center">
-<img src="
-
 
 
 ### **[Cell 15]() - Average profile per cluster and naming**
@@ -846,9 +840,14 @@ plt.title('Consumption Distribution (KW/H) by Cluster')
 plt.show()
 ```
 
-**Shows consumption variation by cluster.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="
+
+
+<br><br>
+
 
 ### **[Cell 18: PLOT 9]() - Heatmap of percentages by cluster**
 
@@ -883,7 +882,9 @@ plt.legend()
 plt.show()
 ```
 
-**Compares the activation profile of each cluster.**
+ <p align="center">
+<img src="
+
 
 <br>
 
