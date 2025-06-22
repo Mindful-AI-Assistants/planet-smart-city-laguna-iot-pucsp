@@ -317,6 +317,33 @@ Localizada em [**São Gonçalo do Amarante**](), Ceará, Fortaleza, Brasil; a **
 
 Agradecimento especial a [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-neto-95a047174/), CEO da Proptech Brasil, por liderar com empatia, respeito e integridade. A forma como você apoia os outros realmente faz toda a diferença.
 
+<br>
+
+#### [Fale com Pedro](mailto:pedro@flexautomation.com.br) 📲
+
+<br>
+
+Expressamos nossa sincera gratidão às organizações e indivíduos que tornaram possível a implementação do CDIA PUC-SP. Agradecimento especial para:
+
+<br>
+
+| [**Organização**]()           | [**Contribuição**]()                                      |
+|------------------------------|------------------------------------------------------------|
+| **Nações Unidas (ONU)**      | Financiamento para aquisição de painéis solares            |
+| **PUC-SP (CDIA)**            | Design e implementação de IoT e IA                         |
+| **ONU-Habitat**              | Apoio técnico e estruturação ética                         |
+| **Starlink**                 | Infraestrutura de internet via satélite                   |
+| **Planet Smart City**        | Desenvolvimento urbano e suporte local                    |
+| **Proptech Brasil**          | Implementação local e suporte estratégico                 |
+
+<br>
+
+### [Também agradecemos a]():
+
+- Líderes locais e membros da comunidade pela confiança e colaboração contínua.  
+- A equipe técnica multidisciplinar pela dedicação a soluções inovadoras e sustentáveis.  
+- Todos que contribuíram, direta ou indiretamente, para tornar essa visão realidade.
+
 
 
 
