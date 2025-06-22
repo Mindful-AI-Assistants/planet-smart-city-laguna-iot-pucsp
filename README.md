@@ -173,7 +173,7 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 <br>
 
 
-## ⚡ [CDIA PUC-São Paulo Module: Water & Energy Systems]() 💧
+## ⚡ [CDIA PUC-São Paulo Module: Water & Energy Systems]() 💦
 
 The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and AI** for resource optimization. Key features:
 
