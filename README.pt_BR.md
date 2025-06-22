@@ -83,7 +83,7 @@ O projeto busca combinar **sustentabilidade, inclusão digital e inovação soci
 
 <br>
 
-## 📿 [Do Código ao Insight](): Análise de Dados e Apoio à Decisão:
+## 💥 [Do Código ao Insight](): Análise de Dados e Apoio à Decisão:
 
 <br>
 
