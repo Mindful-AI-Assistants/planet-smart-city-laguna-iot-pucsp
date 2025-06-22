@@ -79,7 +79,7 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 <br>
 
-##  [Project Overview]():
+##  🌐  [Project Overview]():
 
 Developed by the **CDIA group at PUC-SP**, this extension project aims to optimize **smart resource management systems** in the Smart City Laguna – combining **technology**, **sustainability**, and **community innovation** to empower underserved regions.
 
@@ -87,7 +87,7 @@ With a strong foundation in **interdisciplinary collaboration** and internationa
 
 <br>
 
-## 🌐 [Planet Smart City]():
+## [Planet Smart City]():
 
 Founded in 2015 by **Giovanni Savio** and **Susanna Marchionni**, Planet Smart City leads the global movement for **affordable, smart, and sustainable housing**. Their projects combine:
 
@@ -133,7 +133,7 @@ Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Plane
 
 <br>  
 
-## 🌍 [Global Partnerships]():
+## 🌎 [Global Partnerships]():
 
 Special thanks to [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-neto-95a047174/), CEO of Proptech Brazil, for leading with empathy, respect, and integrity. The way you show up for others truly makes all the difference.
 
