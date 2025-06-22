@@ -21,7 +21,7 @@
 -->
 
 
-##### <p align="center"><em> Explore o simulador e apoie o projeto de IA para Cidades Inteligentes ↓</em></p>
+#### <p align="center"><em> Explore o simulador e apoie o projeto de IA para Cidades Inteligentes ↓</em></p>
 
  <br><br>
 
