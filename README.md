@@ -539,7 +539,9 @@ plt.suptitle("Variable Distributions", fontsize=16, y=1.02)
 plt.show()
 ```
 
-**Insert here to visualize the distribution of consumption and activations.**
+<br>
+
+https://github.com/user-attachments/assets/d3f2a133-5e02-4560-a020-406fe2982194
 
 <br>
 
