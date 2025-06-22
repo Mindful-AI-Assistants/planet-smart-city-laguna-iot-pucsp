@@ -62,7 +62,7 @@ With a strong foundation in **interdisciplinary collaboration** and internationa
 
 ## [Planet Smart City]():
 
-Founded in 2015 by [**Giovanni Savio**]() and [**Susanna Marchionni**](), Planet Smart City leads the global movement for **affordable, smart, and sustainable housing**. Their projects combine:
+Founded in 2015 by [**Giovanni Savio**](https://github.com/user-attachments/assets/e53824a7-19df-464d-a12f-61024ba18a94) and [**Susanna Marchionni**](), Planet Smart City leads the global movement for **affordable, smart, and sustainable housing**. Their projects combine:
 
 - Advanced urban design  
 - Integrated technology  
