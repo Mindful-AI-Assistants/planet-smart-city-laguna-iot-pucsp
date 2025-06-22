@@ -372,6 +372,36 @@ O **Módulo de Água e Energia** desenvolvido pelo CDIA tem foco no uso de **IoT
 | **Pedro Vyctor Almeida** | [Github](https://github.com/ppvyctor) - [Contato]()    |
 
 
+<br>
+
+💙 Todos os membros contribuíram colaborativamente nas áreas técnicas e criativas. Fabiana 🧬 Campanari também liderou a **identidade e linguagem visual do projeto**.
+
+<br>
+
+## [Inovações & Atividades]():
+
+- Instalação de **sensores IoT** para monitoramento de água e energia  
+- Desenvolvimento de **dashboards preditivos** e sistemas de alerta  
+- Cocriação de uma **interface de visualização de dados** para os moradores  
+- Implementação de **pilotos de energia solar** com apoio da ONU-Habitat  
+- Análises em tempo real para **planejamento de recursos e sustentabilidade**
+
+<br>
+
+## [Resultados de Aprendizagem]():
+
+***A equipe adquiriu experiência prática em***:
+
+- **Design thinking + metodologias participativas**  
+- **Pesquisa de campo em infraestrutura urbana**  
+- **Aprendizado de máquina e modelagem de dados**  
+- **Prototipagem e integração de sistemas**  
+- Entrega de soluções que refletem as **necessidades reais da comunidade**
+
+<br>
+
+## [Documentação Visual]():
+
 
 --------0-0-///////
 
