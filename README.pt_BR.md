@@ -180,6 +180,33 @@ Geração automática de relatórios em PDF com dados relevantes, gráficos e pr
 
 ## [Funcionalidades]():
 
+- Dashboard em tempo real exibindo dados dos sensores por cômodo  
+- Previsão diária de consumo energético via Regressão Linear  
+- Sensores simulados por cômodo (Quarto1, Quarto2, Sala, Cozinha)  
+- Meta diária de consumo com sistema de alertas  
+- Sistema de atualização automática usando `streamlit_autorefresh`  
+- Clusterização de padrões de uso com KMeans + PCA  
+- Exportação de relatórios em PDF  
+- Comparação com geração solar simulada
+
+<br>
+
+## [Tecnologias Utilizadas]():
+
+- Python  
+- Pandas e NumPy – processamento e análise de dados  
+- Scikit-learn – regressão linear e KMeans  
+- Matplotlib, Seaborn e Plotly – visualizações  
+- Streamlit – dashboard interativo  
+- FPDF – geração de relatórios em PDF  
+- Pillow – renderização de imagens no dashboard
+
+<br>
+
+## [Estrutura do Projeto]():
+
+<br>
+
 --------0-0-///////
 
 
