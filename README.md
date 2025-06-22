@@ -82,7 +82,7 @@ The project aims to combine **sustainability, digital inclusion, and social inno
 
 <br>
 
-## [From Code to Insight](): Data Analysis and Decision Support:
+## 📿 [From Code to Insight](): Data Analysis and Decision Support:
 
 <br>
 
@@ -219,24 +219,26 @@ laguna_city_digital/
 
 ## [Visualization Examples]():
 
-- PCA Clustering  
+- [***PCA Clustering***]()  
   Distribution of usage patterns by energy profile
 
-- Activation Heatmap  
+- [***Activation Heatmap***]()  
   Usage percentage by room
 
-- Actual vs Predicted Chart  
+- [***Actual vs Predicted Chart***]()  
   Evaluation of prediction accuracy
 
 <br>
 
-## Model Performance
+## [Model Performance]():
 
 - R²: 0.70  
 - RMSE: 11,528.06  
 - Most influential room: Living Room (28.21%)
 
-## Final Applications
+<br>
+
+## [Final]():
 
 - Personalized consumption targets  
 - Real-time alert system  
@@ -268,7 +270,7 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 <br>
 
-[_“Data 4 Good. Innovation with Meaning.”_]()
+#### [_“Data 4 Good. Innovation with Meaning.”_]()
 
 
 <br>
@@ -287,7 +289,6 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 <br>
 
-
 ## [The Laguna Project: Smart Social Innovation]():
 
 Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Planet’s flagship smart city in Brazil, featuring over **60 smart solutions**, including:
@@ -301,7 +302,7 @@ Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Plane
 
 ## [At the center of this ecosystem]():  
 
-**The Community Manager** — a trained professional dedicated to:
+[***The Community Manager*** ]()— a trained professional dedicated to:
 
 - Mobilizing participatory governance  
 - Promoting workshops, education, and engagement  
@@ -324,7 +325,7 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 <br>
 
 
-| **Organization**          | **Contribution**                                             |
+| [**Organization**]()          | [**Contribution**]()                                     |
 |---------------------------|--------------------------------------------------------------|
 | **United Nations (UN)**   | Funding for the acquisition of solar panels                  |
 | **PUC-SP (CDIA)**         | IoT and AI design and implementation                         |
@@ -344,7 +345,7 @@ We extend our heartfelt gratitude to the organizations and individuals who made 
 
 <br>
 
-#### [Together](), these partners embody an integrated approach to achieving the **Sustainable Development Goals**, particularly in emerging regions. 💙🌎
+##### [Together](), these partners embody an integrated approach to achieving the **Sustainable Development Goals**, particularly in emerging regions. 💙🌎
 
 <br>
 
