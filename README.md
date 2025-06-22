@@ -246,7 +246,7 @@ laguna_city_digital/
 ## [Final Conc.usions]():
 
 #### Personalized consumption targets  
-####Real-time alert system  
+#### Real-time alert system  
 - Support for urban energy sustainability  
 - Scalable foundation for full Smart City deployment
 
@@ -287,7 +287,7 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 ➢ [Visit Planet Smart City - Oficial](https://planetsmartcity.com/) 🇮🇹
 
-➢[Visit Planet Smart City - Brazil](https://planetsmartcity.com.br) 🇧🇷
+➢ [Visit Planet Smart City - Brazil](https://planetsmartcity.com.br) 🇧🇷
 
 ➢ [Visit Planet Smart City - India](https://planetsmartcity.in/) 🇮🇳
 
