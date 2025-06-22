@@ -690,10 +690,12 @@ plt.grid(True)
 plt.show()
 ```
 
+<br><br>
+
  <p align="center">
 <img src="https://github.com/user-attachments/assets/777530cb-66e4-4bb1-a13c-94e6f0bcd746" />
 
-<br>
+<br><br>
 
 ### **[Célula 14: PLOT 7]() — KMeans e  Pairplot dos clusters**
 
@@ -830,9 +832,15 @@ plt.title('Distribuição de Consumo (KW/H) por Cluster')
 plt.show()
 ```
 
-**Mostra a variação do consumo total por cluster.**
+<br><br>
 
-<br>
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/d0f56c43-9869-4401-adb4-ce1e0fbcde40" />
+
+<br><br>
+
 
 ### **[Célula 18: PLOT 9]() - Heatmap de percentuais por cluster**
 
