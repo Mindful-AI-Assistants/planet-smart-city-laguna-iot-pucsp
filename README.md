@@ -270,7 +270,7 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 <br>
 
-#### [_“Data 4 Good. Innovation with Meaning.”_]()
+#### [_“Data 4 Good. Innovation with Meaning.”]()
 
 
 <br>
@@ -291,7 +291,7 @@ This initiative was developed in partnership with **Planet Smart City**, **UN-Ha
 
 ## [The Laguna Project: Smart Social Innovation]():
 
-Located in **São Gonçalo do Amarante, Ceará**, **Smart City Laguna** is Planet’s flagship smart city in Brazil, featuring over **60 smart solutions**, including:
+Located in [**São Gonçalo do Amarante**](), Ceará, Fortaleza, Brazil;  **Smart City Laguna** is a [Planet’s flagship]() smart city in Brazil, featuring over [**60 smart solutions**](), including:
 
 - Public Wi-Fi and IoT backbone  
 - Sustainable urban mobility and lighting  
@@ -362,7 +362,7 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 <br>
   
 
-## 🧑🏼‍🚀 [Team Members]()
+## 🧑🏼‍🚀 [Team Members]():
 
 | Name                    | Role                                             |
 |-------------------------|--------------------------------------------------|
