@@ -82,17 +82,17 @@ The project aims to combine **sustainability, digital inclusion, and social inno
 
 <br>
 
-## [From Code to Insight]((): Data Analysis and Decision Support:
+## [From Code to Insight](): Data Analysis and Decision Support:
 
 <br>
 
-## Project Goal
+## [Project Goal]():
 
 To develop a data science and AI-based solution to **monitor, forecast, and optimize electricity consumption in a smart home** (Smart City Laguna). The project simulates sensor data per room and uses machine learning to anticipate consumption patterns and propose saving actions.
 
 <br>
 
-## [Dataset ]():
+## [Dataset]():
 
 A **simulated dataset** was used, containing daily records with the following variables:
 
@@ -111,7 +111,7 @@ A **simulated dataset** was used, containing daily records with the following va
 
 <br>
 
-## [Methodology and Steps]()
+## [Methodology and Steps]():
 
 <br<
 
@@ -128,12 +128,12 @@ Reading the spreadsheet using `pandas` and validating formats.
 
 <br>
 
-[3](). **Predictive Modeling**  
+[3](). [***Predictive Modeling***]():  
 A **Linear Regression** model was trained to estimate consumption (`KW/H`) based on total room activations. It also includes next-day prediction.
 
 <br>
 
-[4](). **Visualizations**  
+[4](). [***Visualizations***](): 
    - Time series plots with `matplotlib`/`seaborn`  
    - Ranking of rooms with highest consumption  
    - Activation patterns by cluster  
@@ -141,7 +141,7 @@ A **Linear Regression** model was trained to estimate consumption (`KW/H`) based
 
 <br>
 
-[5](). **Report Export**  
+[5](). [***Report Export***]():  
 Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
