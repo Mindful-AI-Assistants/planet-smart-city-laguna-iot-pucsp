@@ -427,7 +427,7 @@ We extend our sincere thanks to **Pedro from Proptech**, whose guidance and expe
 
 
 
-##  [Dataset Used]()
+##  Dataset Used - [tap here to get the dataset]()
 
 [A **simulated** dataset was used, containing daily records with the following variables]():
 
@@ -452,7 +452,7 @@ A **Linear Regression** model was trained to estimate consumption (`KW/H`) based
 
 <br>
 
-## 📓 [Code Pipeline]()
+## 📓 [Code Pipeline]():
 
 <br>
 
