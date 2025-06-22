@@ -82,7 +82,7 @@ The project aims to combine **sustainability, digital inclusion, and social inno
 
 <br>
 
-## [From Code to Insight: Data Analysis and Decision Support]():
+## [From Code to Insight]((): Data Analysis and Decision Support:
 
 <br>
 
@@ -92,7 +92,7 @@ To develop a data science and AI-based solution to **monitor, forecast, and opti
 
 <br>
 
-## Dataset Used
+## [Dataset ]():
 
 A **simulated dataset** was used, containing daily records with the following variables:
 
@@ -103,20 +103,24 @@ A **simulated dataset** was used, containing daily records with the following va
 
 <br>
 
-## Business Question
+## [Business Question]():
+
+<br>
 
 > “How can we predict daily energy consumption based on room-specific behavior and, from that, propose automated measures for energy savings and efficiency?”
 
 <br>
 
-## Methodology and Steps
+## [Methodology and Steps]()
 
-1. **Data import and visualization**  
+<br<
+
+[1](). **Data import and visualization**  
 Reading the spreadsheet using `pandas` and validating formats.
 
 <br>
 
-2. **Preprocessing**  
+[2](). **Preprocessing**  
    - Converting the `Date` column to `datetime` format  
    - Creating the `OrdinalDay` variable for modeling  
    - Calculating average consumption per activation per room  
@@ -124,12 +128,12 @@ Reading the spreadsheet using `pandas` and validating formats.
 
 <br>
 
-3. **Predictive Modeling**  
+[3](). **Predictive Modeling**  
 A **Linear Regression** model was trained to estimate consumption (`KW/H`) based on total room activations. It also includes next-day prediction.
 
 <br>
 
-4. **Visualizations**  
+[4](). **Visualizations**  
    - Time series plots with `matplotlib`/`seaborn`  
    - Ranking of rooms with highest consumption  
    - Activation patterns by cluster  
@@ -137,12 +141,12 @@ A **Linear Regression** model was trained to estimate consumption (`KW/H`) based
 
 <br>
 
-5. **Report Export**  
+[5](). **Report Export**  
 Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## Results
+## [Results]():
 
 - The regression model showed good ability to predict consumption based on room activity  
 - **Living Room** and **Kitchen** were identified as the highest impact areas  
@@ -151,7 +155,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## Conclusions and Recommendations
+## [Conclusions and Recommendations]():
 
 - **Automate power shut-offs** in high-usage areas like the living room and kitchen to achieve immediate savings  
 - **Schedule pool usage** to mitigate unnecessary consumption peaks  
@@ -160,7 +164,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## Deliverables
+## [Deliverables]():
 
 - Streamlit app for real-time sensor monitoring  
 - PDF report with consumption metrics and recommendations  
@@ -168,7 +172,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## Features
+## [Features]():
 
 - Real-time dashboard displaying room-based sensor data  
 - Daily energy consumption forecasting via Linear Regression  
@@ -181,7 +185,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## Technologies Used
+## [Technologies Used]():
 
 - Python  
 - Pandas and NumPy – data processing and analysis  
@@ -193,7 +197,7 @@ Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 <br>
 
-## Project Structure
+## [Project Structure]():
 
 <br>
 
@@ -213,7 +217,7 @@ laguna_city_digital/
 
 <br>
 
-## Visualization Examples
+## [Visualization Examples]():
 
 - PCA Clustering  
   Distribution of usage patterns by energy profile
