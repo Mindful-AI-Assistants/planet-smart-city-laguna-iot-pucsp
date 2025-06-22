@@ -166,8 +166,11 @@ Il **Modulo Acqua & Energia**, sviluppato da CDIA, si concentra sull’uso di **
 |---------------------------|--------------------------------------------------|
 | **Andson Ribeiro**        | [Github](https://github.com/andsonandreribeiro09) - [Contatto]() |
 | **Fabiana 🧬 Campanari**  | [Github](https://github.com/FabianaCampanari) - [Contatto Hub](https://linktr.ee/fabianacampanari) |
-| **Leonardo X Fernandes**  | [Github](https://github.com/LeonardoXF) - [Contatto]() |
 | **Pedro Vyctor Almeida**  | [Github](https://github.com/ppvyctor) - [Contatto]() |
+
+<!--
+| **Leonardo X Fernandes**  | [Github](https://github.com/LeonardoXF) - [Contatto]() |
+-->
 
 <br>
 
