@@ -25,16 +25,16 @@
 #### <p align="center"> ***Em colaboração com [Planet]() Smart City, [PUC-SP]() - Ciência de Dados & IA, [ONU](0 Objetivos de Desenvolvimento Sustentável ODS, [Starlink]() e [Proptech]() Brasil***
 
 
- <br>
+ <br><br>
 
  <!--
 #### <p align="center"> [![Patrocine Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 -->
 
 
-#### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes [↓]()</em></p>
+#### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes </em></p>
 
- <br>
+#### <p align="center"><em> [↓]()
 
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
