@@ -916,9 +916,13 @@ plt.grid(True)
 plt.show()
 ```
 
-**Reduz dimensionalidade para visualizar os clusters em 2D.**
 
-<br>
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/82d5e3a8-7c7f-4100-ac35-c8267effc9f0" />
+
+<br><br>
 
 
 ## 📊 Interpretação dos Gráficos e Perfis
