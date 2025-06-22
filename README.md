@@ -525,6 +525,7 @@ print(correlation)
 
 <br>√
 
+
 ### **[Cell 5: PLOT 1]() - Variable distributions**
 
 ```python
@@ -645,12 +646,13 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
-<br>
+
+<br><br>
 
  <p align="center">
-<img src="
+<img src="https://github.com/user-attachments/assets/fd43ac5f-6a85-4cb7-98f5-bb9b3b9d4beb"/>
 
-<br>
+<br><br>
 
 
 ### **[Cell 11]() - Model coefficients**
@@ -695,9 +697,12 @@ plt.grid(True)
 plt.show()
 ```
 
-**Visually choose the ideal number of clusters.**
+<br><br>
 
-<br>
+ <p align="center">
+<img src="
+
+<br><br>
 
 ### **[Cell 14: KMeans and PLOT 7]() - Pairplot of clusters**
 
