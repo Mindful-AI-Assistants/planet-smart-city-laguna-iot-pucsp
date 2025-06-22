@@ -275,7 +275,7 @@ Essa iniciativa foi desenvolvida em parceria com a **Planet Smart City**, **ONU-
 
 <br>
 
-#### [_“Data for Good. Inovação com Propósito.”]()
+#### [“Data for Good. Inovação com Significado.”]()
 
 <br>
 
