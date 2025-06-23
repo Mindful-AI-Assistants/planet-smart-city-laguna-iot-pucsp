@@ -175,7 +175,31 @@ Generazione automatica di report in PDF con dati rilevanti, grafici e previsioni
 
 ## [Conclusioni e Raccomandazioni]():
 
+- **Automatizzare lo spegnimento dell'energia** nelle aree ad alto utilizzo come soggiorno e cucina per ottenere risparmi immediati  
+- **Programmare l'utilizzo della piscina** per mitigare picchi di consumo non necessari  
+- **Sfruttare la generazione solare** per bilanciare l'uso degli elettrodomestici durante le ore di massima produzione  
+- **Implementare avvisi** quando vengono superati gli obiettivi di consumo giornalieri
 
+<br>
+
+## [Deliverables]():
+
+- Applicazione Streamlit per il monitoraggio in tempo reale dei sensori  
+- Report in PDF con metriche di consumo e raccomandazioni  
+- Notebook contenente l'intera pipeline dei dati, modello predittivo e analisi visive
+
+<br>
+
+## [Funzionalità]():
+
+- Dashboard in tempo reale che mostra i dati dei sensori per stanza  
+- Previsione del consumo energetico giornaliero tramite Regressione Lineare  
+- Sensori simulati per stanza (Stanza1, Stanza2, Soggiorno, Cucina)  
+- Obiettivo di consumo giornaliero con sistema di avvisi  
+- Sistema di aggiornamento automatico usando `streamlit_autorefresh`  
+- Clustering dei pattern di utilizzo tramite KMeans + PCA  
+- Esportazione del report in PDF  
+- Confronto con la generazione solare simulata
 
 
 
