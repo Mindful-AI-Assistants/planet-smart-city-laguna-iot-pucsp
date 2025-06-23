@@ -410,6 +410,30 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 - **Prototipazione e integrazione di sistemi**  
 - Fornitura di soluzioni che riflettono i **bisogni reali della comunità**
 
+<br>
+
+## [Documentazione Visiva]():
+
+<br>
+
+📷 [**Galleria Fotografica**]()
+- `drone_view_laguna_2025.jpg` – Vista aerea della città  
+- `team_workshop_on_site.jpeg` – Attività sul campo con i residenti  
+- `solar_panels_community.jpeg` – Installazione solare supportata dall'ONU  
+- `iot_dashboard_mockup.png` – Anteprima del design del cruscotto  
+
+<br>
+
+## [**Presentazioni**]()
+- `CDIA_Final_Pitch.pdf` – Principali intuizioni e risultati  
+- `UN_SolarInvestment_Laguna.pptx` – Presentazione per gli stakeholder  
+- `IoT_Architecture_Prototype.pptx` – Architettura dei sensori e flusso dei dati
+
+<br> 
+
+## [Ringraziamenti]():
+
+Rivolgiamo un sincero ringraziamento a **Pedro di Proptech**, la cui guida e competenza sono state fondamentali durante tutto il progetto. Il suo supporto e la sua visione sono stati pilastri essenziali del nostro percorso di sviluppo.
 
 
 
