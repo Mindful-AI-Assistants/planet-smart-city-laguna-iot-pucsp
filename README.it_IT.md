@@ -4,51 +4,62 @@
 
 <br><br><br><br>
 
-## <p align="center">  🌐 CDIA Nexus PUC-SP: Hub di Innovazione per Acqua ed Energia Intelligenti  
-#### <p align="center"> ***In collaborazione con [Planet Smart City](), PUC-SP [Data Science & AI](), UN [Sustainable Development (SDGs)](), [Starlink]() e [Proptech ]() Brasile***
+## <p align="center"> 🌐 CDIA Nexus PUC-SP: Centro di Innovazione per Soluzioni Intelligenti di Acqua ed Energia — Smart City Laguna IoT, Fortaleza, Brasile 
+#### <p align="center"> ***Progetto per il monitoraggio, la previsione e l’ottimizzazione del consumo energetico in una casa intelligente, utilizzando [IoT]() e [IA](). Sviluppato nel contesto della [Smart City Laguna]() – CDIA PUC-SP***.
 
-<br><br><br>
-
-#### <p align="center"> Smart City Laguna IoT – Fortaleza, Brasile 💛💚
-
-<br><br><br>
-
-##### <p align="center"><em>Esplora il simulatore e supporta il progetto di IA per le Città Intelligenti ↓</em></p>
-
-<br>
+  <br><br>
+ 
 
 <p align="center">
-  <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
-    <img src="https://img.shields.io/badge/Smart_City_Laguna_Simulatore-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
-  </a>
-  <a href="https://github.com/sponsors/Mindful-AI-Assistants">
+   <a href="https://github.com/sponsors/Mindful-AI-Assistants">
     <img src="https://img.shields.io/badge/Sponsorizza-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
   </a>
 </p>
 
 
-<!--
- <p align="center">
+<br><br>
+
+
+#### <p align="center"> ***In collaborazione con [Planet]() Smart City, [PUC-SP]() - Scienza dei Dati & IA, [ONU]() Obiettivi di Sviluppo Sostenibile (SDG), [Starlink]() e [Proptech]() Brasile***
+
+
+ <br><br>
+
+ 
+<!-- VIDEO -->
+
+https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095
+
+
+#### 📺 [Guarda in Full HD su YouTube](https://youtu.be/cgW4ql2XQgo?si=clGglP8HF_zz3xc8)
+
+
+<br><br><br>
+
+
+#### <p align="center"><em> Esplora il [Simulatore]() e supporta il progetto di IA per le Città Intelligenti </em></p>
+
+<br>
+
+### <p align="center"> [⇩]()💦
+
+
+
+<br>
+
+<p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
     <img 
-      src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
-      alt="Smart City Laguna Simulator"
+      src="https://img.shields.io/badge/Simulatore_Smart_City_Laguna-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
+      alt="Simulatore Smart City Laguna"
       style="height: 30px; width: auto;"
   </a>
 </p>
 
--->
+
+<br><br><br>
 
 
-<br><br>
-
-https://github.com/user-attachments/assets/3d79a4f6-4e1c-4645-b194-e30869c4f086
-
-
-#### 📺 [Watch in Full HD on YouTube]( https://youtu.be/h_9gqAqu1SY)
-
-
-<br><br>
 
 ## [Panoramica della Presentazione]():
 
