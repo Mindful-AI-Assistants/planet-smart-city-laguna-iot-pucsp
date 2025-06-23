@@ -102,7 +102,30 @@ Sviluppare una soluzione basata su scienza dei dati e intelligenza artificiale p
 
 <br>
 
+## [Dataset](): 
 
+#### ☞ [Tocca qui]() per accedere al dataset! 
+
+È stato utilizzato un **dataset simulato**, contenente registrazioni giornaliere con le seguenti variabili:
+
+- `Date`: Giorno della misurazione  
+- `KW/H`: Consumo totale di energia in kWh  
+- `Room1`, `Room2`, `LivingRoom`, `Kitchen`, `Pool`: Numero di attivazioni dei sensori per stanza  
+- `SolarGeneration`: Energia generata dai pannelli solari (simulata)
+
+<br>
+
+## [Domanda di Business]():
+
+<br>
+
+> “Come possiamo prevedere il consumo energetico giornaliero in base al comportamento specifico per stanza e, da lì, proporre misure automatizzate per il risparmio e l’efficienza energetica?”
+
+<br>
+
+## [Metodologia e Fasi]():
+
+<br>
 
 
 
