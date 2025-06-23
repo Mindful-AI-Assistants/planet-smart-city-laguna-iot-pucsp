@@ -127,7 +127,28 @@ Sviluppare una soluzione basata su scienza dei dati e intelligenza artificiale p
 
 <br>
 
+[1](). **Importazione e visualizzazione dei dati**  
 
+Lettura del foglio di calcolo utilizzando `pandas` e validazione dei formati.
+
+<br>
+
+[2](). ***Preprocessing***  
+   
+   - Conversione della colonna `Date` nel formato `datetime`  
+   - Creazione della variabile `OrdinalDay` per la modellazione  
+   - Calcolo del consumo medio per attivazione per stanza  
+   - Simulazione della generazione solare e proiezione del consumo futuro
+
+<br>
+
+[3](). ***Modellazione Predittiva***
+
+È stato addestrato un modello di **Regressione Lineare** per stimare il consumo (`KW/H`) in base al totale delle attivazioni per stanza. Include anche la previsione per il giorno successivo.
+
+<br>
+
+[4](). ***Visualizzazioni*** 
 
 
 
