@@ -444,7 +444,9 @@ We extend our sincere thanks to **Pedro from Proptech**, whose guidance and expe
 <br>
 
 
-##  Dataset Used - [tap here to get the dataset]():
+##  [Dataset Used]
+
+#### ☞ [tap here](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/fbdedce4202703e7fea05d247d13ec58d94edd80/2-CRISP-DM%20-%20Project%20Smart%20City%20Laguna/%F0%9F%87%BA%F0%9F%87%B8CRISP-DM_Project_Smart_City_Laguna/Consumo_de_Energia_Analise.xlsx) to get the dataset
 
 [A **simulated** dataset was used, containing daily records with the following variables]():
 
