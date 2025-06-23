@@ -201,7 +201,35 @@ Generazione automatica di report in PDF con dati rilevanti, grafici e previsioni
 - Esportazione del report in PDF  
 - Confronto con la generazione solare simulata
 
+## [Tecnologie Utilizzate]():
 
+- Python  
+- Pandas e NumPy – elaborazione e analisi dei dati  
+- Scikit-learn – regressione lineare e KMeans  
+- Matplotlib, Seaborn e Plotly – visualizzazioni  
+- Streamlit – dashboard interattiva  
+- FPDF – generazione di report PDF  
+- Pillow – rendering delle immagini della dashboard
+
+<br>
+
+## [Struttura del Progetto]():
+
+<br>
+
+laguna_city_digital/  
+├── app.py                      # Applicazione principale Streamlit  
+├── consumo_model.pkl          # Modello predittivo addestrato  
+├── cluster_model.pkl          # Modello KMeans addestrato  
+├── dados/  
+│   └── Consumo_de_Energia_Analise.xlsx  # Dati simulati per stanza  
+├── relatorios/  
+│   └── relatorio_consumo_YYYY-MM-DD.pdf  
+├── imagens/  
+│   ├── grafico_pca.png  
+│   ├── heatmap_cluster.png  
+│   └── grafico_regressao.png  
+└── README.md
 
 
 
