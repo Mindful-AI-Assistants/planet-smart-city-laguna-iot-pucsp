@@ -34,10 +34,41 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 #### 📺 [Watch in Full HD on YouTube](https://youtu.be/WmtFxV5G8Fg)
 
 
+## <p align="center"> 🌐 CDIA Nexus PUC-SP: Centro di Innovazione per Soluzioni Intelligenti di Acqua ed Energia — Smart City Laguna IoT, Fortaleza, Brasile 
+#### <p align="center"> ***Progetto per il monitoraggio, la previsione e l’ottimizzazione del consumo energetico in una casa intelligente, utilizzando [IoT]() e [IA](). Sviluppato nel contesto della [Smart City Laguna]() – CDIA PUC-SP***.
+
+  <br><br>
+ 
+
+<p align="center">
+   <a href="https://github.com/sponsors/Mindful-AI-Assistants">
+    <img src="https://img.shields.io/badge/Sponsorizza-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
+  </a>
+</p>
+
+
+<br><br>
+
+
+#### <p align="center"> ***In collaborazione con [Planet]() Smart City, [PUC-SP]() - Scienza dei Dati & IA, [ONU](0 Obiettivi di Sviluppo Sostenibile ODS), [Starlink]() e [Proptech]() Brasile***
+
+
+ <br><br>
+
+ 
+<!-- VIDEO -->
+
+ 
+https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
+
+
+#### 📺 [Guarda in Full HD su YouTube](https://youtu.be/WmtFxV5G8Fg)
+
+
 <br><br><br>
 
 
-#### <p align="center"><em> Explore o [Simulador]() e apoie o projeto de IA para Cidades Inteligentes </em></p>
+#### <p align="center"><em> Esplora il [Simulatore]() e supporta il progetto di IA per le Città Intelligenti </em></p>
 
 <br>
 
@@ -48,14 +79,18 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
     <img 
-      src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
-      alt="Smart City Laguna Simulator"
+      src="https://img.shields.io/badge/Simulatore_Smart_City_Laguna-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
+      alt="Simulatore Smart City Laguna"
       style="height: 30px; width: auto;"
   </a>
 </p>
 
 
 <br><br><br>
+
+
+--------////////////
+
 
 
 ## 🌐 [Visão Geral do Projeto]():
