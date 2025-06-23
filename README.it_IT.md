@@ -337,6 +337,28 @@ Esprimiamo la nostra più sentita gratitudine alle organizzazioni e alle persone
 
 <br>
 
+| [**Organizzazione**]()         | [**Contributo**]()                                         |
+|---------------------------|--------------------------------------------------------------|
+| **Nazioni Unite (ONU)**   | Finanziamento per l'acquisto di pannelli solari             |
+| **PUC-SP (CDIA)**         | Progettazione e implementazione di IoT e Intelligenza Artificiale |
+| **UN-Habitat**            | Supporto tecnico e quadri etici                              |
+| **Starlink**              | Infrastruttura internet satellitare                          |
+| **Planet Smart City**     | Sviluppo urbano e supporto in loco                           |
+| **Proptech Brazil**       | Implementazione locale e supporto strategico                 |
+
+<br>
+
+### [Esprimiamo inoltre la nostra gratitudine a]():
+
+- I leader locali e i membri della comunità per la fiducia e la continua collaborazione.  
+- Il team tecnico multidisciplinare per la dedizione a soluzioni innovative e sostenibili.  
+- Tutti coloro che hanno contribuito, direttamente o indirettamente, a dare vita a questa visione.
+
+<br>
+
+##### [Insieme](), questi partner incarnano un approccio integrato per il raggiungimento degli **Obiettivi di Sviluppo Sostenibile**, in particolare nelle regioni emergenti. 💙🌎
+
+<br>
 
 
 
