@@ -360,7 +360,30 @@ Esprimiamo la nostra più sentita gratitudine alle organizzazioni e alle persone
 
 <br>
 
+## ⚡ [CDIA PUC-São Paulo Module: Water & Energy Systems]() 💦
 
+The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and AI** for resource optimization. Key features:
+
+- Smart sensors for consumption monitoring  
+- AI-driven dashboards with predictive alerts  
+- Visualizations for community awareness  
+- Scalable resource management models
+
+<br>
+  
+
+## 🧑🏼‍🚀 [Team Members]():
+
+| Name                    | Role                                             |
+|-------------------------|--------------------------------------------------|
+| **Andson Ribeiro**       | [Github](https://github.com/andsonandreribeiro09) - [Contact]() |
+| **Fabiana 🧬 Campanari** | [Github](https://github.com/FabianaCampanari) - [Contact Hub](https://linktr.ee/fabianacampanari)   |
+|  **Pedro Vyctor Almeida** |  [Github](https://github.com/ppvyctor) - [Contact]()    |
+
+<!--
+| **Leonardo X Fernandes** |   [Github](https://github.com/LeonardoXF)  - [Contact]()     |
+-->
+<br>
 
 
 
