@@ -251,7 +251,7 @@ laguna_city_digital/
 
 <br>
 
-## [Final Conc.usions]():
+## [Final Conclusions]():
 
 #### Personalized consumption targets  
 #### Real-time alert system  
