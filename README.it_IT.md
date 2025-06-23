@@ -27,6 +27,19 @@
 </p>
 
 
+<!--
+ <p align="center">
+  <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
+    <img 
+      src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
+      alt="Smart City Laguna Simulator"
+      style="height: 30px; width: auto;"
+  </a>
+</p>
+
+-->
+
+
 <br><br>
 
 https://github.com/user-attachments/assets/3d79a4f6-4e1c-4645-b194-e30869c4f086
