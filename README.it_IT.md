@@ -59,7 +59,27 @@ https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095
 
 <br><br><br>
 
+## 🌐 [Panoramica del Progetto]():
 
+<br>
+
+Sviluppato dal **gruppo CDIA della PUC-SP**, questo progetto di estensione mira a ottimizzare i **sistemi intelligenti di gestione delle risorse** nella Smart City Laguna — combinando **tecnologia**, **sostenibilità** e **innovazione comunitaria** per rafforzare le regioni svantaggiate.
+
+Con una solida base di **collaborazione interdisciplinare** e cooperazione internazionale, questa iniziativa collega la scienza dei dati ad applicazioni reali per promuovere città resilienti, inclusive e intelligenti.
+
+<br>
+
+## [Planet Smart City]():
+
+Fondata nel 2015 da [**Giovanni Savio**](https://github.com/user-attachments/assets/e53824a7-19df-464d-a12f-61024ba18a94) e [**Susanna Marchionni**](), Planet Smart City guida il movimento globale per **abitazioni accessibili, intelligenti e sostenibili**. I loro progetti combinano:
+
+- Progettazione urbana avanzata  
+- Tecnologia integrata  
+- Iniziative di costruzione comunitaria
+
+<br>
+
+## ⚡️ [CDIA Nexus PUC-SP: Hub di Innovazione per Acqua ed Energia Intelligenti]() 
 
 
 
