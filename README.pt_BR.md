@@ -9,11 +9,13 @@
   <br><br>
  
 
+
 <p align="center">
    <a href="https://github.com/sponsors/Mindful-AI-Assistants">
-    <img src="https://img.shields.io/badge/Patrocinar-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
+    <img src="https://img.shields.io/badge/Sponsor-Mindful%20AI%20Assistants-brightgreen?logo=GitHub&style=flat-square">
   </a>
 </p>
+
 
 
 <br><br>
