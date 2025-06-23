@@ -386,6 +386,33 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 <br>
 
 
+💙 Tutti i membri hanno contribuito in modo collaborativo nelle aree tecniche e creative. Fabiana 🧬 Campanari ha anche guidato l'**identità del progetto e il linguaggio visivo**.
+
+<br>
+
+## [Innovazioni e Attività]():
+
+- Installazione di **sensori IoT** per il monitoraggio di acqua ed energia  
+- Sviluppo di **cruscotti predittivi** e sistemi di allerta  
+- Co-creazione di un'**interfaccia di visualizzazione dati** per i residenti  
+- Implementazione di **progetti pilota di energia solare** supportati da UN-Habitat  
+- Analisi in tempo reale per la **pianificazione delle risorse e la sostenibilità**
+
+<br>
+
+## [Risultati di Apprendimento]():
+
+***Il team ha acquisito esperienza pratica in***:
+
+- **Design thinking + metodologie partecipative**  
+- **Ricerca sul campo in infrastrutture urbane**  
+- **Machine learning e modellazione dei dati**  
+- **Prototipazione e integrazione di sistemi**  
+- Fornitura di soluzioni che riflettono i **bisogni reali della comunità**
+
+
+
+
 
 
 
