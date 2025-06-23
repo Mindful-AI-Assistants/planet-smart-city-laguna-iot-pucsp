@@ -38,7 +38,12 @@ https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095
 
 #### <p align="center"><em> Explore the [Simulator]() and support the Smart Cities AI project </em></p>
 
-#### <p align="center"> [⇩]() 
+<br>
+
+### <p align="center"> [⇩]() 
+
+
+<br>
 
 
 <p align="center">
