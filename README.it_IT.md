@@ -274,7 +274,26 @@ laguna_city_digital/
 
 Questa iniziativa è stata sviluppata in collaborazione con **Planet Smart City**, **UN-Habitat** e **Starlink**, allineata agli **Obiettivi di Sviluppo Sostenibile (SDGs)** delle Nazioni Unite e impegnata in **innovazione sociale, inclusione digitale e intelligenza ambientale**.
 
+<br>
 
+[I punti salienti della presentazione]():
+
+- Una **Dashboard integrata per il monitoraggio di acqua ed energia**  
+- Analisi predittiva con modelli di IA  
+- Coinvolgimento della comunità attraverso strategie guidate dai dati  
+- Approfondimenti sull’implementazione grazie alla **connettività Starlink** e all’infrastruttura di Planet
+
+<br>
+
+#### [“Dati per il Bene. Innovazione con Significato.”]()
+
+<br>
+
+🌟 Collaboratore chiave: [**Stefano Buono**](https://github.com/user-attachments/assets/e53824a7-19df-464d-a12f-61024ba18a94), fisico e imprenditore, ex ricercatore del CERN e fondatore di AAA (venduta a Novartis), attualmente Presidente di LIFTT e CEO di **Newcleo** (innovazione nucleare pulita).
+
+<br>
+
+➢ [Visita Planet Smart City - Ufficiale](https://planetsmartcity.com/) 🇮🇹
 
 
 
