@@ -232,7 +232,30 @@ laguna_city_digital/
 └── README.md
 
 
+<br>
 
+## [Esempi di Visualizzazione]():
+
+- [***Cluster PCA***]()  
+  Distribuzione dei modelli di utilizzo per profilo energetico
+
+- [***Heatmap delle Attivazioni***]()  
+  Percentuale di utilizzo per stanza
+
+- [***Grafico Reale vs Predetto***]()  
+  Valutazione dell'accuratezza della previsione
+
+<br>
+
+## [Prestazioni del Modello]():
+
+- `R²`: 0,70  
+- `RMSE`: 11.528,06  
+- `Stanza più influente`: Soggiorno (28,21%)
+
+<br>
+
+## [Conclusioni Finali]():
 
 
 
