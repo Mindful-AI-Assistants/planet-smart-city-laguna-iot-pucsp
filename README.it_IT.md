@@ -151,6 +151,30 @@ Lettura del foglio di calcolo utilizzando `pandas` e validazione dei formati.
 [4](). ***Visualizzazioni*** 
 
 
+   - Time series plots with `matplotlib`/`seaborn`  
+   - Ranking of rooms with highest consumption  
+   - Activation patterns by cluster  
+   - Interactive dashboard using Streamlit for real-time monitoring (optional)
+
+<br>
+
+[5](). ***Report Export***  
+
+Automatic generation of PDF reports with relevant data, charts, and forecasts.
+
+<br>
+
+## [Results]():
+
+- The regression model showed good ability to predict consumption based on room activity  
+- **Living Room** and **Kitchen** were identified as the highest impact areas  
+- The **Pool**, although rarely activated, had high average consumption per activation — indicating waste; it was removed from the model, since the Laguna project focuses on social housing and does not include pools  
+- Solar generation can significantly offset peak-time consumption if properly managed
+
+<br>
+
+## [Conclusions and Recommendations]():
+
 
 
 
