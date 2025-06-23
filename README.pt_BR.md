@@ -70,9 +70,9 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 
 #### <p align="center"><em> Esplora il [Simulatore]() e supporta il progetto di IA per le Città Intelligenti </em></p>
 
-<br>
+<br> 
 
-### <p align="center"> [⇩]() 
+### <p align="center"> [⇩]()💦 
 
 <br>
 
