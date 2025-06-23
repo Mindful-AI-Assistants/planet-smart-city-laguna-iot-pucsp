@@ -257,7 +257,22 @@ laguna_city_digital/
 
 ## [Conclusioni Finali]():
 
+#### Obiettivi di consumo personalizzati  
+#### Sistema di allerta in tempo reale  
+- Supporto alla sostenibilità energetica urbana  
+- Base scalabile per l’implementazione completa di una Smart City
 
+<br>
+
+📌 ***Questa analisi è stata sviluppata utilizzando pratiche di data science applicate al consumo energetico residenziale, con l'obiettivo di supportare il processo decisionale dell'utente finale.***
+
+<br>
+
+## [Panoramica della Presentazione]():
+
+**CDIA Nexus** è il progetto finale di estensione accademica e sociale del **Gruppo di Scienza dei Dati e Intelligenza Artificiale della PUC-SP**, incentrato sull'applicazione di **IoT e IA** per sistemi intelligenti di **acqua ed energia** nella **Smart City Laguna**, uno sviluppo urbano pionieristico a Fortaleza, in Brasile.
+
+Questa iniziativa è stata sviluppata in collaborazione con **Planet Smart City**, **UN-Habitat** e **Starlink**, allineata agli **Obiettivi di Sviluppo Sostenibile (SDGs)** delle Nazioni Unite e impegnata in **innovazione sociale, inclusione digitale e intelligenza ambientale**.
 
 
 
