@@ -40,7 +40,8 @@ https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095
 
 <br>
 
-### <p align="center"> [⇩]() 
+### <p align="center"> [⇩]()💦
+
 
 
 <br>
@@ -78,7 +79,7 @@ Founded in 2015 by [**Giovanni Savio**](https://github.com/user-attachments/asse
 
 <br>
 
-## ⚡️ [CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy]() 💦
+## ⚡️ [CDIA Nexus PUC-SP: Innovation Hub for Smart Water and Energy]() 
 
 The **CDIA Nexus** is an initiative by the Data Science and Artificial Intelligence Group at **PUC-SP**, dedicated to developing applied **AI and IoT** solutions for **smart water and energy management**.
 
