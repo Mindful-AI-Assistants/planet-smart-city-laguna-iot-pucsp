@@ -435,59 +435,34 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 
 Rivolgiamo un sincero ringraziamento a **Pedro di Proptech**, la cui guida e competenza sono state fondamentali durante tutto il progetto. Il suo supporto e la sua visione sono stati pilastri essenziali del nostro percorso di sviluppo.
 
+<br>
 
+## [Dataset Utilizzato]
 
+#### ☞ [clicca qui](https://github.com/Mindful-AI-Assistants/planet-smart-city-laguna-iot-pucsp/blob/fbdedce4202703e7fea05d247d13ec58d94edd80/2-CRISP-DM%20-%20Project%20Smart%20City%20Laguna/%F0%9F%87%BA%F0%9F%87%B8CRISP-DM_Project_Smart_City_Laguna/Consumo_de_Energia_Analise.xlsx) per ottenere il dataset
 
+[È stato utilizzato un dataset **simulato**, contenente registrazioni giornaliere con le seguenti variabili]():
 
+- `Data`: Giorno della misurazione  
+- `KW/H`: Consumo totale di energia in kWh  
+- `Quarto1`, `Quarto2`, `Sala`, `Cozinha`, `Piscina`: Numero di attivazioni dei sensori in ogni stanza  
+- `Geração Solar`: Energia generata dai pannelli solari (simulata)
 
+<br>
 
+## [**Modellazione Predittiva**]():  
 
+È stato addestrato un modello di [**Regressione Lineare**] per stimare il consumo (`KW/H`) in base al numero totale di attivazioni per stanza. È stata inoltre implementata la previsione per il giorno successivo.
 
+<br>
 
+[**Visualizzazioni**]():  
+- Grafici a serie temporali con `matplotlib`/`seaborn`.  
+- Classifica delle stanze con maggiore consumo.  
+- Rappresentazioni delle attivazioni per cluster.  
+- Dashboard interattiva Streamlit per la visualizzazione in tempo reale (opzionale).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-////////------------------------
-
-<br<br><br><br><br><br><br><br>
+<br>
 
 ## 📓 Pipeline del Codice
 
