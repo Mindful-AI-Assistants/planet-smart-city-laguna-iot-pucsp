@@ -158,23 +158,22 @@ Lettura del foglio di calcolo utilizzando `pandas` e validazione dei formati.
 
 <br>
 
-[5](). ***Report Export***  
+[5](). ***Esportazione del Report***  
 
-Automatic generation of PDF reports with relevant data, charts, and forecasts.
-
-<br>
-
-## [Results]():
-
-- The regression model showed good ability to predict consumption based on room activity  
-- **Living Room** and **Kitchen** were identified as the highest impact areas  
-- The **Pool**, although rarely activated, had high average consumption per activation — indicating waste; it was removed from the model, since the Laguna project focuses on social housing and does not include pools  
-- Solar generation can significantly offset peak-time consumption if properly managed
+Generazione automatica di report in PDF con dati rilevanti, grafici e previsioni.
 
 <br>
 
-## [Conclusions and Recommendations]():
+## [Risultati]():
 
+- Il modello di regressione ha mostrato una buona capacità di prevedere il consumo in base all’attività nelle stanze  
+- **Soggiorno** e **Cucina** sono stati identificati come le aree a maggiore impatto  
+- La **Piscina**, sebbene attivata raramente, ha mostrato un consumo medio elevato per attivazione — indicando spreco; è stata rimossa dal modello, poiché il progetto Laguna è rivolto all’edilizia sociale e non prevede piscine  
+- La generazione solare può compensare significativamente il consumo durante le ore di punta, se gestita correttamente
+
+<br>
+
+## [Conclusioni e Raccomandazioni]():
 
 
 
