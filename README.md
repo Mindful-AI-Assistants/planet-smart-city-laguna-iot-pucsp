@@ -100,7 +100,9 @@ To develop a data science and AI-based solution to **monitor, forecast, and opti
 
 <br>
 
-## [Dataset]():
+## [Dataset](): 
+
+#### ☞ [Tap here]() to access the dataset! 
 
 A **simulated dataset** was used, containing daily records with the following variables:
 
