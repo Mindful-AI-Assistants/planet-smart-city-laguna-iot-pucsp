@@ -295,6 +295,27 @@ Questa iniziativa è stata sviluppata in collaborazione con **Planet Smart City*
 
 ➢ [Visita Planet Smart City - Ufficiale](https://planetsmartcity.com/) 🇮🇹
 
+➢ [Visita Planet Smart City - Brasile](https://planetsmartcity.com.br) 🇧🇷
+
+➢ [Visita Planet Smart City - India](https://planetsmartcity.in/) 🇮🇳
+
+
+<br>
+
+## [Il Progetto Laguna: Innovazione Sociale Intelligente]():
+
+Situata a [**São Gonçalo do Amarante**](), Ceará, Fortaleza, Brasile; **Smart City Laguna** è una [città intelligente di punta di Planet]() in Brasile, con oltre [**60 soluzioni intelligenti**](), tra cui:
+
+- Wi-Fi pubblico e infrastruttura IoT  
+- Mobilità urbana sostenibile e illuminazione  
+- Drenaggio delle acque piovane con pavimentazioni permeabili  
+- Programmi culturali, educativi e di governance
+
+<br>
+
+## [Al centro di questo ecosistema]():  
+
+[***Il Community Manager***]() — un professionista formato dedicato a:
 
 
 
