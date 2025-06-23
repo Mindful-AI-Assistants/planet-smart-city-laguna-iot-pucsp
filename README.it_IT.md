@@ -4,7 +4,7 @@
 
 <br><br><br><br>
 
-## <p align="center"> 🌐 CDIA Nexus PUC-SP: Centro di Innovazione per Soluzioni Intelligenti di Acqua ed Energia — Smart City Laguna IoT, Fortaleza, Brasile 
+## <p align="center"> 🌐 CDIA Nexus PUC-SP: Centro di Innovazione per Soluzioni Intelligenti di Acqua ed Energia - Smart City Laguna IoT, Fortaleza, Brasile 
 #### <p align="center"> ***Progetto per il monitoraggio, la previsione e l’ottimizzazione del consumo energetico in una casa intelligente, utilizzando [IoT]() e [IA](). Sviluppato nel contesto della [Smart City Laguna]() – CDIA PUC-SP***.
 
   <br><br>
@@ -316,6 +316,70 @@ Situata a [**São Gonçalo do Amarante**](), Ceará, Fortaleza, Brasile; **Smart
 ## [Al centro di questo ecosistema]():  
 
 [***Il Community Manager***]() — un professionista formato dedicato a:
+
+- Mobilitare la governance partecipativa  
+- Promuovere workshop, educazione e coinvolgimento  
+- Coltivare la coesione sociale e la gestione a lungo termine
+
+<br>  
+
+## 🌎 [Partnerships Globali]():
+
+Un ringraziamento speciale a [Pedro Braida Neto](https://www.linkedin.com/in/pedro-braida-neto-95a047174/), CEO di Proptech Brazil, per guidare con empatia, rispetto e integrità. Il modo in cui ti dedichi agli altri fa davvero la differenza.
+
+<br>
+
+#### [Scrivi a Pedro](mailto:pedro@flexautomation.com.br) 📲
+
+<br>
+
+Esprimiamo la nostra più sentita gratitudine alle organizzazioni e alle persone che hanno reso possibile l'implementazione del CDIA PUC-SP. Un ringraziamento speciale a:
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
