@@ -82,7 +82,25 @@ Fondata nel 2015 da [**Giovanni Savio**](https://github.com/user-attachments/ass
 ## ⚡️ [CDIA Nexus PUC-SP: Hub di Innovazione per Acqua ed Energia Intelligenti]() 
 
 
+Il **CDIA Nexus** è un'iniziativa del Gruppo di Scienza dei Dati e Intelligenza Artificiale della **PUC-SP**, dedicata allo sviluppo di soluzioni applicate di **IA e IoT** per la **gestione intelligente di acqua ed energia**.
 
+Questo hub di innovazione integra **ricerca applicata, estensione universitaria e impatto sociale**, con l'obiettivo di trasformare le comunità attraverso una tecnologia con uno scopo.
+
+Le soluzioni sviluppate sono applicate in contesti reali, come la **Smart City Laguna** (Fortaleza, Brasile), attraverso progetti in collaborazione con organizzazioni come **Planet Smart City**, **UN-Habitat**, **Starlink**, tra le altre.
+
+Il progetto mira a combinare **sostenibilità, inclusione digitale e innovazione sociale**, promuovendo città più **resilienti, efficienti e incentrate sulle persone**.
+
+<br>
+
+## 💥 [Dal Codice all’Intuizione](): Analisi dei Dati e Supporto alle Decisioni:
+
+<br>
+
+## [Obiettivo del Progetto]():
+
+Sviluppare una soluzione basata su scienza dei dati e intelligenza artificiale per **monitorare, prevedere e ottimizzare il consumo di energia elettrica in una casa intelligente** (Smart City Laguna). Il progetto simula i dati dei sensori per stanza e utilizza il machine learning per anticipare i modelli di consumo e proporre azioni di risparmio.
+
+<br>
 
 
 
