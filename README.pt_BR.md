@@ -47,8 +47,12 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 
 <p align="center">
   <a href="https://projetosmartcitylagunacdia03-yh6luzcrafamiabtp5xn8m.streamlit.app/">
-    <img src="https://img.shields.io/badge/Simulador_Smart_City_Laguna-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square">
+    <img 
+      src="https://img.shields.io/badge/Smart_City_Laguna_Simulator-Streamlit-brightgreen?logo=streamlit&logoColor=white&style=flat-square" 
+      alt="Smart City Laguna Simulator"
+      style="height: 30px; width: auto;"
   </a>
+</p>
 
 
 <br><br><br>
