@@ -681,8 +681,14 @@ print("Mean Squared Error (MSE):", round(mse, 2))
 print("R² Score:", round(r2, 2))
 ```
 
+<br><br>
 
-<br>
+```markdown
+Mean Squared Error (MSE): 11528.06
+Coefficient of Determination (R²): 0.7
+```
+
+<br><br>
 
 ### **[Cell 10: PLOT 5]() - Actual vs Predicted Consumption**
 
@@ -705,6 +711,16 @@ plt.show()
 
 <br><br>
 
+```markdown
+Contribution of each room to the prediction (coefficients):
+Sala       28.214005
+Quarto2    24.141777
+Quarto1    23.279552
+Cozinha    20.993133
+dtype: float64
+```
+
+<br><br>///////////////
 
 ### **[Cell 11]() - Model coefficients**
 
