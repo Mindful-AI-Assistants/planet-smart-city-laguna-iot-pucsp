@@ -709,7 +709,7 @@ plt.show()
  <p align="center">
 <img src="https://github.com/user-attachments/assets/fd43ac5f-6a85-4cb7-98f5-bb9b3b9d4beb"/>
 
-<br><br>
+<br>
 
 ```markdown
 Contribution of each room to the prediction (coefficients):
