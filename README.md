@@ -774,6 +774,7 @@ plt.show()
 ### **[Cell 14: KMeans and PLOT 7]() - Pairplot of clusters**
 
 ```python
+# Apply KMeans with the chosen number of clusters
 kmeans = KMeans(n_clusters=3, random_state=42)
 df['Cluster'] = kmeans.fit_predict(X_scaled)
 sns.pairplot(df, hue='Cluster', vars=['Quarto1', 'Quarto2', 'Sala', 'Cozinha'], palette='tab10')
@@ -792,9 +793,12 @@ plt.show()
 ### **[Cell 15]() - Average profile per cluster and naming**
 
 ```python
+
+# Calculate average profile per cluster (with activations and percentages)
 col_pcts = [f'{c}_pct' for c in ['Quarto1', 'Quarto2', 'Sala', 'Cozinha']]
 perfil_clusters = df.groupby('Cluster')[['Quarto1', 'Quarto2', 'Sala', 'Cozinha', 'KW/H'] + col_pcts].mean()
 
+# Function to name the cluster profile considering consumption and activation percentage
 def name_cluster(row):
     mean_kw = df['KW/H'].mean()
     if row['KW/H'] < mean_kw * 0.75:
@@ -830,6 +834,7 @@ perfil_clusters['Profile'] = perfil_clusters.apply(name_cluster, axis=1)
 ### **[Cell 16]() - Recommendations dictionary and display by cluster**
 
 ```python
+# Function to map profile to recommendation dictionary key
 def map_profile_to_key(profile):
     if profile == '🔵 Low Consumption':
         return profile
@@ -852,6 +857,7 @@ def map_profile_to_key(profile):
             return '🔴 High Consumption'
     return profile
 
+# Dictionary with recommendations per profile
 recommendations = {
     '🔵 Low Consumption': [
         "✅ Maintain current good practices.",
@@ -880,6 +886,7 @@ recommendations = {
     ]
 }
 
+# Display profiles and recommendations
 for cluster_id, row in perfil_clusters.iterrows():
     print(f"\n=== Cluster {cluster_id} - {row['Profile']} ===")
     print("📊 Average consumption profile (activations and kWh):")
@@ -895,8 +902,44 @@ for cluster_id, row in perfil_clusters.iterrows():
         print("- No specific recommendations for this profile.")
 ```
 
-
 <br>
+
+```markdown
+
+=== Cluster 0 - 🟡 Balanced Consumption ===
+📊 Average consumption profile (activations and kWh):
+Quarto1       7.747126
+Quarto2       8.034483
+Sala          7.908046
+Cozinha       8.011494
+KW/H       1047.402299
+Name: 0, dtype: object
+
+📈 Average percentage of activations per room (%):
+Quarto1_pct    24.481434
+Quarto2_pct    25.376404
+Sala_pct       24.970192
+Cozinha_pct     25.17197
+Name: 0, dtype: object
+
+💡 Recommendations:
+- 🔌 Automate turning off equipment at fixed times.
+- 🕵️ Install presence sensors in bedrooms and living room.
+- 📊 Send weekly comparative usage reports.
+
+=== Cluster 1 - 🟡 Balanced Consumption ===
+📊 Average consumption profile (activations and kWh):
+Quarto1       9.830508
+...
+💡 Recommendations:
+- 🔌 Automate turning off equipment at fixed times.
+- 🕵️ Install presence sensors in bedrooms and living room.
+- 📊 Send weekly comparative usage reports.
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+```
+
+
+<br><br>
 
 ### **[Cell 17: PLOT 8]() - Boxplot of consumption by cluster**
 
