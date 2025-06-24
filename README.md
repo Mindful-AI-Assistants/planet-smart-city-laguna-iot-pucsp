@@ -681,7 +681,7 @@ print("Mean Squared Error (MSE):", round(mse, 2))
 print("R² Score:", round(r2, 2))
 ```
 
-<br><br>
+<br>
 
 ```markdown
 Mean Squared Error (MSE): 11528.06
