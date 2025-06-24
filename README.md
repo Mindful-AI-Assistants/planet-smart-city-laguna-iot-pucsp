@@ -388,7 +388,10 @@ The **Water & Energy Module** designed by CDIA focuses on the use of **IoT and A
 |  **Pedro Vyctor Almeida** |  [Github](https://github.com/ppvyctor) - [Contact]()    |
 
 <!--
-| **Leonardo X Fernandes** |   [Github](https://github.com/LeonardoXF)  - [Contact]()  |
+Leonardo Xerez Fernandes - RA00319126
+Pedro Vyctor Carvalho de Almeida - RA00347102
+Andson Andre da Silva Ribeiro - RA00306954
+Fabiana Rotella Campaner - RA00345784
 -->
 <br>
 
