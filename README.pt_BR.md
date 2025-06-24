@@ -376,11 +376,12 @@ O **Módulo de Água e Energia** desenvolvido pelo CDIA tem foco no uso de **IoT
 | Nome                    | Função                                             |
 |-------------------------|----------------------------------------------------|
 | **Andson Ribeiro**       | [Github](https://github.com/andsonandreribeiro09) - [Contato]() |
-| **Fabiana 🧬 Campanari** | [Github](https://github.com/FabianaCampanari) - [Hub de Contato](https://linktr.ee/fabianacampanari)   | **Leonardo X Fernandes** | [Github](https://github.com/LeonardoXF) - [Contato]()
+| **Fabiana 🧬 Campanari** | [Github](https://github.com/FabianaCampanari) - [Hub de Contato](https://linktr.ee/fabianacampanari |
+| **Leonardo X Fernandes** | [Github](https://github.com/LeonardoXF) - [Contato]()  |
 | **Pedro Vyctor Almeida** | [Github](https://github.com/ppvyctor) - [Contato]()    |
 
 <!--
-| **Leonardo X Fernandes** | [Github](https://github.com/LeonardoXF) - [Contato]()     |
+| **Leonardo X Fernandes** | [Github](https://github.com/LeonardoXF) - [Contato]()  |
 -->
 
 <br>
