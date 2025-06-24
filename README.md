@@ -720,7 +720,7 @@ Cozinha    20.993133
 dtype: float64
 ```
 
-<br><br>///////////////
+<br><br>
 
 ### **[Cell 11]() - Model coefficients**
 
