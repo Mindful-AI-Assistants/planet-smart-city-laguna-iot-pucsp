@@ -412,9 +412,6 @@ O **Módulo de Água e Energia** desenvolvido pelo CDIA tem foco no uso de **IoT
 
 <br>
 
-## [Documentação Visual]():
-
-<br>
 
 ## [Documentação Visual]():
 
