@@ -1082,12 +1082,22 @@ Adjust the Excel file path (`file_path`) according to your environment.
 
 ***This analysis was prepared based on data science practices applied to residential energy consumption contexts and aims to facilitate decision-making for the end client.***
 
-<br>
 
 
-## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+<br><br>
 
-<br>
+## 💌 [Let the data flow... Ping Us]()
+
+
+- 👩🏻‍🚀 **Fabiana Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+  
+- 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+
+- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+
+
+
+<br> 
 
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
@@ -1110,6 +1120,9 @@ Adjust the Excel file path (`file_path`) according to your environment.
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
   
+
+  
+
 
 
 
