@@ -972,12 +972,22 @@ Altere o caminho do arquivo Excel (`file_path`) conforme seu ambiente.
 **EstA Aanalise foi elaborado com base nas práticas de ciência de dados aplicadas ao contexto de consumo energético residencial e tem como objetivo facilitar a tomada de decisão por parte do cliente final.**
 
 
-<br>
 
 
-## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+<br><br>
 
-<br>
+## 💌 [Let the data flow... Ping Us]()
+
+
+- 👩🏻‍🚀 **Fabiana Campanari** - [Shoot me an email](mailto:fabicampanari@proton.me)
+  
+- 🧑🏼‍🚀 **PedroVyctor** - [Hit me up by email](mailto:pedro.vyctor00@gmail.com)
+
+- 👨🏽‍🚀 **Andson Ribeiro** - [Slide into my inbox]()
+
+
+
+<br> 
 
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
@@ -1000,6 +1010,9 @@ Altere o caminho do arquivo Excel (`file_path`) conforme seu ambiente.
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
   
+
+  
+
 
 
 
