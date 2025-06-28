@@ -125,27 +125,32 @@ Sviluppare una soluzione basata su scienza dei dati e intelligenza artificiale p
 
 ## [Metodologia e Fasi]():
 
-<br>
+<br><br>
 
 1. [**Importazione e visualizzazione dei dati**]()  
 
 Lettura del foglio di calcolo utilizzando `pandas` e validazione dei formati.
 
-<br>
+<br><br>
+
 
 2. [***Preprocessing***]()   
    - Conversione della colonna `Date` nel formato `datetime`  
    - Creazione della variabile `OrdinalDay` per la modellazione  
    - Calcolo del consumo medio per attivazione per stanza  
    - Simulazione della generazione solare e proiezione del consumo futuro
+   - 
 
-<br>
+<br><br>
+
 
 3. [***Modellazione Predittiva***]()
 
 È stato addestrato un modello di **Regressione Lineare** per stimare il consumo (`KW/H`) in base al totale delle attivazioni per stanza. Include anche la previsione per il giorno successivo.
 
-<br>
+
+<br><br>
+
 
 4. [***Visualizzazioni***]() 
 
@@ -154,14 +159,18 @@ Lettura del foglio di calcolo utilizzando `pandas` e validazione dei formati.
    - Ranking of rooms with highest consumption  
    - Activation patterns by cluster  
    - Interactive dashboard using Streamlit for real-time monitoring (optional)
+     
 
-<br>
+ <br><br>
+ 
 
 5. [***Esportazione del Report***]()  
 
 Generazione automatica di report in PDF con dati rilevanti, grafici e previsioni.
 
-<br>
+
+<br><br>
+
 
 ## [Risultati]():
 
