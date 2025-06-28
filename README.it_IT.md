@@ -141,13 +141,13 @@ Lettura del foglio di calcolo utilizzando `pandas` e validazione dei formati.
 
 <br>
 
-[3](). ***Modellazione Predittiva***
+3. [***Modellazione Predittiva***]()
 
 È stato addestrato un modello di **Regressione Lineare** per stimare il consumo (`KW/H`) in base al totale delle attivazioni per stanza. Include anche la previsione per il giorno successivo.
 
 <br>
 
-[4](). ***Visualizzazioni*** 
+4. [***Visualizzazioni***]() 
 
 
    - Time series plots with `matplotlib`/`seaborn`  
@@ -157,7 +157,7 @@ Lettura del foglio di calcolo utilizzando `pandas` e validazione dei formati.
 
 <br>
 
-[5](). ***Esportazione del Report***  
+5. [***Esportazione del Report***]()  
 
 Generazione automatica di report in PDF con dati rilevanti, grafici e previsioni.
 
