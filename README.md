@@ -124,13 +124,15 @@ A **simulated dataset** was used, containing daily records with the following va
 
 ## [Methodology and Steps]():
 
-<br>
+<br><br>
 
 [1](). **Data import and visualization**  
 
 Reading the spreadsheet using `pandas` and validating formats.
 
-<br>
+
+<br><br>
+
 
 [2](). ***Preprocessing***  
    
@@ -138,14 +140,18 @@ Reading the spreadsheet using `pandas` and validating formats.
    - Creating the `OrdinalDay` variable for modeling  
    - Calculating average consumption per activation per room  
    - Simulating solar generation and projecting future consumption
+     
 
-<br>
+<br><br>
+
 
 [3](). ***Predictive Modeling***
 
 A **Linear Regression** model was trained to estimate consumption (`KW/H`) based on total room activations. It also includes next-day prediction.
 
+
 <br>
+
 
 [4](). ***Visualizations*** 
    
@@ -154,13 +160,17 @@ A **Linear Regression** model was trained to estimate consumption (`KW/H`) based
    - Activation patterns by cluster  
    - Interactive dashboard using Streamlit for real-time monitoring (optional)
 
-<br>
+
+<br><br>
+
 
 [5](). ***Report Export***  
 
 Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
-<br>
+
+<br><br>
+
 
 ## [Results]():
 
