@@ -153,7 +153,7 @@ A **simulated dataset** was used, containing daily records with the following va
 <br>
 
 
-[4](). ***Visualizations*** 
+4. [***Visualizations***]() 
    
    - Time series plots with `matplotlib`/`seaborn`  
    - Ranking of rooms with highest consumption  
@@ -161,15 +161,15 @@ A **simulated dataset** was used, containing daily records with the following va
    - Interactive dashboard using Streamlit for real-time monitoring (optional)
 
 
-<br><br>
+<br>
 
 
-[5](). ***Report Export***  
+5. [***Report Export***]()  
 
-Automatic generation of PDF reports with relevant data, charts, and forecasts.
+   Automatic generation of PDF reports with relevant data, charts, and forecasts.
 
 
-<br><br>
+<br>
 
 
 ## [Results]():
