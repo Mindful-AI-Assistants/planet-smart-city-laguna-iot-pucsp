@@ -124,9 +124,9 @@ A **simulated dataset** was used, containing daily records with the following va
 
 ## [Methodology and Steps]():
 
-<br><br>
+<br>
 
-[1](). **Data import and visualization**  
+1.[ **Data import and visualization**]()  
 
 Reading the spreadsheet using `pandas` and validating formats.
 
