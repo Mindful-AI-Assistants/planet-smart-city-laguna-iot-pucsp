@@ -127,14 +127,13 @@ Sviluppare una soluzione basata su scienza dei dati e intelligenza artificiale p
 
 <br>
 
-[1](). **Importazione e visualizzazione dei dati**  
+1. [**Importazione e visualizzazione dei dati**]()  
 
 Lettura del foglio di calcolo utilizzando `pandas` e validazione dei formati.
 
 <br>
 
-[2](). ***Preprocessing***  
-   
+2. [***Preprocessing***]()   
    - Conversione della colonna `Date` nel formato `datetime`  
    - Creazione della variabile `OrdinalDay` per la modellazione  
    - Calcolo del consumo medio per attivazione per stanza  
