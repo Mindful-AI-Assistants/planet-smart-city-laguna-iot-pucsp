@@ -126,9 +126,9 @@ A **simulated dataset** was used, containing daily records with the following va
 
 <br>
 
-1.[***Data import and visualization***]()  
+1.  [***Data import and visualization***]()  
 
-Reading the spreadsheet using `pandas` and validating formats.
+    Reading the spreadsheet using `pandas` and validating formats.
 
 
 <br>
@@ -145,9 +145,9 @@ Reading the spreadsheet using `pandas` and validating formats.
 <br>
 
 
-[3](). ***Predictive Modeling***
+3. [***Predictive Modeling***]()
 
-A **Linear Regression** model was trained to estimate consumption (`KW/H`) based on total room activations. It also includes next-day prediction.
+   A **Linear Regression** model was trained to estimate consumption (`KW/H`) based on total room activations. It also includes next-day prediction.
 
 
 <br>
