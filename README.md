@@ -126,15 +126,15 @@ A **simulated dataset** was used, containing daily records with the following va
 
 <br>
 
-1.[ **Data import and visualization**]()  
+1.[***Data import and visualization***]()  
 
 Reading the spreadsheet using `pandas` and validating formats.
 
 
-<br><br>
+<br>
 
 
-[2](). ***Preprocessing***  
+2. [***Preprocessing***]()  
    
    - Converting the `Date` column to `datetime` format  
    - Creating the `OrdinalDay` variable for modeling  
@@ -142,7 +142,7 @@ Reading the spreadsheet using `pandas` and validating formats.
    - Simulating solar generation and projecting future consumption
      
 
-<br><br>
+<br>
 
 
 [3](). ***Predictive Modeling***
