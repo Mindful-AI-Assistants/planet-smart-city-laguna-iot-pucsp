@@ -33,7 +33,7 @@
 https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 
 
-#### 📺 [Guarda in Full HD su YouTube](https://youtu.be/WmtFxV5G8Fg)
+#### 📺 [Assista em Full HD su YouTube](https://youtu.be/WmtFxV5G8Fg)
 
 
 <br><br><br>
