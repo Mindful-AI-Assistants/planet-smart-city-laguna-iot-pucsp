@@ -33,7 +33,21 @@ https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095
 #### 📺 [Watch in Full HD on YouTube](https://youtu.be/cgW4ql2XQgo?si=clGglP8HF_zz3xc8)
 
 
-<br><br><br>
+
+<br><br>
+
+## ⚠️ [Important Notes]()
+
+
+- [Whenever possible](), projects and deliverables developed during the course will be made [publicly accessible]().
+
+- The course emphasizes [**practical, hands-on experience**]() with real datasets to emulate professional consulting scenarios in the field.
+
+- All activities and materials will strictly adhere to the [**academic and ethical guidelines of PUC-SP**](). Any content not authorized for public disclosure will remain [**confidential**]() and stored in [private repositories]().
+
+
+<br><br>
+
 
 
 #### <p align="center"><em> Explore the [Simulator]() and support the Smart Cities AI project </em></p>
