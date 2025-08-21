@@ -35,7 +35,31 @@ https://github.com/user-attachments/assets/3d79a4f6-4e1c-4645-b194-e30869c4f086
 #### 📺 [Guarda in Full HD su YouTube](https://www.youtube.com/watch?v=h_9gqAqu1SY)
 
 
+Perfeito ✅ Segue a versão em **italiano formal (jurídico/acadêmico)** mantendo a mesma estrutura:
+
+
+<br><br>
+
+#
+
+ <!--Dichiarazione di Riservatezza -->
+
+
+### ⚠️ Avvertenze Importanti  
+
+* I progetti e i deliverable saranno resi [pubblicamente disponibili]() solo quando appropriato e consentito.  
+
+* Il corso pone enfasi sull’[**apprendimento pratico**]() attraverso l’utilizzo di dati reali in contesti professionali di consulenza.  
+
+* Tutte le attività e i materiali sono conformi alle [**linee guida accademiche ed etiche della PUC-SP**]().  
+
+* Qualsiasi [**informazione riservata**]() relativa a questo repository resterà strettamente privata e archiviata in [repository privati](), in piena osservanza dei requisiti di riservatezza.  
+
+#
+
+
 <br><br><br>
+
 
 
 #### <p align="center"><em> Esplora il [Simulatore]() e supporta il progetto di IA per le Città Intelligenti </em></p>
