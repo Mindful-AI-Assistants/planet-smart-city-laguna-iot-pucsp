@@ -35,9 +35,6 @@ https://github.com/user-attachments/assets/3d79a4f6-4e1c-4645-b194-e30869c4f086
 #### 📺 [Guarda in Full HD su YouTube](https://www.youtube.com/watch?v=h_9gqAqu1SY)
 
 
-Perfeito ✅ Segue a versão em **italiano formal (jurídico/acadêmico)** mantendo a mesma estrutura:
-
-
 <br><br>
 
 #
@@ -66,9 +63,8 @@ Perfeito ✅ Segue a versão em **italiano formal (jurídico/acadêmico)** mante
 
 <br>
 
-### <p align="center"> [⇩]()💦
 
-
+### <p align="center"> [⇩]()💦 
 
 <br>
 
@@ -82,7 +78,10 @@ Perfeito ✅ Segue a versão em **italiano formal (jurídico/acadêmico)** mante
 </p>
 
 
+
 <br><br><br>
+
+
 
 ## 🌐 [Panoramica del Progetto]():
 
