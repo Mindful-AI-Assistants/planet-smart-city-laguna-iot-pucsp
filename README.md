@@ -4,7 +4,7 @@
 <br><br><br>
 
 ## <p align="center"> [CDIA Nexus PUC-SP](): Innovation Hub for Smart Water and Energy Solutions ⚡  Smart City Laguna [IoT](), Fortaleza, Brazil 
-#### <p align="center"> ***Project for monitoring, forecasting, and optimizing energy consumption in a smart home, using [IoT]() and [AI](). Developed in the context of [Smart City Laguna]() – CDIA PUC-SP***.
+##### <p align="center"> ***Project for monitoring, forecasting, and optimizing energy consumption in a smart home, using [IoT]() and [AI](). Developed in the context of [Smart City Laguna]() – CDIA PUC-SP***.
 
   <br><br>
  
@@ -19,7 +19,7 @@
 <br><br>
 
 
-#### <p align="center"> ***In collaboration with [Planet]() Smart City, [PUC-SP]() - Data Science & AI, [UN]() Sustainable Development Goals (SDGs), [Starlink]() and [Proptech]() Brazil***
+### <p align="center"> ***In collaboration with [Planet]() Smart City, [PUC-SP]() - Data Science & AI, [UN]() Sustainable Development Goals (SDGs), [Starlink]() and [Proptech]() Brazil***
 
 
  <br><br>
