@@ -40,19 +40,29 @@ https://github.com/user-attachments/assets/bb4652e1-8b0e-455c-a2ae-ba81e39a9095
  <!--Confidentiality statement -->
 
 
-### ⚠️ Heads Up 
 
-* Projects and deliverables may be made [publicly available]() whenever possible.
+<br><br>
 
-* The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
 
-* All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+> [!IMPORTANT]
+>
+> ⚠️ Heads Up 
+>
+>  * Projects and deliverables will be made [publicly available]() only when appropriate and authorized.  
+>
+>  * The course emphasizes [**hands-on learning**]() through the use of real data in professional consulting contexts. 
+>
+>  * All activities and materials will fully comply with the [**academic and ethical guidelines of PUC-SP**]().  
+>
+>  * Any [**confidential information**]() related to this repository will remain strictly private and stored in [private repositories](), in full compliance with confidentiality requirements.  
+>
+>
 
-* [**Confidential information**]() from this repository remains private in [private repositories]().
-
-#
+#  
 
 <br><br><br>
+
+
 
 
 
