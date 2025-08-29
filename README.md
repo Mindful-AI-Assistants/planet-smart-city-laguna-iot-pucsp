@@ -19,7 +19,7 @@
 <br><br>
 
 
-### <p align="center"> ***In collaboration with [Planet]() Smart City, [PUC-SP]() - Data Science & AI, [UN]() Sustainable Development Goals (SDGs), [Starlink]() and [Proptech]() Brazil***
+### <p align="center"> *In collaboration with [Planet]() Smart City, [PUC-SP]() - Data Science & AI, [UN]() Sustainable Development Goals (SDGs), [Starlink]() and [Proptech]() Brazil*
 
 
  <br><br>
