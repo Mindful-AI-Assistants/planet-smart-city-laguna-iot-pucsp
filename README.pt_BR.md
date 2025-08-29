@@ -36,16 +36,20 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 #### 📺 [Assista em Full HD su YouTube](https://youtu.be/WmtFxV5G8Fg)
 
 
+<br><br><br>
 
-
-<br><br>
 
 #
+
+
+<br><br><br>
+
 
  <!--Declaração de Confidencialidade -->
 
 
-
+> [!IMPORTANT]
+> 
 >  ⚠️ Avisos Importantes   
 >
 >  * Os projetos e entregáveis serão disponibilizados [publicamente]() apenas quando apropriado e autorizado.  
@@ -59,7 +63,10 @@ https://github.com/user-attachments/assets/24546329-4480-4f48-9948-b53ba2ec17fb
 > 
 
 
+<br><br><br>
+
 #
+
 
 <br><br><br>
 
