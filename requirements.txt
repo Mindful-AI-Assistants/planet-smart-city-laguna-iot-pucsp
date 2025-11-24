@@ -2,8 +2,11 @@
 
 # Framework Web Application:
 
+
 streamlit==1.50.0
-Django==5.1.7
+Django==5.1.14
+
+
 
 
 # Data Manipulation Libraries:
@@ -11,7 +14,7 @@ numpy==2.2.3
 pandas==2.3.2
 
 # Data Visualization Libraries:
-matplotlib==3.10.1
+matplotlib==3.10.7
 seaborn==0.13.2
 
 # Data Analysis Libraries:
@@ -30,7 +33,7 @@ nltk==3.9.1
 spacy==3.8.7
 
 # Web Scraping Libraries:
-beautifulsoup4==4.13.5
+beautifulsoup4==4.14.2
 requests==2.32.5
 
 # Database Libraries:
