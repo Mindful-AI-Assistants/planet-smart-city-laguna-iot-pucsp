@@ -6,7 +6,7 @@ streamlit==1.50.0
 Django==5.1.15
 
 # Data Manipulation Libraries:
-numpy==2.2.3
+numpy==2.3.5
 pandas==2.3.2
 
 # Data Visualization Libraries:
