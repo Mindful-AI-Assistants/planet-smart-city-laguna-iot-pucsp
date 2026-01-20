@@ -21,9 +21,9 @@ scikit-learn==1.6.1
 
 # Machine Learning Libraries:
 tensorflow==2.20.0
-keras==3.12.0
+keras==3.13.1
 tensorflow==2.20.0
-keras==3.12.0
+keras==3.13.1
 
 
 # Natural Language Processing Libraries:
@@ -31,7 +31,7 @@ nltk==3.9.2
 spacy==3.8.11
 
 # Web Scraping Libraries:
-beautifulsoup4==4.14.2
+beautifulsoup4==4.14.3
 requests==2.32.5
 
 # Database Libraries:
@@ -40,8 +40,9 @@ psycopg2-binary==2.9.10
 
 # Jupyter Notebook Libraries:
 jupyter==1.1.1
-notebook==7.4.7
 ipywidgets==8.1.8
+notebook==7.5.1
+
 
 # Other Useful Libraries:
 joblib==1.5.2
