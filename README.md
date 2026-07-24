@@ -19,9 +19,8 @@
 <br><br>
 
 
-### <p align="center"> *Developed in collaboration with [United Nations Human Settlements Programme (UN-Habitat)](), [Starlink](), [Planet Smart City](), [Proptech Brazil](), and the Center for Data Science & Artificial Intelligence at [PUC-SP](), aligned with the United Nations Sustainable Development Goals (SDGs).*
-
-
+### <p align="center">*Developed in collaboration with [United Nations Human Settlements Programme (UN-Habitat)](), [Starlink](), [Planet Smart City](), [Proptech Brazil](), and the Center for Data Science & Artificial Intelligence at [PUC-SP](), aligned with the United Nations Sustainable Development Goals (SDGs). This AI-powered Smart City platform leverages AI, IoT, and data-driven intelligence to optimize sustainable urban water and energy systems.*
+ 
  <br><br>
 
  
