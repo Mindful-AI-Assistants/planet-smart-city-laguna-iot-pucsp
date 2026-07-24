@@ -19,7 +19,7 @@
 <br><br>
 
 
-### <p align="center"> *In collaboration with [Planet Smart City]() , Data Science & AI - [PUC-SP]() , [UN]() Sustainable Development Goals (SDGs), [Starlink]() and [Proptech]() Brazil*
+### <p align="center"> *Developed in collaboration with [United Nations Human Settlements Programme (UN-Habitat)](), [Starlink](), [Planet Smart City](), [Proptech Brazil](), and the Center for Data Science & Artificial Intelligence at [PUC-SP](), aligned with the United Nations Sustainable Development Goals (SDGs).*
 
 
  <br><br>
